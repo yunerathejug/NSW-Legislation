@@ -1,0 +1,1532 @@
+                                                                              Second print
+
+
+
+
+                                      New South Wales
+
+
+
+
+Local Jobs First Bill 2026
+Contents
+                                                                                     Page
+
+Part 1          Preliminary
+                 1    Name of Act                                                       2
+                 2    Commencement                                                      2
+                 3    Definitions                                                       2
+                 4    Application of Act                                                2
+                 5    Act to bind Crown                                                 2
+
+Part 2          Local Jobs First Commissioner
+                Division 1     Appointment of Local Jobs First Commissioner
+                 6    Appointment of Commissioner                                       3
+                 7    Vacancy in office of Commissioner                                 3
+                 8    Acting Commissioner                                               3
+
+                Division 2     Functions of Local Jobs First Commissioner
+                 9    Functions of Commissioner                                         4
+
+                Division 3     Miscellaneous
+                10    Staff                                                             5
+                11    Delegation                                                        5
+                12    Annual report                                                     5
+
+
+
+b2024-126.d74
+Local Jobs First Bill 2026 [NSW]
+Contents
+
+                                                                                      Page
+
+
+Part 3        Local Jobs First Advisory Board
+              13     Local Jobs First Advisory Board                                    6
+              14     Functions of Advisory Board                                        6
+              15     Industry reference groups                                          7
+
+Part 4        Local procurement policy and plans
+              16     Definitions                                                        8
+              17     Procurement Minister must issue local procurement policy           8
+              18     Future skills guarantee                                            9
+              19     Suppliers to have local procurement plan                           9
+              20     Decisions by Procurement Minister                                  9
+              21     Authorisations by Procurement Minister                            10
+              22     Authorisations by government agency heads                         10
+              23     Procurement for emergencies                                       11
+              24     Regulations in relation to local procurement policy               11
+
+Part 5        Compliance with local procurement policy and plans
+              Division 1       Reporting and disclosure of information
+              25     Commissioner may require information from government agencies     13
+              26     Personal information                                              13
+
+              Division 2       Non-compliance by suppliers
+              27     Definition                                                        13
+              28     Application of division                                           13
+              29     Government agency to notify Commissioner                          13
+              30     Performance management process                                    13
+              31     Commissioner may decide supplier is non-compliant                 14
+
+              Division 3       Miscellaneous
+              32     Notification of non-compliant government agencies                 14
+
+Part 6        Miscellaneous
+              33     Exclusion of personal liability                                   16
+              34     No compensation for certain actions under Act                     16
+              35     Disclosure of information                                         16
+              36     Regulations                                                       16
+              37     Review of Act                                                     17
+Schedule 1           Local Jobs First Advisory Board                                   18
+Schedule 2           Savings, transitional and other provisions                        19
+Schedule 3           Amendment of Defamation Act 2005 No 77                            20
+Schedule 4           Amendment of Public Works and Procurement Act 1912 No 45          21
+Schedule 5           Amendment of Statutory and Other Offices Remuneration Act 1975
+                     (1976 No 4)                                                       26
+Schedule 6           Dictionary                                                        27
+
+
+
+
+Page 2
+This PUBLIC BILL, originated in the LEGISLATIVE COUNCIL and, having this day passed,
+is now ready for presentation to the LEGISLATIVE ASSEMBLY for its concurrence.
+
+
+
+
+                                                                      Clerk of the Parliaments
+Legislative Council
+
+
+
+
+                                    New South Wales
+
+
+
+
+Local Jobs First Bill 2026
+
+No        , 2026
+
+
+A Bill for
+An Act to establish the office of the Local Jobs First Commissioner and to make further provision
+about the procurement of goods and services by government agencies; to amend the Public Works
+and Procurement Act 1912 to make provision about the debarment of suppliers and other
+consequential matters; and for related purposes.
+
+
+
+
+The LEGISLATIVE ASSEMBLY has this day agreed to this Bill with/without amendment.
+
+
+
+                                                             Clerk of the Legislative Assembly
+Legislative Assembly
+Local Jobs First Bill 2026 [NSW]
+Part 1 Preliminary
+
+
+
+The Legislature of New South Wales enacts—                                                                    1
+
+
+Part 1         Preliminary                                                                                    2
+
+  1    Name of Act                                                                                            3
+
+               This Act is the Local Jobs First Act 2026.                                                     4
+
+  2    Commencement                                                                                           5
+
+               This Act commences as follows—                                                                 6
+               (a) for Parts 4 and 5, Divisions 2 and 3 and Schedule 4.2—on a day or days to be               7
+                     appointed by proclamation,                                                               8
+               (b) otherwise—on the date of assent to this Act.                                               9
+
+  3    Definitions                                                                                           10
+
+         (1)   The dictionary in Schedule 6 defines words used in this Act.                                  11
+
+         (2)   In this Act, a reference to the value of a procurement includes an estimated value of         12
+               the procurement, calculated in accordance with the regulations.                               13
+               Note— The Interpretation Act 1987 contains definitions and other provisions that affect the   14
+               interpretation and application of this Act.                                                   15
+
+  4    Application of Act                                                                                    16
+
+         (1)   This Act applies to the procurement of goods and services by or for a government              17
+               agency to which the Public Works and Procurement Act 1912, Part 11 applies.                   18
+
+         (2)   However, this Act does not apply to the following—                                            19
+               (a) procurement carried out by or for a person or body if carried out in one or more          20
+                   of the following ways—                                                                    21
+                     (i) in the exercise of a function under the Electricity Infrastructure                  22
+                           Investment Act 2020,                                                              23
+                    (ii) in accordance with a direction or authorisation under that Act,                     24
+               (b) procurement in relation to renewable energy infrastructure prescribed by the              25
+                   regulations.                                                                              26
+
+         (3)   The Minister must not recommend the making of a regulation under subsection (2)(b)            27
+               without the concurrence of the following—                                                     28
+               (a) the Premier,                                                                              29
+               (b) the Procurement Minister,                                                                 30
+               (c) the Minister administering the Electricity Infrastructure Investment Act 2020.            31
+
+  5    Act to bind Crown                                                                                     32
+
+               This Act binds the Crown in right of New South Wales and, to the extent the                   33
+               legislative power of the Parliament of New South Wales permits, the Crown in all its          34
+               other capacities.                                                                             35
+
+
+
+
+Page 2
+Local Jobs First Bill 2026 [NSW]
+Part 2 Local Jobs First Commissioner
+
+
+
+Part 2         Local Jobs First Commissioner                                                          1
+
+
+Division 1           Appointment of Local Jobs First Commissioner                                     2
+
+  6   Appointment of Commissioner                                                                     3
+
+         (1)   The Governor may appoint a Local Jobs First Commissioner (the Commissioner).           4
+
+         (2)   The Commissioner holds office for the term, not more than 5 years, specified in the    5
+               instrument of appointment, but is eligible for reappointment.                          6
+
+         (3)   A person is not eligible to be appointed for more than 2 terms of office as            7
+               Commissioner, whether or not the terms are consecutive terms.                          8
+
+         (4)   The Commissioner is entitled to be paid—                                               9
+               (a) remuneration in accordance with the Statutory and Other Offices                   10
+                    Remuneration Act 1975, and                                                       11
+               (b) travelling and subsistence allowances the Minister may decide from time to        12
+                    time.                                                                            13
+
+         (5)   The Commissioner is subject to the control and direction of the Minister.             14
+
+         (6)   Subsection (5) does not apply for the following purposes—                             15
+               (a) the Commissioner advising the Procurement Board under section 9(1)(h),            16
+               (b) the Commissioner giving a recommendation to the Procurement Minister              17
+                    under section 20(2),                                                             18
+               (c) the Commissioner giving advice or making recommendations to the Minister.         19
+
+  7   Vacancy in office of Commissioner                                                              20
+
+               The office of Commissioner becomes vacant if the Commissioner—                        21
+               (a) dies, or                                                                          22
+               (b) completes a term of office and is not reappointed, or                             23
+               (c) resigns from office by notice to the Minister, or                                 24
+               (d) is removed from office by the Governor under the Government Sector                25
+                     Employment Act 2013, Part 6, or                                                 26
+               (e) becomes personally insolvent, or                                                  27
+                (f) becomes a mentally incapacitated person, or                                      28
+               (g) is convicted—                                                                     29
+                      (i) in New South Wales of an offence punishable by imprisonment for 12         30
+                            months or more, or                                                       31
+                     (ii) elsewhere of an offence that, if committed in New South Wales, would       32
+                            be an offence punishable by imprisonment for 12 months or more, or       33
+               (h) is imprisoned in relation to a conviction for an offence—                         34
+                      (i) in New South Wales, or                                                     35
+                     (ii) elsewhere than in New South Wales that, if committed in New South          36
+                            Wales, would be an offence punishable by imprisonment.                   37
+
+  8   Acting Commissioner                                                                            38
+
+         (1)   The Minister may appoint a person to act as Commissioner during—                      39
+               (a) the illness or absence of the Commissioner, or                                    40
+               (b) a vacancy in the office of Commissioner.                                          41
+
+
+
+
+Page 3
+Local Jobs First Bill 2026 [NSW]
+Part 2 Local Jobs First Commissioner
+
+
+
+         (2)   A person acting as Commissioner—                                                      1
+               (a) has and may exercise the Commissioner’s functions, and                            2
+               (b) is taken to be the Commissioner.                                                  3
+
+         (3)   The Minister may, at any time, remove a person from office as acting Commissioner.    4
+
+         (4)   An acting Commissioner is entitled to be paid the same remuneration and allowances    5
+               as the Commissioner.                                                                  6
+
+Division 2           Functions of Local Jobs First Commissioner                                      7
+
+  9   Functions of Commissioner                                                                      8
+
+         (1)   The Commissioner has the following functions—                                         9
+               (a) to promote the use of locally produced goods and services in NSW                 10
+                    Government procurement,                                                         11
+               (b) to promote the employment and development of local workers, including            12
+                    learning workers, through NSW Government procurement,                           13
+               (c) to promote the participation of local manufacturers and small and medium         14
+                    businesses in NSW Government procurement,                                       15
+               (d) to promote the employment and development of regional workers through, and       16
+                    the participation of regional manufacturers and regional small and medium       17
+                    businesses in, NSW Government procurement,                                      18
+               (e) to advise and build capability of government agencies in relation to the         19
+                    procurement of locally produced goods and services,                             20
+                (f) to promote lawful and ethical practices by suppliers in the supply chain for    21
+                    NSW Government procurement,                                                     22
+               (g) to recognise suppliers and agencies that demonstrate excellence and              23
+                    commitment in promoting the objectives of the local procurement policy,         24
+               (h) to advise the Procurement Board on government agency compliance with the         25
+                    local procurement policy,                                                       26
+                (i) to promote, monitor and report on the implementation of the local               27
+                    procurement policy,                                                             28
+                (j) to engage with the Procurement Board and government agencies to monitor         29
+                    supplier compliance with local procurement plans,                               30
+               (k) to consult with the Procurement Board in relation to the local procurement       31
+                    policy,                                                                         32
+                (l) to consult, engage and receive information from government agencies and         33
+                    other persons or bodies the Commissioner considers appropriate in relation to   34
+                    the Commissioner’s functions under this Act,                                    35
+                     Examples— the TAFE Commission, the Small Business Commissioner and the         36
+                     Anti-slavery Commissioner                                                      37
+               (m)   other functions conferred or imposed on the Commissioner by or under this      38
+                     Act or the regulations.                                                        39
+
+         (2)   The Commissioner must regularly consult with the Procurement Board in relation to    40
+               the following—                                                                       41
+                (a) the interaction of the Procurement Board’s functions and the Commissioner’s     42
+                      functions,                                                                    43
+               (b) the implementation of the local procurement policy,                              44
+                (c) compliance by government agencies with the local procurement policy,            45
+
+
+
+
+Page 4
+Local Jobs First Bill 2026 [NSW]
+Part 2 Local Jobs First Commissioner
+
+
+
+               (d)   compliance by suppliers with local procurement plans.                               1
+
+Division 3           Miscellaneous                                                                       2
+
+10    Staff                                                                                              3
+
+               Persons may be employed in the Public Service to enable the Commissioner to               4
+               exercise the Commissioner’s functions.                                                    5
+               Note— The Government Sector Employment Act 2013, section 59 provides that the persons     6
+               employed for the Commissioner, or whose services the Commissioner makes use of, may be    7
+               referred to as officers or employees, or members of staff, of the Commissioner. The       8
+               Constitution Act 1902, section 47A precludes the Commissioner from employing staff.       9
+
+11    Delegation                                                                                        10
+
+               The Commissioner may delegate the Commissioner’s functions under this Act, other         11
+               than this power of delegation, to the following—                                         12
+                (a) a member of staff of the Commissioner,                                              13
+               (b) a person prescribed by the regulations.                                              14
+
+12    Annual report                                                                                     15
+
+         (1)   The Commissioner must, before 1 November in each year, give the Minister an              16
+               annual report for the previous financial year that includes information about—           17
+               (a) the activities undertaken by the Commissioner in the exercise of the                 18
+                     Commissioner’s functions during the previous financial year, and                   19
+               (b) progress towards the objectives of the local procurement policy, and                 20
+               (c) suppliers the Commissioner has decided are non-compliant, and                        21
+               (d) authorisations and decisions by the Procurement Minister,                            22
+               (e) authorisations given by government agency heads,                                     23
+                (f) other matters prescribed by the regulations.                                        24
+
+         (2)   The Minister must, as soon as practicable after receiving an annual report, ensure a     25
+               copy of the report is tabled in both Houses of Parliament.                               26
+
+
+
+
+Page 5
+Local Jobs First Bill 2026 [NSW]
+Part 3 Local Jobs First Advisory Board
+
+
+
+Part 3         Local Jobs First Advisory Board                                                         1
+
+13    Local Jobs First Advisory Board                                                                  2
+
+         (1)   The Minister may establish a Local Jobs First Advisory Board (the Advisory Board).      3
+
+         (2)   The Advisory Board must consist of the Commissioner and not more than 8 other           4
+               members appointed by the Minister, comprising—                                          5
+               (a) not more than 3 members who are nominated by a peak employee                        6
+                    organisation,                                                                      7
+               (b) not more than 3 members who, in the Minister’s opinion, represent employer          8
+                    organisations, and                                                                 9
+               (c) not more than 2 members who, in the Minister’s opinion, have skills,               10
+                    qualifications and experience relevant to the Advisory Board’s functions.         11
+
+         (3)   In appointing members to the Advisory Board, the Minister must—                        12
+                (a) ensure the Advisory Board has the same number of members appointed under          13
+                     subsection (2)(a) and (b), and                                                   14
+               (b) not appoint a member under subsection 2(a), (b) or (c) who, in the Minister’s      15
+                     opinion, represents a government sector agency within the meaning of the         16
+                     Government Sector Employment Act 2013, and                                       17
+                (c) consider the need for the members of the Advisory Board to together have          18
+                     skills, qualifications and experience relevant to the Advisory Board’s           19
+                     functions.                                                                       20
+
+         (4)   The Commissioner is the chairperson of the Advisory Board.                             21
+
+         (5)   The procedure of the Advisory Board must be decided by the Commissioner,               22
+               including—                                                                             23
+                (a) the calling of meetings, and                                                      24
+               (b) the conduct of business at the meetings, and                                       25
+                (c) the disclosure of pecuniary interests.                                            26
+
+         (6)   Schedule 1 contains provisions relating to the members of the Advisory Board.          27
+
+         (7)   In this section—                                                                       28
+               employer organisations means the following—                                            29
+                (a) an industrial organisation of employers within the meaning of the Industrial      30
+                      Relations Act 1996,                                                             31
+               (b) an association of employers registered as an organisation under the Fair Work      32
+                      (Registered Organisations) Act 2009 of the Commonwealth,                        33
+                (c) a State peak council within the meaning of the Industrial Relations Act 1996,     34
+                      section 216,                                                                    35
+               (d) another organisation representing an industry.                                     36
+               peak employee organisation means a State peak council within the meaning of the        37
+               Industrial Relations Act 1996, section 215.                                            38
+
+14    Functions of Advisory Board                                                                     39
+
+               The functions of the Advisory Board are to—                                            40
+               (a) advise the Minister on the following matters—                                      41
+                      (i) policies and initiatives to promote the use of locally produced goods and   42
+                           services in NSW Government procurement,                                    43
+
+
+
+
+Page 6
+Local Jobs First Bill 2026 [NSW]
+Part 3 Local Jobs First Advisory Board
+
+
+
+                     (ii)   policies and initiatives to promote employment and development of         1
+                            local workers, including learning workers, in NSW Government              2
+                            procurement,                                                              3
+                    (iii) policies and initiatives to promote the participation of local              4
+                            manufacturers and small and medium businesses in NSW Government           5
+                            procurement,                                                              6
+                    (iv) policies and initiatives to promote the employment, retention and skills     7
+                            of regional workers through, and the participation of regional            8
+                            manufacturers and regional small and medium businesses in, NSW            9
+                            Government procurement,                                                  10
+                     (v) the implementation and effectiveness of the local procurement policy,       11
+                    (vi) priorities and concerns of local suppliers relating to NSW Government       12
+                            procurement,                                                             13
+                   (vii) ways to increase the competitiveness of local suppliers in NSW              14
+                            Government procurement,                                                  15
+                  (viii) lawful and ethical conduct by suppliers and others in the supply chain      16
+                            for NSW Government procurement,                                          17
+                    (ix) other matters directed by the Minister, and                                 18
+               (b) advise the Procurement Board on the Procurement Board’s directions and            19
+                     policies relating to the matters under paragraph (a), whether proposed or       20
+                     otherwise, and                                                                  21
+               (c) engage with industry and employee organisations to further the objectives of      22
+                     this Act.                                                                       23
+
+15    Industry reference groups                                                                      24
+
+         (1)   The Minister may establish industry reference groups to give advice to the Advisory   25
+               Board in relation to the exercise of the Advisory Board’s functions.                  26
+
+         (2)   The members of an industry reference group must be appointed by the Minister on       27
+               the recommendation of the Advisory Board.                                             28
+
+         (3)   If the Minister establishes an industry reference group, the Minister must issue a    29
+               charter to the industry reference group that outlines—                                30
+                (a) the group’s terms of reference and the way in which the group must operate,      31
+                      and                                                                            32
+               (b) any requirements for the group to report to the Minister or the Advisory Board.   33
+
+         (4)   The Minister may abolish an industry reference group.                                 34
+
+
+
+
+Page 7
+Local Jobs First Bill 2026 [NSW]
+Part 4 Local procurement policy and plans
+
+
+
+Part 4         Local procurement policy and plans                                                        1
+Note— A government agency must comply with the local procurement policy in accordance with the Public    2
+Works Act 1912, section 176(1)(a1).                                                                      3
+
+16    Definitions                                                                                        4
+
+               In this part—                                                                             5
+               future skills guarantee—see section 18(1).                                                6
+               local procurement plan—see section 19(1)(a).                                              7
+               local procurement policy—see section 17(1).                                               8
+
+17    Procurement Minister must issue local procurement policy                                           9
+
+         (1)   The Procurement Minister must issue a policy (a local procurement policy) in             10
+               accordance with the regulations that sets out the expectations and requirements for      11
+               NSW Government procurement in relation to—                                               12
+               (a) the procurement of locally produced goods and services, and                          13
+               (b) the employment of local workers, including learning workers, on projects             14
+                     involving NSW Government procurement.                                              15
+
+         (2)   The objectives of the local procurement policy are as follows—                           16
+               (a) to promote the use of locally produced goods and services in NSW                     17
+                     Government procurement,                                                            18
+               (b) to promote the employment and development of local workers, including                19
+                     learning workers, through NSW Government procurement,                              20
+               (c) to promote the participation of local manufacturers and small and medium             21
+                     businesses in NSW Government procurement,                                          22
+               (d) other objectives prescribed by the regulations.                                      23
+
+         (3)   The local procurement policy must include the following requirements—                    24
+               (a) requirements for the provision and use of locally produced goods and services        25
+                     in NSW Government procurement,                                                     26
+               (b) the future skills guarantee,                                                         27
+               (c) requirements to promote the maximisation of the economic, social and                 28
+                     sustainability benefits of NSW Government procurement for the people of            29
+                     New South Wales,                                                                   30
+               (d) requirements to assess the share of value added from the use of locally              31
+                     produced goods and services for the economies of New South Wales and other         32
+                     Australian jurisdictions,                                                          33
+               (e) requirements about monitoring lawful and ethical practices across supply             34
+                     chains and supplier operations relating to NSW Government procurement,             35
+                (f) requirements for government agencies to undertake due diligence on supplier         36
+                     ethical conduct before awarding contracts,                                         37
+               (g) requirements for compliance and reporting requirements for government                38
+                     agencies and suppliers under this Act or the local procurement policy,             39
+               (h) requirements for the submissions of suppliers to address the objectives of the       40
+                     local procurement policy,                                                          41
+                (i) requirements for reporting by government agencies to the Commissioner               42
+                     about compliance by suppliers with local procurement plans,                        43
+                (j) requirements for reporting on compliance by suppliers with local procurement        44
+                     plans,                                                                             45
+
+
+
+
+Page 8
+Local Jobs First Bill 2026 [NSW]
+Part 4 Local procurement policy and plans
+
+
+
+               (k)   requirements the Procurement Minister considers necessary to promote the         1
+                     objectives of the local procurement policy,                                      2
+               (l)   other requirements prescribed by the regulations.                                3
+
+         (4)   The local procurement policy may—                                                      4
+               (a) apply generally or be limited in its application by reference to specified         5
+                     exceptions or factors, or                                                        6
+               (b) apply differently according to factors of a specified kind.                        7
+
+         (5)   A copy of the local procurement policy must be published on a NSW Government           8
+               website.                                                                               9
+
+         (6)   The Procurement Minister may amend the local procurement policy at any time.          10
+
+18    Future skills guarantee                                                                        11
+
+         (1)   The future skills guarantee is a requirement for the employment of learning workers   12
+               on projects involving NSW Government procurement that is in accordance with the       13
+               regulations.                                                                          14
+
+         (2)   The regulations may make provision about—                                             15
+               (a) minimum requirements for the number of learning workers, or classes of            16
+                     learning workers, employed in NSW Government procurement under the              17
+                     future skills guarantee, and                                                    18
+               (b) the value and kind of NSW Government procurement the future skills                19
+                     guarantee applies to.                                                           20
+
+19    Suppliers to have local procurement plan                                                       21
+
+         (1)   A government agency must not enter into a contract with a supplier for NSW            22
+               government procurement of a value or kind prescribed by the regulations unless—       23
+               (a) the supplier has a plan (a local procurement plan) that sets out how the          24
+                     supplier will meet the relevant requirements of the local procurement policy    25
+                     for the supplier, and                                                           26
+               (b) the supplier has given a copy of the local procurement plan to the government     27
+                     agency, and                                                                     28
+               (c) the contract requires compliance with the local procurement plan.                 29
+
+         (2)   This section does not apply to procurement to which the local procurement policy      30
+               does not apply.                                                                       31
+
+         (3)   This section does not prevent a government agency from, in other circumstances,       32
+               requiring a supplier to—                                                              33
+                (a) have a local procurement plan, and                                               34
+               (b) give a copy of the plan to the government agency.                                 35
+
+20    Decisions by Procurement Minister                                                              36
+
+         (1)   The Procurement Minister may decide, by written order, that the local procurement     37
+               policy, or a provision of the local procurement policy, otherwise applies to NSW      38
+               Government procurement specified in the decision.                                     39
+
+         (2)   The Procurement Minister must make the decision only on the recommendation of         40
+               the Commissioner.                                                                     41
+
+         (3)   The Procurement Minister may impose conditions on the decision when making the        42
+               decision or at a later time.                                                          43
+
+         (4)   The order must be published on a NSW Government website.                              44
+
+
+
+Page 9
+Local Jobs First Bill 2026 [NSW]
+Part 4 Local procurement policy and plans
+
+
+
+       (5)   A decision applies despite being inconsistent with another provision of this Act or      1
+             the regulations.                                                                         2
+
+       (6)   The Procurement Minister must not delegate the exercise of a function under this         3
+             section to another person.                                                               4
+
+       (7)   Failure to comply with subsection (4) does not affect the decision.                      5
+
+21    Authorisations by Procurement Minister                                                          6
+
+       (1)   The Procurement Minister may authorise, by written order, that the local                 7
+             procurement policy, or a provision of the local procurement policy, does not apply to    8
+             particular procurements by a government agency.                                          9
+
+       (2)   The Procurement Minister must not make an authorisation unless—                         10
+             (a) the Minister responsible for the government agency has requested the                11
+                   authorisation, and                                                                12
+             (b) the Procurement Minister has—                                                       13
+                    (i) requested the Commissioner give written advice specifying whether, in        14
+                         the Commissioner’s opinion, an authorisation should be given, and           15
+                   (ii) the Procurement Minister has considered the advice given, and                16
+             (c) the Procurement Minister is satisfied exceptional circumstances exist for the       17
+                   authorisation.                                                                    18
+
+       (3)   The Procurement Minister may impose conditions on the authorisation on the              19
+             granting of the authorisation or at a later time.                                       20
+
+       (4)   An authorisation may apply—                                                             21
+             (a) generally or be limited in its application, or                                      22
+             (b) differently according to factors of a specified kind.                               23
+
+       (5)   The order must be published on a NSW Government website.                                24
+
+       (6)   The Procurement Minister must, if the Procurement Minister has made an                  25
+             authorisation inconsistent with the Commissioner’s advice, publish a notice on a        26
+             NSW Government website specifying the reasons why the Commissioner’s advice             27
+             was not followed.                                                                       28
+
+       (7)   A copy of the authorisation must be given to the following—                             29
+             (a) the Commissioner,                                                                   30
+             (b) the Minister responsible for the government agency,                                 31
+             (c) the Minister.                                                                       32
+
+       (8)   The Procurement Minister must not delegate the exercise of a function under this        33
+             section to another person.                                                              34
+
+       (9)   Failure to comply with subsection (7) does not affect the authorisation.                35
+
+22    Authorisations by government agency heads                                                      36
+
+       (1)   The government agency head of a government agency may authorise, by written             37
+             notice, that the local procurement policy, or a provision of the local procurement      38
+             policy, does not apply to NSW Government procurement by the government agency.          39
+
+       (2)   The government agency head must not make an authorisation unless the government         40
+             agency head—                                                                            41
+             (a) has notified the Commissioner at least 10 business days before making the           42
+                   authorisation, and                                                                43
+
+
+
+
+Page 10
+Local Jobs First Bill 2026 [NSW]
+Part 4 Local procurement policy and plans
+
+
+
+             (b)    considered and responded to any advice on the proposed authorisation given       1
+                    by the Commissioner no later than 20 business days after being notified.         2
+
+       (3)   The authorisation—                                                                      3
+             (a) must—                                                                               4
+                    (i) specify the NSW Government procurement to which the authorisation            5
+                         applies, and                                                                6
+                   (ii) specify the reasons that compliance is not feasible, and                     7
+                  (iii) specify conditions, if any, of the authorisation, and                        8
+                  (iv) be made in accordance with the regulations, and                               9
+             (b) may apply—                                                                         10
+                    (i) generally or be limited in its application, or                              11
+                   (ii) differently according to factors of a specified kind.                       12
+
+       (4)   On or before the grant of an authorisation, the government agency head must certify    13
+             that compliance with the local procurement policy, or a provision of the local         14
+             procurement policy, is not feasible in the circumstances as prescribed by the          15
+             regulations.                                                                           16
+
+       (5)   The government agency head may impose conditions on the authorisation on the           17
+             granting of the authorisation.                                                         18
+
+       (6)   The authorisation must be published on a NSW Government website and a copy of          19
+             the authorisation must be given to the Commissioner.                                   20
+
+       (7)   An authorisation does not have effect unless subsection (6) is complied with.          21
+
+       (8)   The government agency head may revoke an authorisation made by the government          22
+             agency head.                                                                           23
+
+       (9)   A government agency head may delegate a function of the government agency head         24
+             under this section to a member of staff of the government agency.                      25
+
+     (10)    The regulations may make provision about authorisations, including specifying the      26
+             NSW Government procurement to which an authorisation may or may not apply.             27
+
+23    Procurement for emergencies                                                                   28
+
+       (1)   The government agency head of a government agency may, in an emergency,                29
+             authorise that the local procurement policy, or a provision of the local procurement   30
+             policy, does not apply to a procurement by the government agency.                      31
+
+       (2)   Immediately after making an authorisation, the government agency head must ensure      32
+             the Commissioner and the Procurement Board are notified of the authorisation.          33
+
+       (3)   The authorisation applies only to NSW Government procurement necessary to meet         34
+             the needs of the emergency.                                                            35
+
+       (4)   A government agency head may delegate the making of an authorisation under this        36
+             section to a member of staff of the government agency.                                 37
+
+24    Regulations in relation to local procurement policy                                           38
+
+             The regulations may make provision about the following—                                39
+             (a) requirements to be included in the local procurement policy, including             40
+                   requirements about local procurement plans,                                      41
+             (b) the evaluation of NSW Government procurement for the local procurement             42
+                   policy, whether the evaluation is by weighting or another methodology,           43
+
+
+
+
+Page 11
+Local Jobs First Bill 2026 [NSW]
+Part 4 Local procurement policy and plans
+
+
+
+             (c)    the circumstances in which the local procurement policy applies or does not    1
+                    apply to NSW Government procurement or government agencies in relation to      2
+                    the value of the procurement,                                                  3
+             (d)    local procurement plans, including the making and amending of local            4
+                    procurement plans,                                                             5
+             (e)    the functions of government agencies in relation to local procurement plans.   6
+
+
+
+
+Page 12
+Local Jobs First Bill 2026 [NSW]
+Part 5 Compliance with local procurement policy and plans
+
+
+
+Part 5       Compliance with local procurement policy and plans                                       1
+
+
+Division 1          Reporting and disclosure of information                                           2
+
+25    Commissioner may require information from government agencies                                   3
+
+       (1)   The Commissioner may require a government agency to give the Commissioner                4
+             information the Commissioner considers necessary for the exercise of the                 5
+             Commissioner’s functions under this Act.                                                 6
+
+       (2)   The government agency must comply with a request made by the Commissioner                7
+             under subsection (1) unless—                                                             8
+             (a) the disclosure of the information could reasonably be expected to have one or        9
+                   more of the effects described in the Government Information (Public Access)       10
+                   Act 2009, section 14, Table, item 2, or                                           11
+             (b) the information is government information described in the Government               12
+                   Information (Public Access) Act 2009, Schedule 1, or                              13
+             (c) the information is excluded information for an agency specified in the              14
+                   Government Information (Public Access) Act 2009, Schedule 2.                      15
+
+       (3)   Information must be provided in accordance with this section despite the Privacy and    16
+             Personal Information Protection Act 1998, but only to the extent that the information   17
+             is relevant to the exercise of a function of the Commissioner under section 9(1)(h),    18
+             (i), (k) and (l).                                                                       19
+
+26    Personal information                                                                           20
+
+             The Commissioner is a public sector agency for the purposes of the Privacy and          21
+             Personal Information Protection Act 1998.                                               22
+
+Division 2          Non-compliance by suppliers                                                      23
+
+27    Definition                                                                                     24
+
+             In this division—                                                                       25
+             performance management process—see section 30(2).                                       26
+
+28    Application of division                                                                        27
+
+             This division applies to a supplier who has prepared and given a local procurement      28
+             plan to a government agency.                                                            29
+
+29    Government agency to notify Commissioner                                                       30
+
+       (1)   A government agency must give written notice to the Commissioner about a supplier       31
+             who is not acting in accordance with a local procurement plan.                          32
+
+       (2)   The notice must be given within 45 business days after the government agency            33
+             becomes aware of the supplier’s conduct.                                                34
+
+30    Performance management process                                                                 35
+
+       (1)   This section applies if the Commissioner suspects a supplier has not acted, or likely   36
+             not acted, in accordance with a local procurement plan.                                 37
+
+       (2)   The Commissioner may, by written notice, require a government agency to carry out       38
+             a process (a performance management process) to manage the supplier’s conduct           39
+             under a contract to which the local procurement plan relates.                           40
+
+
+
+
+Page 13
+Local Jobs First Bill 2026 [NSW]
+Part 5 Compliance with local procurement policy and plans
+
+
+
+       (3)   The notice must specify the time by which the performance management process             1
+             must be completed.                                                                       2
+
+       (4)   The government agency must comply with the notice.                                       3
+
+       (5)   The regulations may make further provision about the performance management              4
+             process, including the following—                                                        5
+             (a) consultation requirements before issuing a notice,                                   6
+             (b) other details that must be included in a notice,                                     7
+             (c) the steps the government agency must take to address the supplier’s conduct,         8
+             (d) the steps the supplier must take to demonstrate compliance with the                  9
+                   performance management process and the local procurement plan,                    10
+             (e) reporting obligations for government agencies about the performance                 11
+                   management process,                                                               12
+              (f) the variation or revocation of a notice,                                           13
+             (g) the circumstances in which the performance management process may be                14
+                   extended or terminated.                                                           15
+
+       (6)   The giving of a notice under this section does not affect the validity of a contract.   16
+
+31    Commissioner may decide supplier is non-compliant                                              17
+
+       (1)   In accordance with the regulations, the Commissioner may, by notice to the supplier,    18
+             decide that a supplier is non-compliant if—                                             19
+              (a) the supplier has not acted, or likely not acted, in accordance with a local        20
+                   procurement plan, and                                                             21
+             (b) the supplier does not comply with a performance management process.                 22
+
+       (2)   The Commissioner must not make a decision that the supplier is non-compliant            23
+             unless—                                                                                 24
+             (a) the government agency has notified the Commissioner the supplier has failed         25
+                   to comply with a performance management process, or                               26
+             (b) the performance management process has ended.                                       27
+
+       (3)   An appeal may be made to the Civil and Administrative Tribunal against a decision       28
+             that a supplier is non-compliant.                                                       29
+
+       (4)   The regulations may make further provision about the following—                         30
+             (a) the steps the Commissioner must take, and the matters the Commissioner must         31
+                   consider, before making a decision, including consultation requirements,          32
+             (b) the factors indicating non-compliance with a performance management                 33
+                   process,                                                                          34
+             (c) the way in which a notice of a decision must be given,                              35
+             (d) the persons the Commissioner must notify after making a decision.                   36
+
+Division 3          Miscellaneous                                                                    37
+
+32    Notification of non-compliant government agencies                                              38
+
+       (1)   The Commissioner may notify the Procurement Board if the Commissioner                   39
+             reasonably believes a government agency has not complied with the government            40
+             agency’s obligations under this Act or the local procurement policy.                    41
+
+       (2)   The Procurement Board must give the Commissioner a written response no later than       42
+             40 business days after receiving a notice under subsection (1).                         43
+
+
+
+Page 14
+Local Jobs First Bill 2026 [NSW]
+Part 5 Compliance with local procurement policy and plans
+
+
+
+       (3)   The response must include the following information—                                1
+             (a) whether the Procurement Board supports the Commissioner’s decision,             2
+                   including the reasons why, and                                                3
+             (b) information about the action the Procurement Board is considering to address    4
+                   the government agency’s non-compliance.                                       5
+
+       (4)   The Commissioner may give the Minister a copy of the response.                      6
+
+       (5)   The Procurement Board must take the action the Procurement Board sees fit for a     7
+             government agency the subject of a notice.                                          8
+
+       (6)   The action taken by the Procurement Board must be in accordance with the            9
+             Procurement Board’s functions under the Public Works and Procurement Act 1912,     10
+             Part 11.                                                                           11
+
+       (7)   If the Commissioner notifies the Procurement Board about a government agency       12
+             under subsection (1), the Commissioner must also notify the government agency      13
+             head of the government agency.                                                     14
+
+
+
+
+Page 15
+Local Jobs First Bill 2026 [NSW]
+Part 6 Miscellaneous
+
+
+
+Part 6        Miscellaneous                                                                           1
+
+33     Exclusion of personal liability                                                                2
+
+       (1)    The Commissioner is not personally subject to liability for anything done—              3
+              (a) in good faith, and                                                                  4
+              (b) for the purpose of exercising a function under this Act.                            5
+
+       (2)    The liability instead attaches to the Crown.                                            6
+
+       (3)    In this section—                                                                        7
+              done includes omitted to be done.                                                       8
+              liability means civil liability and includes action, claim and demand.                  9
+
+34     No compensation for certain actions under Act                                                 10
+
+              A person is not entitled to compensation or remedy for loss or damage as a result of   11
+              the following—                                                                         12
+               (a) the publication of an annual report published by the Commissioner,                13
+              (b) the disclosure of information by a government agency to the Commissioner,          14
+               (c) actions carried out by a government agency in relation to a performance           15
+                     management process,                                                             16
+              (d) a decision by the Commissioner, or a publication of the Commissioner’s             17
+                     decision, that a supplier is non-compliant,                                     18
+               (e) the publication or disclosure about matters published, taken, decided or          19
+                     disclosed under paragraphs (a)–(d).                                             20
+
+35     Disclosure of information                                                                     21
+
+       (1)    A person must not disclose information obtained in connection with the                 22
+              administration or execution of this Act unless the disclosure is made—                 23
+              (a) with the consent of the person from whom the information was obtained, or          24
+              (b) in connection with the administration, execution or enforcement of—                25
+                     (i) this Act, including under Part 5, or                                        26
+                    (ii) the Public Works and Procurement Act 1912, Part 11, or                      27
+              (c) for legal proceedings arising out of this Act or of a report of the legal          28
+                   proceedings, or                                                                   29
+              (d) in accordance with a requirement imposed—                                          30
+                     (i) by the Commissioner under Part 5, or                                        31
+                    (ii) under the Ombudsman Act 1974, or                                            32
+              (e) with another lawful excuse.                                                        33
+              Maximum penalty—50 penalty units.                                                      34
+
+       (2)    Information held by a government agency may be disclosed to the Commissioner in        35
+              accordance with the government agency’s obligations under this Act.                    36
+
+36     Regulations                                                                                   37
+
+       (1)    The Governor may make regulations, not inconsistent with this Act, about a matter      38
+              that is—                                                                               39
+               (a) required or permitted by this Act to be prescribed, or                            40
+              (b) necessary or convenient to be prescribed for carrying out or giving effect to      41
+                     this Act.                                                                       42
+
+
+
+Page 16
+Local Jobs First Bill 2026 [NSW]
+Part 6 Miscellaneous
+
+
+
+       (2)    Without limiting subsection (1), the regulations may make provision about the            1
+              calculation of the value of procurement, or the estimated value of procurement, for      2
+              the purposes of this Act.                                                                3
+
+37     Review of Act                                                                                   4
+
+       (1)    The Standing Committee on Social Issues of the Legislative Council must review this      5
+              Act to decide whether—                                                                   6
+              (a) the policy objectives of the Act remain valid, and                                   7
+              (b) the terms of the Act remain appropriate for securing the objectives,                 8
+              (c) the local procurement policy and local procurement plans have been effective         9
+                    in achieving the objectives of the local procurement policy.                      10
+
+       (2)    The review must be undertaken as soon as practicable after the period of 3 years from   11
+              the commencement of this Act.                                                           12
+
+       (3)    A report on the outcome of the review must be tabled in each House of Parliament        13
+              within 12 months after the commencement of the review.                                  14
+
+
+
+
+Page 17
+Local Jobs First Bill 2026 [NSW]
+Schedule 1 Local Jobs First Advisory Board
+
+
+
+Schedule 1             Local Jobs First Advisory Board                                              1
+
+                                                                                   section 13(6)    2
+
+  1   Definition                                                                                    3
+
+             In this schedule—                                                                      4
+             member means a member of the Advisory Board, other than the Commissioner.              5
+
+  2   Term of office of members                                                                     6
+
+      (1)    A member holds office for the term, not more than 5 years, specified in the            7
+             instrument of appointment.                                                             8
+
+      (2)    A member is eligible, if otherwise qualified, for reappointment, but must not hold     9
+             office for a cumulative period of more than 5 years.                                  10
+
+  3   Remuneration                                                                                 11
+
+             The Minister may decide whether a member is entitled to be paid the remuneration      12
+             decided by the Minister in accordance with the regulations.                           13
+
+  4   Vacancy in office of member                                                                  14
+
+      (1)    The office of a member becomes vacant if the member—                                  15
+             (a) dies, or                                                                          16
+             (b) completes a term of office and is not reappointed, or                             17
+             (c) resigns from office by written notice to the Minister, or                         18
+             (d) is removed from office by the Minister under subsection (2), or                   19
+             (e) is absent from 3 consecutive meetings of the Advisory Board of which              20
+                   reasonable notice has been given to the appointed member, unless the            21
+                   appointed member is—                                                            22
+                    (i) on leave granted by the Minister, or                                       23
+                   (ii) excused by the Minister for having been absent from the meetings, or       24
+              (f) becomes personally insolvent, or                                                 25
+             (g) becomes a mentally incapacitated person, or                                       26
+             (h) is convicted—                                                                     27
+                    (i) in New South Wales of an offence punishable by imprisonment for 12         28
+                          months or more, or                                                       29
+                   (ii) elsewhere of an offence that, if committed in New South Wales, would       30
+                          be an offence punishable by imprisonment for 12 months or more, or       31
+              (i) is imprisoned in relation to a conviction for an offence—                        32
+                    (i) in New South Wales, or                                                     33
+                   (ii) elsewhere than in New South Wales that, if committed in New South          34
+                          Wales, would be an offence punishable by imprisonment.                   35
+
+      (2)    The Minister may remove a member from office.                                         36
+
+
+
+
+Page 18
+Local Jobs First Bill 2026 [NSW]
+Schedule 2 Savings, transitional and other provisions
+
+
+
+Schedule 2              Savings, transitional and other provisions                                       1
+
+
+Part 1       General                                                                                     2
+
+  1   Regulations                                                                                        3
+
+       (1)   The regulations may contain provisions of a savings or transitional nature consequent       4
+             on the commencement of—                                                                     5
+             (a) a provision of this Act, or                                                             6
+             (b) a provision amending this Act.                                                          7
+
+       (2)   A savings or transitional provision consequent on the commencement of a provision           8
+             must not be made more than 2 years after the commencement.                                  9
+
+       (3)   A savings or transitional provision made consequent on the commencement of a               10
+             provision is repealed 2 years after the commencement.                                      11
+
+       (4)   A savings or transitional provision made consequent on the commencement of a               12
+             provision may take effect before the commencement but not before—                          13
+             (a) for a provision of this Act—the date of assent to this Act, or                         14
+             (b) for a provision amending this Act—the date of assent to the amending Act.              15
+
+       (5)   A savings or transitional provision taking effect before the provision’s publication on    16
+             the NSW legislation website does not—                                                      17
+              (a) affect the rights of a person existing before the publication in a way prejudicial    18
+                   to the person, or                                                                    19
+             (b) impose liabilities on a person for anything done or omitted to be done before          20
+                   the publication.                                                                     21
+
+       (6)   In this section—                                                                           22
+             person does not include the State or an authority of the State.                            23
+
+
+Part 2       Provision consequent on enactment of Act                                                   24
+
+  1   Regulations made before 31 December 2026                                                          25
+
+             The Subordinate Legislation Act 1989, Part 2 does not apply to a regulation made           26
+             under this Act if the regulation is made after the date of assent to this Act and before   27
+             31 December 2026.                                                                          28
+
+
+
+
+Page 19
+Local Jobs First Bill 2026 [NSW]
+Schedule 3 Amendment of Defamation Act 2005 No 77
+
+
+
+Schedule 3           Amendment of Defamation Act 2005 No 77                                      1
+
+      Schedule 1 Additional publications to which absolute privilege applies                     2
+
+      Insert at the end of the schedule, with appropriate clause numbering—                      3
+
+            Matters arising under Local Jobs First Act 2026                                      4
+
+                  Without limiting section 27(2)(a)–(c), matter that is published—               5
+                  (a) to or by the Local Jobs First Commissioner or acting Local Jobs First      6
+                       Commissioner in their capacity as the Local Jobs First Commissioner or    7
+                       acting Local Jobs First Commissioner, or                                  8
+                  (b) to a member of staff of the Local Jobs First Commissioner in their         9
+                       capacity as a member, or                                                 10
+                  (c) to a member of staff of a government agency in the administration or      11
+                       execution of the Local Jobs First Act 2026, or                           12
+                  (d) in annual reporting information under the Local Jobs First Act 2026,      13
+                       section 12.                                                              14
+
+            Matters relating to debarment of suppliers under Public Works and                   15
+            Procurement Act 1912                                                                16
+
+                  Without limiting section 27(2)(a)–(c), matter that is published—              17
+                  (a) to or by the NSW Procurement Board, established under the Public          18
+                       Works and Procurement Act 1912, section 164(1), in relation to its       19
+                       functions under that Act, Part 11, Division 6A,                          20
+                  (b) to a member of staff of a government agency in the administration or      21
+                       execution of the Public Works and Procurement Act 1912, Part 11,         22
+                       Division 6A,                                                             23
+                  (c) in accordance with regulations under the Public Works and                 24
+                       Procurement Act 1912, section 176IB(4).                                  25
+
+
+
+
+Page 20
+Local Jobs First Bill 2026 [NSW]
+Schedule 4 Amendment of Public Works and Procurement Act 1912 No 45
+
+
+
+Schedule 4             Amendment of Public Works and Procurement                                     1
+                       Act 1912 No 45                                                                2
+
+
+4.1 Amendments consequent on enactment of Act                                                        3
+
+[1]   Section 162 Definitions                                                                        4
+
+      Omit the definition of government agency head.                                                 5
+
+      Insert instead in alphabetical order—                                                          6
+                    government agency head means—                                                    7
+                    (a) for a government agency that is a Public Service agency—the person           8
+                           who is the head of the Public Service agency within the meaning of the    9
+                           Government Sector Employment Act 2013, or                                10
+                    (b) for another government agency—the person who is the chief executive         11
+                           officer, however described, of the agency or otherwise responsible for   12
+                           the agency’s day-to-day management, but is not the agency’s governing    13
+                           body.                                                                    14
+                    Public Service agency has the same meaning as in the Government Sector          15
+                    Employment Act 2013.                                                            16
+
+[2]   Section 166 Ministerial control                                                               17
+
+      Omit “Government-wide procurement policy” from section 166(2).                                18
+
+      Insert instead “Government procurement policy published by the Minister on a NSW              19
+      Government website”.                                                                          20
+
+[3]   Section 172 Functions of Board                                                                21
+
+      Insert after section 172(1)(g)—                                                               22
+                   (g1) to regularly consult with the Local Jobs First Commissioner, within the     23
+                           meaning of the Local Jobs First Act 2026, on matters specified under     24
+                           that Act, section 9(2),                                                  25
+                   (g2) to engage with the Local Jobs First Advisory Board established under        26
+                           the Local Jobs First Act 2026, section 13 in the administration or       27
+                           execution of that Act by the Local Jobs First Advisory Board,            28
+
+[4]   Section 172(3)                                                                                29
+
+      Omit “Government-wide procurement policies”.                                                  30
+
+      Insert instead “Government procurement policy published by the Minister on a NSW              31
+      Government website”.                                                                          32
+
+[5]   Section 175 Board may issue directions or policies for government agencies                    33
+
+      Insert after section 175(4)—                                                                  34
+
+            (5)   If there is an inconsistency between a policy issued by the Minister and a        35
+                  direction or policy issued by the Board, the policy issued by the Minister        36
+                  prevails to the extent of the inconsistency.                                      37
+
+[6]   Section 176 Obligations of government agencies                                                38
+
+      Insert after section 176(1)(a)—                                                               39
+                    (a1) a Government procurement policy published by the Minister on a NSW         40
+                           Government website as the policy applies to the agency, and              41
+
+
+
+
+Page 21
+Local Jobs First Bill 2026 [NSW]
+Schedule 4 Amendment of Public Works and Procurement Act 1912 No 45
+
+
+
+4.2 Amendments about debarment of suppliers                                                               1
+
+[1]     Section 172 Functions of Board                                                                    2
+
+        Insert “including in relation to the debarment of suppliers under Division 6A,” after             3
+        “government agencies,” in section 172(1)(c).                                                      4
+
+[2]     Section 175 Board may issue directions or policies for government agencies                        5
+
+        Insert after section 175(3)(a1)—                                                                  6
+                      (a2) without limiting paragraph (a), reasonable steps that must be taken by a       7
+                             government agency under sections 176IC and 176IE in relation to a            8
+                             procurement with suppliers, and                                              9
+
+[3]     Part 11, Division 6A                                                                             10
+
+        Insert after Division 6—                                                                         11
+
+        Division 6A         Debarment of suppliers                                                       12
+
+      176IA   Definitions                                                                                13
+
+                     In this division—                                                                   14
+                     authorisation means an authorisation granted by the Board under section             15
+                     176ID.                                                                              16
+                     authority means the following of the State or another jurisdiction—                 17
+                      (a) a court,                                                                       18
+                     (b) a tribunal,                                                                     19
+                      (c) another person or body.                                                        20
+                     conduct includes an act and omission.                                               21
+                     debarment event—see section 176IB(1)(a).                                            22
+                     debarred supplier—see section 176IB(1).                                             23
+                     listed supplier means a debarred supplier included on the list kept in              24
+                     accordance with regulations made under section 176IB(4).                            25
+                     supplier, in relation to a procurement, means a person who provides, or could       26
+                     provide, goods or services to a government agency.                                  27
+
+      176IB   Debarred suppliers                                                                         28
+
+              (1)    A supplier is a debarred supplier if—                                               29
+                     (a) one of the following occurs in relation to the supplier (a debarment            30
+                           event)—                                                                       31
+                            (i) the conviction of the supplier or principal officer for an offence       32
+                                  prescribed by the regulations,                                         33
+                           (ii) a penalty prescribed by the regulations being imposed on the             34
+                                  supplier or principal officer by an authority, other than a penalty    35
+                                  imposed as a result of a conviction referred to in subparagraph (i),   36
+                          (iii) the finding of a kind prescribed by the regulations by an authority      37
+                                  concerning the conduct of the supplier or principal officer,           38
+                          (iv) another adverse event of a kind prescribed by the regulations             39
+                                  concerning the conduct of the supplier or principal officer, or        40
+                     (b) the supplier is a related supplier of a supplier to which a debarment           41
+                           event occurs.                                                                 42
+
+
+
+
+Page 22
+Local Jobs First Bill 2026 [NSW]
+Schedule 4 Amendment of Public Works and Procurement Act 1912 No 45
+
+
+
+            (2)   A supplier stops being a debarred supplier after—                                 1
+                  (a) 5 years from the day on which the debarment event occurs, or                  2
+                  (b) a lesser prescribed period in prescribed circumstances.                       3
+
+            (3)   A supplier stops being a debarred supplier on the day on which a conviction to    4
+                  which the debarment event relates is quashed or set aside.                        5
+
+            (4)   The regulations must provide for matters about the Board keeping and              6
+                  publishing a list in relation to debarred suppliers.                              7
+
+            (5)   The regulations may also provide for the following—                               8
+                  (a) the exemption of a supplier from this section,                                9
+                  (b) the circumstances in which the conduct of a principal officer does not       10
+                        give rise to a debarment event.                                            11
+
+            (6)   In this section—                                                                 12
+                  principal officer, of a supplier, means the following persons—                   13
+                   (a) a director or secretary of a corporation,                                   14
+                  (b) a member of a partnership,                                                   15
+                   (c) a trustee of a trust,                                                       16
+                  (d) a senior manager within the meaning of the Corporations Act 2001 of          17
+                         the Commonwealth.                                                         18
+                  related supplier, of another supplier, means the following—                      19
+                   (a) a supplier controlled by the other supplier,                                20
+                  (b) a related body corporate, within the meaning of the Corporations Act         21
+                         2001 of the Commonwealth, of the other supplier,                          22
+                   (c) a successor of the other supplier.                                          23
+
+   176IC    Government agencies must not contract with listed suppliers                            24
+
+            (1)   A government agency must not enter into a contract for procurement with a        25
+                  listed supplier.                                                                 26
+
+            (2)   A government agency must not extend the term or scope of a contract for          27
+                  procurement with a listed supplier unless the government agency is authorised    28
+                  to extend the term or scope of the contract.                                     29
+
+            (3)   In the procurement of goods or services, a government agency must not deal       30
+                  with a supplier who is an agent or representative of a listed supplier.          31
+
+   176ID    Authorisation for government agencies                                                  32
+
+            (1)   The Board may, subject to the regulations, grant an authorisation to a           33
+                  government agency to extend the term or scope of a contract for procurement      34
+                  with a listed supplier on application by the government agency.                  35
+
+            (2)   The Board must consider an application from a government agency.                 36
+
+            (3)   The Board must not grant an authorisation unless the Board is satisfied the      37
+                  authorisation is necessary—                                                      38
+                  (a) to ensure the delivery of essential services, within the meaning of the      39
+                        Essential Services Act 1988, within the time required, or                  40
+                  (b) to ensure the delivery of other essential services within the time           41
+                        required.                                                                  42
+
+
+
+
+Page 23
+Local Jobs First Bill 2026 [NSW]
+Schedule 4 Amendment of Public Works and Procurement Act 1912 No 45
+
+
+
+              (4)   An authorisation is subject to the conditions imposed by the Board on the           1
+                    granting of the authorisation or at a later time.                                   2
+
+              (5)   The regulations may make provision about the conditions that must be                3
+                    imposed on an authorisation by the Board.                                           4
+
+              (6)   The Board may, subject to the regulations, vary or revoke an authorisation,         5
+                    including a condition of the authorisation not required by the regulations to be    6
+                    imposed.                                                                            7
+
+              (7)   The Board must, in accordance with the regulations, publish information about       8
+                    an authorisation on a NSW Government website.                                       9
+
+      176IE   Government agencies to avoid listed suppliers and related subcontractors                 10
+
+                    On entering into a contract for the supply of goods or services with a supplier,   11
+                    a government agency must—                                                          12
+                    (a) have taken reasonable steps to enquire as to whether the supplier intends      13
+                          to subcontract with a listed supplier in relation to the contract, and       14
+                    (b) ensure the supplier is contractually bound to not subcontract with a           15
+                          listed supplier in relation to the contract.                                 16
+
+      176IF   No contravention of enforceable procurement provisions                                   17
+
+                    A government agency does not contravene an enforceable procurement                 18
+                    provision in carrying out an obligation under this division.                       19
+
+      176IG   No compensation for certain actions under division                                       20
+
+              (1)   A person is not entitled to compensation or remedy for loss or damage as a         21
+                    result of the following—                                                           22
+                     (a) anything done by a government agency for the purposes of complying            23
+                           with section 176IC or 176IE,                                                24
+                    (b) anything done by the Board for the purposes of exercising the Board’s          25
+                           functions under this division or regulations made under this division,      26
+                     (c) a person being a debarred supplier, including being included on a list        27
+                           kept by the Board in accordance with regulations under section              28
+                           176IB(4),                                                                   29
+                    (d) the publication of information in accordance with regulations under            30
+                           section 176IB(4) or the further publication of the information.             31
+
+              (2)   In this section—                                                                   32
+                    done includes omitted to be done.                                                  33
+
+[4]     Section 178 Regulations                                                                        34
+
+        Omit “Division.” from section 178(1A)(b).                                                      35
+
+        Insert instead—                                                                                36
+                           division,                                                                   37
+                     (c)   the debarment of suppliers from supplying goods and services to             38
+                           government agencies,                                                        39
+                     (d)   authorisations granted by the Board under section 176ID, including the      40
+                           granting of authorisations.                                                 41
+
+[5]     Fifth Schedule Members and procedure of NSW Procurement Board                                  42
+
+        Insert after clause 11—                                                                        43
+
+
+
+Page 24
+Local Jobs First Bill 2026 [NSW]
+Schedule 4 Amendment of Public Works and Procurement Act 1912 No 45
+
+
+      12      Other attendees                                                                       1
+              (1)   The Local Jobs First Commissioner, appointed under the Local Jobs First Act     2
+                    2026, may attend and participate in Board meetings.                             3
+
+              (2)   The Local Jobs First Commissioner is not entitled to vote at Board meetings.    4
+
+              (3)   The Local Jobs First Commissioner is not a member of the Board.                 5
+
+              (4)   The Local Jobs First Commissioner must be given notice of all Board             6
+                    meetings.                                                                       7
+
+[6]   Ninth Schedule Savings, transitional and other provisions                                     8
+
+      Insert at the end of the schedule—                                                            9
+
+      Provisions consequent on enactment of Local Jobs First Act 2026                              10
+
+          5   Debarment events                                                                     11
+
+                    A debarment event referred to in section 176IB(1)(a) does not include a        12
+                    debarment event that occurred before the commencement of the section.          13
+
+          6   Prohibition on government agencies contracting with listed suppliers                 14
+
+                    A reference to a contract in section 176IC(2) does not apply to a contract     15
+                    entered into before the commencement of the section.                           16
+
+
+
+
+Page 25
+Local Jobs First Bill 2026 [NSW]
+Schedule 5 Amendment of Statutory and Other Offices Remuneration Act 1975 (1976 No 4)
+
+
+
+Schedule 5            Amendment of Statutory and Other Offices                          1
+                      Remuneration Act 1975 (1976 No 4)                                 2
+
+      Schedule 2 Public offices                                                         3
+
+      Insert at the end of Part 1—                                                      4
+
+                   Local Jobs First Commissioner                                        5
+
+
+
+
+Page 26
+Local Jobs First Bill 2026 [NSW]
+Schedule 6 Dictionary
+
+
+
+Schedule 6              Dictionary                                                                 1
+
+                                                                                      section 3    2
+
+Advisory Board—see section 13(1).                                                                  3
+Commissioner—see section 6(1).                                                                     4
+financial year means a period of 12 months commencing on 1 July.                                   5
+function includes a power, authority and duty.                                                     6
+future skills guarantee, for Part 4—see section 16.                                                7
+government agency has the same meaning as in the Public Works and Procurement Act 1912, Part       8
+11.                                                                                                9
+government agency head has the same meaning as in the Public Works and Procurement Act            10
+1912, Part 11.                                                                                    11
+learning worker means a local worker who is one of the following—                                 12
+ (a) an apprentice,                                                                               13
+(b) a cadet,                                                                                      14
+ (c) a trainee,                                                                                   15
+(d) a worker employed within 2 years after the worker’s successful completion of a higher         16
+       education qualification within the meaning of the Higher Education Act 2001,               17
+ (e) another class of local worker specified by the Minister by order in the Gazette.             18
+local procurement plan—see section 16.                                                            19
+local procurement policy—see section 16.                                                          20
+small and medium business means—                                                                  21
+ (a) a business that has less than 200 full-time equivalent employees, or                         22
+(b) a cooperative of local suppliers created under legislation of a State or Territory.           23
+local supplier means a supplier who primarily operates in New South Wales or another Australian   24
+jurisdiction.                                                                                     25
+local worker means a worker, including a self-employed person, whose regular place of residence   26
+is in New South Wales or another Australian jurisdiction.                                         27
+locally produced goods and services means—                                                        28
+ (a) goods produced in New South Wales or another Australian jurisdiction, and                    29
+(b) services provided by persons based in New South Wales or another Australian jurisdiction.     30
+member, for Schedule 1—see Schedule 1, section 1.                                                 31
+non-compliant, in relation to a supplier—see section 31(1).                                       32
+NSW Government procurement means procurement to which this Act applies.                           33
+performance management process, for Part 5, Division 2—see section 27.                            34
+procurement has the same meaning as in the Public Works and Procurement Act 1912, Part 11.        35
+Procurement Board means the New South Wales Procurement Board established under the               36
+Public Works and Procurement Act 1912, section 164(1).                                            37
+Procurement Minister means the Minister administering the Public Works and Procurement Act        38
+1912, Part 11.                                                                                    39
+
+
+
+
+Page 27
+Local Jobs First Bill 2026 [NSW]
+Schedule 6 Dictionary
+
+
+
+supplier has the same meaning as in the Public Works and Procurement Act 1912, Part 11,   1
+Division 6A.                                                                              2
+
+
+
+
+Page 28
+

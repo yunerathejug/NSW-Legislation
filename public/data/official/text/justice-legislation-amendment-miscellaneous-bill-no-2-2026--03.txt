@@ -1,0 +1,1362 @@
+                                                Passed by both Houses
+
+
+
+
+                              New South Wales
+
+
+
+
+Justice Legislation Amendment
+(Miscellaneous) Bill (No 2) 2026
+Contents
+                                                                 Page
+
+             1   Name of Act                                       2
+             2   Commencement                                      2
+             3   Explanatory notes                                 2
+Schedule 1       Amendment of Acts                                 3
+I certify that this public bill, which originated in the Legislative Assembly, has finally passed
+the Legislative Council and the Legislative Assembly of New South Wales.
+
+
+                                                Clerk of the Legislative Assembly.
+                                                Legislative Assembly,
+                                                Sydney,                                   , 2026
+
+
+
+
+                                    New South Wales
+
+
+
+
+Justice Legislation Amendment
+(Miscellaneous) Bill (No 2) 2026
+
+Act No        , 2026
+
+
+
+An Act to amend various Acts relating to courts, crimes and other Communities and Justice
+portfolio matters.
+
+
+
+
+I have examined this bill and find it to correspond in all respects with the bill as finally
+passed by both Houses.
+
+
+                                                Assistant Speaker of the Legislative Assembly.
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+
+
+
+
+The Legislature of New South Wales enacts—
+  1   Name of Act
+             This Act is the Justice Legislation Amendment (Miscellaneous) Act (No 2) 2026.
+  2   Commencement
+             This Act commences as follows—
+             (a) for Schedule 1.5 and 1.22—on 1 December 2026,
+             (b) for Schedule 1.1[1], [3]–[13] and [16], 1.3, 1.4[1]–[3] and [9], 1.8[1], [2] and
+                   [4] and 1.17[6]—on a day or days to be appointed by proclamation,
+             (c) otherwise—on the date of assent to this Act.
+  3   Explanatory notes
+             An explanatory note in a schedule of this Act does not form part of this Act.
+
+
+
+
+Page 2
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+Schedule 1              Amendment of Acts
+1.1 Bail Act 2013 No 26
+[1]   Section 4 Definitions
+      Insert in alphabetical order in section 4(1)—
+                    residential rehabilitation acknowledgment—see section 28C(2)(c).
+                    residential rehabilitation facility means a facility at which a residential
+                    rehabilitation program to treat dependency on alcohol or drugs, or both, is
+                    provided in a residential community setting.
+                    residential rehabilitation program means a program of care and support to
+                    treat dependency on alcohol or drugs, or both, that—
+                     (a) is delivered in a residential setting that provides a range of support
+                           services, such as individual and group counselling, physical health and
+                           wellbeing, and education and skills training, and
+                    (b) does not include the following—
+                            (i) treatment on an outpatient or drop-in basis,
+                           (ii) detoxification and withdrawal management, such as the
+                                  short-term medical and psychological care of a person
+                                  experiencing withdrawal symptoms as a result of stopping or
+                                  reducing use of alcohol or drugs, or both, whether or not in a
+                                  residential setting.
+                    residential rehabilitation requirement—see section 28C(1).
+[2]   Section 22C Temporary limitation on bail for certain young persons in relation to
+      certain serious offences
+      Omit “1 October 2026” from section 22C(5).
+      Insert instead “4 April 2028”.
+[3]   Section 25 Bail conditions can impose conduct requirements
+      Insert after section 25(3)—
+             (4)    A conduct requirement must not require an accused person to reside at a
+                    residential rehabilitation facility for a residential rehabilitation program.
+                    Note— A requirement that an accused person reside at a residential rehabilitation
+                    facility for a residential rehabilitation program is a residential rehabilitation requirement
+                    and is made under and subject to section 28C.
+
+[4]   Section 28 Bail condition can impose accommodation requirements
+      Omit section 28(3)(a1).
+[5]   Section 28(5A)
+      Insert after section 28(5)—
+            (5A)    An accommodation requirement must not require an accused person to reside
+                    at a residential rehabilitation facility for a residential rehabilitation program.
+[6]   Section 28, note
+      Omit the note.
+      Insert instead—
+
+
+
+Page 3
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+                    Note 1— The court may also impose a bail condition (conduct requirements) requiring
+                    the accused person to reside at the relevant accommodation while at liberty on bail.
+                    Note 2— A requirement that an accused person reside at a residential rehabilitation
+                    facility for a residential rehabilitation program is a residential rehabilitation requirement
+                    and is made under and subject to section 28C.
+
+[7]   Section 28C
+      Insert after section 28B—
+      28C    Bail condition may impose residential rehabilitation requirements
+             (1)    A bail condition imposed by a bail authority on the grant of bail may include
+                    a requirement (a residential rehabilitation requirement) that the accused
+                    person reside at a residential rehabilitation facility for a residential
+                    rehabilitation program while at liberty on bail.
+                    Note— The bail authority may also impose a bail condition (conduct requirements)
+                    requiring the accused person to attend and participate in a residential rehabilitation
+                    program while at liberty on bail.
+             (2)    A bail authority must not impose a residential rehabilitation requirement
+                    unless—
+                    (a) the bail authority is satisfied—
+                            (i) the residential rehabilitation facility is accredited in accordance
+                                  with an accreditation standard set out in the National Quality
+                                  Framework, or
+                           (ii) if the residential rehabilitation facility is not accredited in
+                                  accordance with an accreditation standard set out in the National
+                                  Quality Framework—the facility is otherwise appropriate in all
+                                  the circumstances, and
+                    (b) the bail authority is satisfied the residential rehabilitation facility has a
+                           policy in place that provides the facility will, as soon as practicable,
+                           report to a police officer if one of the following occurs—
+                            (i) an accused person absconds or is otherwise absent from the
+                                  facility without permission in contravention of the person’s bail
+                                  conditions,
+                           (ii) the early termination of an accused person’s participation in the
+                                  residential rehabilitation program, including termination by an
+                                  accused person or an accused person being expelled from the
+                                  facility, for example, due to a contravention of facility rules or
+                                  requirements,
+                          (iii) another occurrence prescribed by the regulations, and
+                    (c) the bail authority has been given a written acknowledgment (a
+                           residential rehabilitation acknowledgment) by an appropriate
+                           representative for the residential rehabilitation facility that sets out the
+                           following—
+                            (i) the name and role of the appropriate representative,
+                           (ii) that the facility has the policy referred to in paragraph (b) in place
+                                  and the facility operates in accordance with the policy,
+                          (iii) other matters prescribed by the regulations, and
+                    (d) the bail authority has considered the following information about the
+                           residential rehabilitation facility prepared by an appropriate
+                           representative for the residential rehabilitation facility—
+
+
+
+
+Page 4
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                            (i)   that a place for the accused person at the residential rehabilitation
+                                  facility is immediately available or that the facility estimates to
+                                  have a place or places available on a specified date or dates,
+                           (ii)   information about the following—
+                                  (A) the level of security and supervision at the facility,
+                                         including the hours of staffing and the level of supervision
+                                         given to accused persons at the facility,
+                                  (B) the restrictions imposed on accused persons at the facility,
+                                         including prohibitions against the possession or use of
+                                         alcohol or drugs at the facility,
+                                  (C) the health and other therapeutic services that will be
+                                         provided to the accused person,
+                          (iii)   other information of a kind prescribed by the regulations.
+             (3)    The regulations may make further provision for residential rehabilitation
+                    requirements.
+             (4)    In this section—
+                    appropriate representative, of a residential rehabilitation facility, means a
+                    director, secretary or officer of a corporation or organisation that operates the
+                    facility, or a person engaged or employed by the person that operates the
+                    facility, who is appropriate to carry out the functions under this section in the
+                    opinion of—
+                     (a) the bail authority imposing the bail condition, or
+                    (b) the officer or court to whom the residential rehabilitation
+                           acknowledgment is given, if no opinion has been formed under
+                           paragraph (a).
+                    National Quality Framework means—
+                     (a) the document entitled National Quality Framework for Drug and
+                           Alcohol Treatment Services published by the Department of Health of
+                           the Commonwealth in 2018, or
+                    (b) a document, prescribed by the regulations, that replaces that document.
+                    Note— The National Quality Framework for Drug and Alcohol Treatment Services
+                    contains a list of accreditation standards for drug and alcohol treatment services.
+
+ [8]   Section 29 Limitation on power to impose pre-release requirements
+       Insert after section 29(1)(d)—
+                    (d1) a residential rehabilitation requirement,
+ [9]   Section 29(3)
+       Insert “, an accompaniment requirement or a residential rehabilitation requirement” after
+       “accommodation requirement”.
+[10]   Section 29(4AA)
+       Insert after section 29(4)—
+          (4AA)     A residential rehabilitation requirement is complied with when the following
+                    person is given written notice by an employee of the operator of the relevant
+                    residential rehabilitation facility that a suitable place at the facility is
+                    immediately available for the accused person—
+                     (a) for an accused person who is a child—the Secretary of the Department
+                          of Communities and Justice,
+
+
+Page 5
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                     (b)   otherwise—the Commissioner of Corrective Services.
+[11]   Section 29(6)
+       Omit the subsection.
+       Insert instead—
+              (6)   In this section—
+                    appropriate Government representative means—
+                     (a) the Secretary of the Department of Communities and Justice or a
+                           delegate of the Secretary, or
+                    (b) another person prescribed by the regulations.
+[12]   Section 37A
+       Insert after section 37—
+       37A    Information to be provided about residential rehabilitation acknowledgements
+              (1)   A bail authority must ensure a person who gives a residential rehabilitation
+                    acknowledgment is given a written notice setting out the terms of the bail
+                    condition under which the acknowledgment is required.
+              (2)   A bail authority that varies a bail condition that requires a residential
+                    rehabilitation acknowledgment to be given must ensure a person who gives a
+                    residential rehabilitation acknowledgment in compliance with the bail
+                    condition is given a written notice setting out the terms of the condition as
+                    varied.
+[13]   Section 52 Powers of authorised justices to vary court decisions
+       Insert after section 52(2)—
+             (2A)   Despite subsection (2)(b), a residence condition that requires the person
+                    granted bail to reside at a residential rehabilitation facility is not reviewable by
+                    an authorised justice under this section.
+[14]   Section 66 Powers specific to Supreme Court
+       Omit “or a police officer” from section 66(1).
+       Insert instead “or, with the leave of the Supreme Court, a police officer”.
+[15]   Section 66(2)
+       Omit the subsection.
+       Insert instead—
+              (2)   The Supreme Court may hear a detention application or variation application
+                    for an offence if a bail decision has been made by—
+                     (a) the District Court, or
+                    (b) the Local Court, or
+                     (c) a police officer, but only with the leave of the Supreme Court.
+[16]   Schedule 3 Savings, transitional and other provisions
+       Insert at the end of the schedule, with appropriate part numbering—
+
+
+
+
+Page 6
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Part          Provisions consequent on enactment of Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2)
+                    2026
+         1   Definitions
+                    In this part—
+                    commencement date means the date of the commencement of the relevant
+                    amendments.
+                    relevant amendments means the amendments made by the Justice Legislation
+                    Amendment (Miscellaneous) Act (No 2) 2026, Schedule 1.1[1] and [3]–[13].
+         2   Application of amendments
+             (1)    A relevant amendment extends to offences committed, alleged to have been
+                    committed or charged before the commencement date.
+             (2)    To avoid doubt, after the commencement date, a variation to a bail decision
+                    made before the commencement date may impose a residential rehabilitation
+                    requirement.
+         3   Review of operations of relevant amendments
+             (1)    The Minister must review the operation of the relevant amendments to
+                    determine whether—
+                    (a) the policy objectives of the amendments remain valid, and
+                    (b) the terms of the amendments remain appropriate for achieving the
+                          objectives.
+             (2)    The review must be undertaken as soon as practicable after the period of 3
+                    years from the commencement date.
+             (3)    A report on the outcome of the review must be tabled in each House of
+                    Parliament as soon as practicable after the end of the review period.
+             (4)    In this clause—
+                    review period means the period ending on the day that is 12 months after the
+                    day on which the review starts.
+
+1.2 Child Protection (Offenders Registration) Act 2000 No 42
+[1]   Schedule 1A Class 1 offences
+      Omit “self-manipulation” from Part 1, item 22.
+      Insert instead “self-penetration”.
+
+1.3 Children (Community Service Orders) Act 1987 No 56
+[1]   Section 22 Revocation of children’s community service orders on being dealt with
+      for other offences
+      Insert “, of the court’s own motion,” after “may” in section 22(1).
+
+1.4 Children (Criminal Proceedings) Act 1987 No 55
+[1]   Section 3 Definitions
+      Insert in alphabetical order in section 3(1)—
+
+
+Page 7
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                    member, of the NSW Police Force, has the same meaning as in the Police Act
+                    1990, section 5.
+[2]   Section 13
+      Omit the section.
+      Insert instead—
+         13   Admissibility of statements, confessions, admissions and information
+              (1)   This section applies to a statement made, or information given, to a member
+                    of the NSW Police Force by a child.
+              (2)   Unless a support person for the child was present while the statement was
+                    made or the information was given, the statement or information must not be
+                    admitted in evidence in criminal proceedings to which the child is a party,
+                    including proceedings brought after the child turns 18 years of age.
+              (3)   Subsection (2) does not apply if the person determining the admissibility of the
+                    evidence is satisfied—
+                    (a) there was proper and sufficient reason for the absence of the support
+                          person, and
+                    (b) it is appropriate in the circumstances to admit the statement or
+                          information in evidence.
+              (4)   Subsection (2) does not apply if a law required the child to make the statement
+                    or give the information.
+              (5)   In this section—
+                    statement includes a confession and an admission.
+                    support person, for a child making a statement or giving information,
+                    means—
+                     (a) if the child is less than 14 years of age—
+                             (i) an adult who is a person responsible for the child, or
+                            (ii) an adult, other than a member of the NSW Police Force, who has
+                                  the consent of a person responsible for the child to be present
+                                  while the child makes the statement or gives the information, or
+                           (iii) an Australian legal practitioner chosen by the child, or
+                    (b) if the child is at least 14 years of age—a person who has the child’s
+                            consent to be present while the child makes the statement or gives the
+                            information and who is—
+                             (i) a person described in paragraph (a), or
+                            (ii) another adult who is not a member of the NSW Police Force.
+[3]   Section 13A
+      Insert after section 13—
+      13A     Evidence relating to intervention programs not admissible
+              (1)   A statement, information or document made or given for the purpose of, or in
+                    the course of, a child participating in an intervention program is not admissible
+                    in evidence in civil or criminal proceedings to which the child is a party.
+              (2)   For subsection (1), a child’s participation in an intervention program includes
+                    the assessment of the child for participation in the program, whether or not—
+                     (a) the child is participating in a program for the first time, or
+
+
+Page 8
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                    (b)    the child declines or is not accepted into the program.
+             (3)    Subsection (1) does not apply to a statement, information or document relating
+                    to an offence committed or allegedly committed against a person who provides
+                    an intervention program by a child participating in the intervention program.
+             (4)    Subsection (1) does not apply if—
+                    (a) the child the subject of a statement, information or document requests
+                         leave of the court to adduce the statement, information or document in
+                         a proceeding, and
+                    (b) the court gives leave for the statement, information or document to be
+                         adduced, and
+                    (c) the statement, information or document is admitted into evidence.
+             (5)    If a statement, information or document is admitted into evidence under
+                    subsection (4), a statement, information or document made or given for the
+                    purpose of, or in the course of, the child participating in an intervention
+                    program is admissible in evidence in the proceedings to which subsection (4)
+                    applies.
+             (6)    Subsection (5) does not apply to subsequent proceedings if a statement,
+                    information or document is admitted into evidence in proceedings under the
+                    Bail Act 2013.
+             (7)    Subsection (1) applies to proceedings under the Bail Act 2013, despite that
+                    Act, section 31(1).
+             (8)    Subsection (1) applies to civil and criminal proceedings that are brought after
+                    the child turns 18 years of age.
+             (9)    In this section—
+                    intervention program—
+                     (a) means a program for the treatment of children in, or at risk of contact
+                           with, the criminal justice system prescribed by the regulations, and
+                    (b) includes services relating to the program.
+                    statement includes a confession and an admission.
+[4]   Section 31 Hearing of charges in the Children’s Court
+      Insert after section 31(6)—
+            (6A)    The prosecutor is not required to produce a certificate under subsection (6)(a)
+                    if the charge certificate for the proceedings specifies each back up offence and
+                    related offence with which the person has been charged.
+[5]   Section 31(8)
+      Insert in alphabetical order—
+                    charge certificate has the same meaning as in the Criminal Procedure Act
+                    1986.
+[6]   Section 31AA Application of Division
+      Omit section 31AA(2).
+      Insert instead—
+             (2)    This division extends to the following proceedings—
+
+
+
+
+Page 9
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                    (a)    proceedings involving more than one complainant, if at least one
+                           complainant alleges in the proceedings that the accused person
+                           committed a child sexual assault offence against the complainant,
+                    (b)    proceedings in which the accused person is charged before the
+                           Children’s Court with a child sexual assault offence and one or more
+                           other offences, other than a serious children’s indictable offence,
+                           against the same complainant.
+ [7]   Section 31AA(3), definition of “child sexual assault offence”
+       Omit the definition.
+       Insert instead—
+                     child sexual assault offence means a child sexual assault offence within the
+                     meaning of the Criminal Procedure Act 1986, section 83, other than a serious
+                     children’s indictable offence, in relation to which 1 or more complainants
+                     were less than 18 years of age—
+                     (a) for an offence committed under the Crimes Act 1900, section 73 or 73A
+                            —on the date of the alleged offence, or
+                     (b) otherwise—
+                             (i) on the date of the alleged offence, or
+                            (ii) at the beginning of the period during which the offence is alleged
+                                  to have been committed.
+ [8]   Section 33 Penalties
+       Insert after section 33(1AA)—
+          (1AAA)    If the Children’s Court makes an order under subsection (1)(c2), the Court
+                    may adjourn proceedings to a date not later than 12 months after the date
+                    specified under subsection (1)(c2) to allow the person to undergo
+                    rehabilitation if—
+                     (a) one of the following circumstances applies—
+                            (i) the person has been placed in a rehabilitation program but has not
+                                  yet completed the program,
+                           (ii) the person has not yet been placed in a rehabilitation program but
+                                  the Court is satisfied all reasonable attempts have been made to
+                                  place the person in a rehabilitation program, and
+                    (b) the Court considers it is in the interests of justice to adjourn the
+                           proceedings for the additional period.
+ [9]   Section 41 Enforcement of conditions of good behaviour bond or probation or
+       compliance with outcome plan
+       Omit “police force” wherever occurring in section 41(1) and (2).
+       Insert instead “NSW Police Force”.
+[10]   Schedule 2 Savings and transitional provisions
+       Insert at the end of the schedule, with appropriate part numbering—
+
+
+
+
+Page 10
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Part          Provision consequent on enactment of Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2)
+                    2026
+          1   Application of amendments to proceedings
+                    An amendment made to section 31AA by the Justice Legislation Amendment
+                    (Miscellaneous) Act (No 2) 2026 applies only to proceedings commenced after
+                    the commencement of the amendment.
+
+1.5 Court Security Act 2005 No 1
+[1]   Section 9 Use of recording devices in court premises
+      Insert after section 9(2)(d)—
+                   (d1) the use of a recording device by the Sheriff or a sheriff’s officer in
+                           accordance with the Sheriff Act 2005, section 7E,
+[2]   Section 9A Prohibition on unauthorised transmission of court proceedings from
+      courtroom
+      Insert after section 9A(2)(e)—
+                    (e1) the transmission of sounds, images or information obtained by the
+                           Sheriff or a sheriff’s officer in accordance with the Sheriff Act 2005,
+                           section 7E,
+[3]   Section 9B Prohibition on unauthorised distribution of court recording
+      Insert after section 9B(2)—
+              (3)   Subsection (1) does not apply to the transmission or distribution of a recording
+                    of court proceedings if the recording was obtained by the Sheriff or a sheriff’s
+                    officer in accordance with the Sheriff Act 2005, section 7E.
+
+1.6 Crimes Act 1900 No 40
+[1]   Part 3, Division 10, Subdivision 14, heading and section 80A, heading
+      Omit “self-manipulation” wherever occurring.
+      Insert instead “self-penetration”.
+[2]   Section 80A(1), definition of “self-manipulation”
+      Omit the definition.
+      Insert in alphabetical order—
+                    self-penetration—
+                    (a) means the penetration, to any extent, of the genitalia or anus of a person
+                           by—
+                            (i) a part of the body of the person, or
+                           (ii) an object manipulated by the person, but
+                    (b) does not include penetration carried out by the person for proper
+                           medical or hygienic purposes.
+[3]   Section 80A(2)–(3)
+      Omit “self-manipulation” wherever occurring.
+
+
+
+Page 11
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Insert instead “self-penetration”.
+[4]   Section 80AB Alternative verdicts
+      Insert after section 80AB(11)—
+              (12)   If, on the trial of a person for an offence against section 66F(2) or (3), the jury
+                     is not satisfied the person is guilty of the offence, but is satisfied the person is
+                     guilty of an offence against section 61KC or 61KD(1)—
+                      (a) the jury may acquit the person of the offence charged and find the
+                             person guilty of an offence against section 61KC or 61KD(1), and
+                     (b) the accused is liable to the punishment for the offence against section
+                             61KC or 61KD(1).
+[5]   Section 80ABA
+      Insert after section 80AB—
+  80ABA       Alternative verdicts—young person under special care
+               (1)   If, on the trial of a person for an offence against section 73(1) or (2), the jury
+                     is not satisfied the person is guilty of the offence, but is satisfied the person is
+                     guilty of an offence against section 73A(1)—
+                      (a) the jury may acquit the person of the offence charged and find the
+                            person guilty of an offence against section 73A(1), and
+                     (b) the accused is liable to the punishment for the offence against section
+                            73A(1).
+               (2)   If, on the trial of a person for an offence against section 73(1), the jury is not
+                     satisfied the person is guilty of the offence, but is satisfied the person is guilty
+                     of an offence against section 73(2)—
+                      (a) the jury may acquit the person of the offence charged and find the
+                            person guilty of an offence against section 73(2), and
+                     (b) the accused is liable to the punishment for the offence against section
+                            73(2).
+[6]   Schedule 11 Savings, transitional and other provisions
+      Insert at the end of the schedule, with appropriate part numbering—
+
+      Part           Provision consequent on enactment of Justice
+                     Legislation Amendment (Miscellaneous) Act (No 2)
+                     2026
+          1   Application of amendments
+               (1)   An amendment made to section 80AB by the amending Act applies only in
+                     relation to proceedings commenced on or after the commencement of the
+                     amendment.
+               (2)   Section 80ABA, as inserted by the amending Act, applies only in relation to
+                     proceedings commenced on or after the commencement of the section.
+               (3)   In this clause—
+                     amending Act means the Justice Legislation Amendment (Miscellaneous) Act
+                     (No 2) 2026.
+
+
+
+
+Page 12
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+1.7 Crimes (Appeal and Review) Act 2001 No 120—non-release offenders
+[1]   Section 3 Definitions
+      Insert in alphabetical order in section 3(1)—
+                    existing life sentence, for Part 7—see section 74(1).
+                    non-release recommendation, for Part 7—see section 74(1).
+                    non-release sentence, for Part 7 and Schedule 1—see section 74(1).
+[2]   Section 74 Definitions
+      Insert in alphabetical order in section 74(1)—
+                    existing life sentence has the same meaning as in the Crimes (Sentencing
+                    Procedure) Act 1999, Schedule 1.
+                    non-release recommendation has the same meaning as in the Crimes
+                    (Sentencing Procedure) Act 1999, Schedule 1.
+                    non-release sentence means an existing life sentence the subject of a
+                    non-release recommendation.
+[3]   Section 78 Applications to Supreme Court
+      Omit “An application” from section 78(1).
+      Insert instead “Subject to subsection (1A), an application”.
+[4]   Section 78(1A)
+      Insert after section 78(1)—
+            (1A)    An application for an inquiry into a non-release sentence cannot be made
+                    under this section.
+[5]   Section 79 Consideration of applications
+      Insert after section 79(2)—
+            (2A)    The Supreme Court cannot—
+                    (a) consider or otherwise deal with an application referred to in section
+                         78(1A), including by taking an action referred to in subsection (1), or
+                    (b) on its own motion, take an action referred to in subsection (1) in relation
+                         to a non-release sentence.
+[6]   Section 82 Action to be taken on completion of inquiry
+      Omit “The judicial officer” from section 82(2).
+      Insert instead “Subject to subsection (2A), the judicial officer”.
+[7]   Section 82(2A)
+      Insert after section 82(2)—
+            (2A)    The judicial officer cannot refer the matter to the Court of Criminal Appeal to
+                    the extent the matter relates to a non-release sentence.
+[8]   Section 86 Reference to Court under section 77 (1) (b) or 79 (1) (b) following petition
+      to Governor or application to Supreme Court
+      Omit “On receiving”.
+      Insert instead “Subject to subsection (2), on receiving”.
+
+
+
+Page 13
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+ [9]   Section 86(2)
+       Insert at the end of section 86—
+              (2)   The Court cannot deal with the case to the extent the case—
+                    (a) is referred under section 79(1)(b), and
+                    (b) relates to a non-release sentence.
+[10]   Section 88 Reference to Court under section 82 (2) following inquiry
+       Omit “On receiving” from section 88(2).
+       Insert instead “Subject to subsection (3), on receiving”.
+[11]   Section 88(3)
+       Insert after section 88(2)—
+              (3)   The Court cannot deal with a matter referred to in subsection (2) to the extent
+                    the matter relates to a non-release sentence.
+[12]   Schedule 1 Savings, transitional and other provisions
+       Insert at the end of the schedule, with appropriate part numbering—
+
+       Part         Provision consequent on enactment of Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2)
+                    2026, Schedule 1.7
+          1   Non-release sentences
+              (1)   An amendment made by the Justice Legislation Amendment (Miscellaneous)
+                    Act (No 2) 2026 extends to—
+                    (a) an application under section 78 made, but not determined, before the
+                          commencement date, and
+                    (b) the referral of a matter relating to a non-release sentence to the Court of
+                          Criminal Appeal if the referral relates to an application under section 78
+                          made before the commencement date, and
+                    (c) the dealing by the Court of Criminal Appeal with a matter referred to
+                          the Court under section 79(1)(b) or 82(2)(b) if the referral relates to an
+                          application under section 78 made before the commencement date.
+              (2)   In this clause—
+                    commencement date means the date on which the Justice Legislation
+                    Amendment (Miscellaneous) Act (No 2) 2026, Schedule 1.7 commences.
+
+1.8 Crimes (Appeal and Review) Act 2001 No 120—other amendments
+ [1]   Section 20 Determination of appeals
+       Insert after section 20(1)(b)—
+                    (b1) by substituting a verdict of guilty for a lesser offence and varying the
+                            sentence accordingly if—
+                             (i) the appellant was charged with but not found guilty of the lesser
+                                  offence in the proceedings under appeal, and
+                            (ii) the lesser offence was before the court in the proceedings under
+                                  appeal at the time the appellant was found guilty, or
+
+
+Page 14
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+[2]   Section 20(1A)
+      Insert after section 20(1)—
+              (1A)   If the District Court proposes to substitute a verdict under subsection (1)(b1),
+                     a party to the proceedings may make submissions in relation to the proposed
+                     substitution.
+[3]   Section 20(3)
+      Insert after section 20(2)—
+               (3)   In this section, the power conferred on the District Court to vary a sentence
+                     under subsection (2)(b) includes the power—
+                      (a) to make an order under—
+                             (i) the Mental Health and Cognitive Impairment Forensic
+                                   Provisions Act 2020, section 14, or
+                            (ii) the Crimes Act 1914 of the Commonwealth, section 19B or
+                                   20BQ, and
+                     (b) to set aside a conviction made by the original Local Court, with or
+                            without setting aside the finding of guilt on which the conviction is
+                            based, to enable the order to be made.
+[4]   Schedule 1 Savings, transitional and other provisions
+      Insert at the end of the schedule, with appropriate part numbering—
+
+      Part           Provisions consequent on enactment of Justice
+                     Legislation Amendment (Miscellaneous) Act (No 2)
+                     2026, Schedule 1.8
+          1    Determination of appeals
+                     The insertion of section 20(1)(b1) and (1A) by the Justice Legislation
+                     Amendment (Miscellaneous) Act (No 2) 2026 applies only in relation to
+                     proceedings commenced in the Local Court after the commencement of the
+                     provisions.
+
+1.9 Crimes (Sentencing Procedure) Act 1999 No 92
+[1]   Section 11 Deferral of sentencing for rehabilitation, participation in an intervention
+      program or other purposes
+      Insert after section 11(2)—
+          (2AA)      Despite subsection (2), the court may adjourn proceedings to a date not later
+                     than 12 months after the date specified under subsection (2) to allow the
+                     person to undergo rehabilitation if—
+                      (a) one of the following circumstances applies—
+                            (i) the person has been placed in a rehabilitation program but has not
+                                 yet completed the program,
+                           (ii) the person has not yet been placed in a rehabilitation program but
+                                 the court is satisfied all reasonable attempts have been made to
+                                 place the person in a rehabilitation program, and
+                     (b) the court considers it is in the interests of justice to adjourn the
+                           proceedings for the additional period.
+
+
+
+Page 15
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+[2]   Section 61A
+      Insert before section 61—
+      61A    Life sentences
+             (1)    This section applies to a sentence of imprisonment for life for an offence if
+                    proceedings for the offence commenced on or after 12 January 1990.
+                    Note— On 12 January 1990, the Crimes (Life Sentences) Amendment Act 1989
+                    commenced.
+             (2)    The person subject to the sentence must serve the sentence for the term of the
+                    person’s natural life.
+[3]   Schedule 1 Existing life sentences
+      Insert “or another sentence to which this Act, section 61A applies” after “1985” in clause
+      1, definition of existing life sentence.
+
+1.10 Criminal Procedure Act 1986 No 209
+[1]   Section 166 Certification and transfer of back up and related offences
+      Insert after section 166(3)—
+             (4)    The prosecutor is not required to produce a certificate under subsection
+                    (1)(b)(i) if the charge certificate for the proceedings specifies each back up
+                    offence and related offence with which the person has been charged.
+
+1.11 District Court Act 1973 No 9
+[1]   Section 18FAB
+      Insert after section 18FAA—
+  18FAB      Practice notes
+             (1)    Subject to the rules, the Chief Judge may publish practice notes relating to the
+                    practice and procedure to be followed in the Court.
+             (2)    A practice note must be published in the Gazette.
+             (3)    The Interpretation Act 1987, sections 40 and 41 apply to a practice note in the
+                    same way the sections apply to a statutory rule.
+             (4)    In this section—
+                    rules means—
+                     (a) the civil procedure rules, and
+                    (b) the criminal procedure rules.
+[2]   Section 161 Civil procedure rules
+      Omit section 161(7) and (8).
+[3]   Schedule 3 Savings and transitional provisions consequent on amendments to this
+      Act
+      Insert at the end of the schedule, with appropriate part numbering—
+
+
+
+
+Page 16
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Part           Provision consequent on enactment of Justice
+                     Legislation Amendment (Miscellaneous) Act (No 2)
+                     2026
+          1    Application of amendments
+                     A practice note published in the Gazette under section 161(7) before the
+                     omission of that subsection by the Justice Legislation Amendment
+                     (Miscellaneous) Act (No 2) 2026 continues in force as if the practice note was
+                     published under section 18FAB after the commencement of that section.
+
+1.12 Drug Court Act 1998 No 150
+[1]   Section 5A Definition of “eligible convicted offender”
+      Omit “18 months” from section 5A(1)(b)(i).
+      Insert instead “12 months”.
+[2]   Section 5A(1B)
+      Insert after section 5A(1A)—
+              (1B)   Subsection (1)(b)(i) does not prevent a person from being an eligible convicted
+                     offender if—
+                     (a) on determining an appeal, a court reduces the unexpired non-parole
+                           period of the person’s sentence of imprisonment to a period of 12
+                           months or less, and
+                     (b) the person is already the subject of a compulsory drug treatment order
+                           as a consequence of a referral made to the Drug Court by the court that
+                           imposed the sentence subject to the appeal.
+[3]   Section 7A Persons accepted into program in relation to offence
+      Insert after section 7A(2)—
+              (2A)   When deciding whether to deal with a person under this section, the Drug
+                     Court may consider whether the person is able to be appropriately supervised.
+[4]   Section 18B Courts to refer eligible convicted offenders to Drug Court
+      Omit section 18B(6).
+      Insert instead—
+               (6)   In this section—
+                     appeal includes an application for annulment of sentence to the extent the
+                     application relates to a decision referred to in subsection (5).
+                     confirm, in relation to a sentence of imprisonment, includes a determination
+                     of a court on appeal to confirm a sentence of imprisonment but with a reduced
+                     unexpired non-parole period.
+[5]   Schedule 2 Savings, transitional and other provisions
+      Insert at the end of the schedule, with appropriate part numbering—
+
+
+
+
+Page 17
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Part          Provision consequent on enactment of Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2)
+                    2026
+          1   Application of amendments
+                    The amendments to the Act, sections 5A and 18B made by the Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2) 2026, extend to the
+                    following occurrences before the commencement of the schedule—
+                     (a) a conviction or imposition of a sentence of imprisonment,
+                    (b) a determination of an appeal that reduced the unexpired non-parole
+                          period of a sentence of imprisonment.
+
+1.13 Health Records and Information Privacy Act 2002 No 71
+[1]   Section 17B
+      Insert after section 17A—
+      17B     Exemption in relation to BOCSAR
+              (1)   An organisation is not required to comply with HPP 10 and 11 in relation to
+                    any of the following activities if the purpose of the activity is reasonably
+                    necessary for the carrying out of BOCSAR’s functions—
+                    (a) the disclosure of health information to BOCSAR,
+                    (b) the use of health information to facilitate the disclosure of the health
+                          information to BOCSAR,
+                           Example— the interrogation, processing and preparation of health information
+                           before the health information is disclosed to BOCSAR
+                    (c)    the use of health information to facilitate the use of the health
+                           information by BOCSAR.
+                           Example— another part of the Department of Communities and Justice giving
+                           health information to BOCSAR
+              (2)   BOCSAR is not required to comply with HPP 3, 4(2), 6–8, 10 and 11 in
+                    relation to any of the following activities if the purpose of the activity is
+                    reasonably necessary for the carrying out of BOCSAR’s functions—
+                     (a) the collection or use of health information,
+                    (b) the disclosure of health information to another public sector agency.
+              (3)   For this section, BOCSAR’s functions include the following—
+                    (a) producing independent crime statistics, including by using data
+                           de-identification and data linkage,
+                    (b) developing and maintaining crime statistics databases,
+                    (c) undertaking research and providing analytical advice on crime and the
+                           criminal justice system, including by using data de-identification and
+                           data linkage,
+                    (d) monitoring and forecasting trends in crime statistics,
+                    (e) conducting research and evaluations relating to crime and the criminal
+                           justice system,
+                     (f) publicly reporting crime statistics to inform public understanding,
+                           transparency and policy debate.
+              (4)   In this section—
+
+
+Page 18
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                     BOCSAR means the group of persons referred to as the Bureau of Crime
+                     Statistics and Research employed in the Department of Communities and
+                     Justice.
+                     crime statistics means statistics about crime and the criminal justice system,
+                     including statistics about—
+                      (a) community safety, and
+                     (b) the risk and susceptibility that persons will become victims or
+                            perpetrators of crime.
+
+1.14 Judicial Officers Act 1986 No 100
+[1]   Section 3 Definitions
+      Insert in alphabetical order in section 3(1)—
+                    industrial matters, for Part 3—see section 4A.
+[2]   Section 4A
+      Insert before section 5—
+       4A    Definition
+                     In this part—
+                     industrial matters has the same meaning as in the Industrial Relations Act
+                     1996.
+[3]   Section 6 Staff etc of the Commission
+      Omit section 6(1).
+      Insert instead—
+             (1)     The Commission may appoint a Chief Executive and other staff of the
+                     Commission to enable the Commission to exercise the Commission’s
+                     functions.
+            (1A)     The Chief Executive and the staff of the Commission are taken to be employed
+                     by the Government in the service of the Crown, except as provided by
+                     subsection (1C).
+            (1B)     A person appointed as a member of staff of the Commission under this
+                     section—
+                     (a) continues, subject to this section and the terms of the person’s
+                            appointment, to be employed as a member of staff at the discretion of
+                            the Commission, and
+                     (b) is, in the person’s capacity as a member of staff, subject to the control
+                            and direction of the Commission.
+            (1C)     For proceedings relating to staff employed under this section held before a
+                     competent tribunal which has jurisdiction to deal with industrial matters, the
+                     Commission is taken to be the employer of the staff.
+[4]   Section 6(5)
+      Omit “employed”.
+      Insert instead “appointed”.
+
+
+
+
+Page 19
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+[5]   Section 6, note
+      Insert at the end of the section—
+                    Note— The Government Sector Employment Act 2013, section 5 excludes the
+                    application of that Act to the staff of the Commission.
+
+[6]   Section 6A
+      Insert after section 6—
+       6A     Commission may enter into agreements
+              (1)   The Commission may enter into an agreement with an association or
+                    organisation representing a group or class of staff of the Commission for
+                    industrial matters.
+              (2)   An agreement binds all persons in the group or class affected by the
+                    agreement, and no person, whether or not a member of the association or
+                    organisation with which the agreement was entered into, has a right of appeal
+                    against the terms of the agreement.
+              (3)   An agreement under this section is not an enterprise agreement within the
+                    meaning of the Industrial Relations Act 1996.
+              (4)   Despite subsection (3), the Commission may, as the employer of the staff of
+                    the Commission, enter into an enterprise agreement under the Industrial
+                    Relations Act 1996.
+[7]   Schedule 5 Provisions relating to the rights of certain staff of the Commission
+      Omit “section 6 (1)” from clause 1, definition of member of staff.
+      Insert instead “section 6”.
+[8]   Schedule 5, clause 3(a)
+      Omit “being a member of staff, ceases to be employed by”.
+      Insert instead “ceases to be a member of staff of”.
+[9]   Schedule 6 Savings and transitional provisions
+      Insert at the end of the schedule, with appropriate part numbering—
+
+      Part          Provisions consequent on enactment of Justice
+                    Legislation Amendment (Miscellaneous) Act (No 2)
+                    2026
+          1   Definitions
+                    In this part—
+                    amendment Act means the Justice Legislation Amendment (Miscellaneous)
+                    Act (No 2) 2026.
+                    commencement date means the date on which the amendment Act, Schedule
+                    1.14 commenced.
+          2   Existing staff of Commission
+              (1)   A person who, immediately before the commencement date, was employed by
+                    the Commission under section 6 is on the commencement date taken to—
+                     (a) be appointed, in accordance with section 6 as substituted by the
+                          amendment Act, as a member of staff of the Commission, and
+
+
+Page 20
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                    (b)    hold the same staff position the person held immediately before the
+                           commencement date.
+             (2)    A person who, under subclause (1), is taken to be appointed and employed as
+                    a member of staff of the Commission—
+                    (a) retains all rights to leave, including annual leave, extended leave and
+                          sick leave, accrued to the person as an employee of the Commission
+                          before the commencement date, and
+                    (b) continues to be employed in accordance with a State industrial
+                          instrument or determination that applied to the person as an employee
+                          of the Commission, unless or until otherwise provided for under this Act
+                          or another Act or law.
+
+1.15 Legal Profession Uniform Law Application Act 2014 No 16
+[1]   Section 21C
+      Insert after section 21B—
+      21C    Supreme Court roll
+                    The NSW Admission Board may, at the request of the Supreme Court, assist
+                    the Court in exercising the Court’s functions under the Legal Profession
+                    Uniform Law (NSW), section 22(1).
+[2]   Section 35A
+      Insert after section 35—
+      35A    Investigation of unqualified legal practice
+             (1)    The Bar Council or Law Society Council may appoint a suitably qualified
+                    person to investigate a person who the Bar Council or Law Society Council
+                    reasonably suspects has contravened the Legal Profession Uniform Law
+                    (NSW), section 10 or 11.
+             (2)    The Legal Profession Uniform Law (NSW), Chapter 7 and Part 9.9, other than
+                    section 466(3), apply to an investigation under this section.
+             (3)    For subsection (2), a reference in the Legal Profession Uniform Law (NSW)—
+                    (a) to a trust records investigation is taken to include a reference to an
+                          investigation under this section, and
+                    (b) to the following persons is taken to include a reference to a person
+                          appointed under subsection (1)—
+                           (i) an investigator in Chapter 7,
+                          (ii) a relevant person in sections 462, 465 and 467.
+[3]   Section 148 Definitions
+      Omit the definition of disciplinary action, paragraphs (d) and (e).
+      Insert instead—
+                    (d)    the making of an order by a court or tribunal, or by another person or
+                           body, for or following a finding of unsatisfactory professional conduct
+                           or professional misconduct by the lawyer, other than the following
+                           orders—
+                            (i) an order cautioning the lawyer,
+                           (ii) an order requiring an apology from the lawyer if—
+
+
+Page 21
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                                  (A)  no other orders were made in relation to the same
+                                       disciplinary matter, or
+                                 (B) the only other order made in relation to the same
+                                       disciplinary matter was an order cautioning the lawyer,
+                    (e)    the reprimanding of the lawyer by a person or body without a formal
+                           finding of unsatisfactory professional conduct or professional
+                           misconduct,
+[4]   Section 152 Register of Disciplinary Action
+      Insert after section 152(7)—
+            (7A)    The NSW Commissioner may, if the Commissioner considers it appropriate,
+                    remove from the register a disciplinary action taken against a lawyer if the
+                    lawyer has died.
+
+1.16 Local Court Act 2007 No 93
+[1]   Schedule 1 Provisions relating to Judges
+      Omit “clause 10A” from clause 6.
+      Insert instead “clauses 10A and 11(5)”.
+[2]   Schedule 1, clause 11(5)
+      Insert after clause 11(4)—
+             (5)    A Deputy Chief Judge who is the holder of another judicial office of the State
+                    is entitled to be paid the higher of the following—
+                     (a) remuneration as Deputy Chief Judge in accordance with the Statutory
+                            and Other Offices Remuneration Act 1975,
+                    (b) remuneration as the holder of the other judicial office.
+
+1.17 Mental Health and Cognitive Impairment Forensic Provisions Act 2020
+     No 12
+[1]   Section 3 Definitions
+      Insert in alphabetical order in section 3(1)—
+                    correctional officer has the same meaning as in the Crimes (Administration of
+                    Sentences) Act 1999.
+                    juvenile justice officer has the same meaning as in the Children (Detention
+                    Centres) Act 1987.
+[2]   Section 7 Interpretation
+      Omit section 7(1), definition of juvenile justice officer.
+[3]   Section 22 Orders may relate to transfer of defendants by certain persons
+      Omit section 22(4).
+[4]   Section 115 Transfer and transport of patients
+      Omit section 115(6) and (7).
+[5]   Section 115A
+      Insert after section 115—
+
+
+Page 22
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+      115A   Functions of persons transferring and transporting patients
+             (1)    A transferee patient may be taken to or from a mental health facility,
+                    correctional centre, detention centre or other place under section 115 by one
+                    or more of the following persons—
+                    (a) a correctional officer,
+                    (b) a juvenile justice officer,
+                    (c) a person referred to in the Mental Health Act 2007, section 81(1),
+                    (d) another person prescribed by the regulations.
+             (2)    A correctional officer taking a transferee patient to or from a place may, in
+                    relation to the transferee patient, exercise the functions the correctional officer
+                    has under the Crimes (Administration of Sentences) Act 1999 and the
+                    regulations made under that Act in relation to an inmate.
+             (3)    A juvenile justice officer taking a transferee patient to or from a place may, in
+                    relation to the transferee patient, exercise the functions the juvenile justice
+                    officer has under the Children (Detention Centres) Act 1987 and the
+                    regulations made under that Act in relation to a detainee.
+             (4)    If a transferee patient is being taken to or from a place by a person referred to
+                    in subsection (1)(c) or (d)—
+                     (a) the person may, in relation to the transferee patient, exercise the
+                            functions referred to in the Mental Health Act 2007, section 81 in the
+                            same way the functions may be exercised in relation to a person being
+                            transported under that section, and
+                    (b) the Mental Health Act 2007, section 81(3) applies in relation to the
+                            transferee patient in the same way it applies to a person being
+                            transported under that section.
+             (5)    In this section—
+                    transferee patient means—
+                     (a) a forensic patient, or
+                    (b) a correctional patient, or
+                     (c) a person subject to a transfer order under section 86.
+[6]    Section 156 Victims Register
+       Omit “victim.” from section 156(3)(b).
+       Insert instead—
+                           victim, or
+                    (c)    the forensic patient was transferred to the State under the Mental Health
+                           Act 2007, Chapter 8, Part 2, Division 2.
+[7]    Section 156A Scheme Executive to notify victims of forensic patients or notifiable
+       family members about Victims Register
+       Omit “Commissioner” wherever occurring.
+       Insert instead “Scheme Executive”.
+
+1.18 NSW Trustee and Guardian Act 2009 No 49
+[1]    Section 128 Regulations
+       Omit “payable.” from section 128(2)(d).
+
+
+Page 23
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+      Insert instead—
+                           payable,
+                    (e)    notification requirements relating to orders and interim orders of the
+                           MHRT under Part 4.3, Division 1,
+                     (f)   requirements for mental health facilities to notify the NSW Trustee of
+                           the movements of a managed person.
+
+1.19 Powers of Attorney Act 2003 No 53
+[1]   Schedule 5 Savings, transitional and other provisions
+      Insert at the end of the schedule, with appropriate part numbering—
+
+      Part          Miscellaneous
+          1   Enduring power of attorney executed between 13 September 2013 and 20
+              February 2014
+              (1)   This clause applies to an instrument executed as an enduring power of attorney
+                    between—
+                    (a) 13 September 2013, and
+                    (b) 20 February 2014.
+              (2)   An instrument to which this clause applies is not invalid only because the
+                    witness certificate for the instrument does not include the statement required
+                    by section 19(1)(c)(iv).
+              (3)   In this clause—
+                    witness certificate means the certificate that, under section 19(1)(c), is
+                    required to be endorsed on or annexed to an instrument creating an enduring
+                    power of attorney.
+
+1.20 Privacy and Personal Information Protection Act 1998 No 133
+[1]   Section 3 Definitions
+      Insert in alphabetical order in section 3(1)—
+                    Centre for Health Record Linkage means the group of persons referred to as
+                    the Centre for Health Record Linkage employed in the NSW Health Service.
+[2]   Section 17 Limits on use of personal information
+      Omit “person.” from section 17(c).
+      Insert instead—
+                           person, or
+                    (d)    the use of the information for the other purpose is to enable information
+                           to be shared with and used by the Centre for Health Record Linkage.
+[3]   Section 18 Limits on disclosure of personal information
+      Omit “person.” from section 18(1)(c).
+      Insert instead—
+                           person, or
+                    (d)    the disclosure of the information is—
+
+
+
+Page 24
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                            (i)   for a purpose other than the purpose for which the information
+                                  was collected, and
+                           (ii)   to enable information to be shared with and used by the Centre
+                                  for Health Record Linkage.
+[4]   Section 27E
+      Insert after section 27D—
+      27E    Exemption relating to BOCSAR
+             (1)    A public sector agency is not required to comply with the information
+                    protection principles under sections 17–19 in relation to any of the following
+                    activities if the purpose of the activity is reasonably necessary for the carrying
+                    out of BOCSAR’s functions—
+                    (a) the disclosure of personal information to BOCSAR,
+                    (b) the use of personal information to facilitate the disclosure of the
+                           personal information to BOCSAR,
+                           Example— the interrogation, processing and preparation of personal
+                           information before the personal information is disclosed to BOCSAR
+                    (c)    the use of personal information to facilitate the use of the personal
+                           information by BOCSAR.
+                           Example— another part of the Department of Communities and Justice giving
+                           personal information to BOCSAR
+             (2)    BOCSAR is not required to comply with the information protection principles
+                    under sections 9, 13–15 and 17–19 in relation to any of the following activities
+                    if the purpose of the activity is reasonably necessary for the carrying out of
+                    BOCSAR’s functions—
+                     (a) the collection or use of personal information,
+                    (b) the disclosure of personal information to another public sector agency.
+             (3)    For this section, BOCSAR’s functions include the following—
+                    (a) producing independent crime statistics, including by using data
+                           de-identification and data linkage,
+                    (b) developing and maintaining crime statistics databases,
+                    (c) undertaking research and providing analytical advice on crime and the
+                           criminal justice system, including by using data de-identification and
+                           data linkage,
+                    (d) monitoring and forecasting trends in crime statistics,
+                    (e) conducting research and evaluations relating to crime and the criminal
+                           justice system,
+                     (f) publicly reporting crime statistics to inform public understanding,
+                           transparency and policy debate.
+             (4)    In this section—
+                    BOCSAR means the group of persons referred to as the Bureau of Crime
+                    Statistics and Research employed in the Department of Communities and
+                    Justice.
+                    crime statistics means statistics about crime and the criminal justice system,
+                    including statistics about—
+                     (a) community safety, and
+
+
+
+
+Page 25
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+                    (b)    the risk and susceptibility that persons will become victims or
+                           perpetrators of crime.
+
+1.21 Public Notaries Act 1997 No 98
+[1]   Section 7 Roll of public notaries
+      Insert after section 7(5)—
+            (5A)    A public notary must annually notify the Admission Board, in accordance with
+                    the rules, of—
+                     (a) the particulars required under subsection (2) to be entered in the roll in
+                           relation to the public notary, and
+                    (b) other information prescribed by the rules.
+[2]   Section 9 Rules for public notaries
+      Omit section 9(f).
+      Insert instead—
+                    (f)     the annual notification by public notaries of—
+                             (i) the particulars required to be entered in the roll, and
+                            (ii) other information relating to the Board’s functions,
+                    (fa)    the fees payable to the Board in relation to the following—
+                             (i) the examination of candidates for appointment as public notaries,
+                            (ii) the appointment of public notaries,
+                           (iii) the certificates of appointment of public notaries,
+                           (iv) the annual notification by public notaries under section 7(5A),
+
+1.22 Sheriff Act 2005 No 6
+[1]   Section 7E
+      Insert after section 7D—
+       7E    Use of body-worn recording devices by Sheriff and sheriff’s officers
+             (1)    A sheriff’s officer is authorised to use a relevant device if—
+                    (a) the officer uses the device in the exercise of the officer’s functions
+                          under this Act or another Act or law, and
+                    (b) the device is prominently attached to the officer’s body or clothing, and
+                    (c) at least one of the following circumstances applies—
+                           (i) before using the device, the officer made a reasonable attempt to
+                                 ensure the person likely to be recorded by the device was aware
+                                 the device was capable of recording images or sound, or both,
+                          (ii) in the officer’s opinion, there is a significant risk of harm to the
+                                 officer or another person,
+                         (iii) the recording of images or sound, or both, by the device is
+                                 inadvertent or unexpected.
+             (2)    A sheriff’s officer may only use a relevant device in court premises under this
+                    section in accordance with a written agreement between the head of the court,
+                    however described, and the Sheriff.
+
+
+
+
+Page 26
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+             (3)    A sheriff’s officer does not commit an offence against the Surveillance
+                    Devices Act 2007, section 7 or 8 for use of a relevant device in accordance with
+                    this section.
+             (4)    In this section—
+                    relevant device has the same meaning as in the Surveillance Devices Act 2007,
+                    section 8A.
+                    sheriff’s officer includes the Sheriff.
+
+1.23 Terrorism (Police Powers) Act 2002 No 115
+[1]   Section 26ZS Sunset provision
+      Omit “2026” wherever occurring in section 26ZS(1) and (2).
+      Insert instead “2029”.
+
+1.24 Victims Support Act 2013 No 37
+[1]   Section 19 Meaning of “act of violence”
+      Omit “self-manipulation” from section 19(8), definition of sexual assault and domestic
+      violence, paragraph (c).
+      Insert instead “self-penetration”.
+
+1.25 Young Offenders Act 1997 No 54
+[1]   Section 45 Preparation for conferences
+      Omit “, the person or court that” from section 45(2)(a).
+      Insert instead “or person who”.
+[2]   Section 54
+      Omit the section.
+      Insert instead—
+       54    Matters referred by courts
+             (1)    A conference convenor must, if requested by a court, give to the court an
+                    outcome plan relating to a matter referred for a conference by the court.
+             (2)    The court may—
+                    (a) approve the plan, or
+                    (b) not approve the plan.
+             (3)    If the court does not approve the plan, the court—
+                     (a) must notify the conference convenor, and
+                    (b) may continue the proceedings.
+[3]   Section 56 Satisfactory completion of outcome plans
+      Insert after section 56(2)—
+             (3)    For a matter referred for a conference by a court, the conference administrator
+                    must give the court the outcome plan when giving written notice under this
+                    section.
+
+
+
+Page 27
+Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026 [NSW]
+Schedule 1 Amendment of Acts
+
+
+
+             (4)    Subsection (3) does not apply if the conference convenor for the matter has
+                    given the court the outcome plan under section 54(1).
+
+
+
+
+Page 28
+

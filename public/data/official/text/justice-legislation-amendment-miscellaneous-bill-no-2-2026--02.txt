@@ -1,0 +1,27 @@
+        JUSTICE LEGISLATION AMENDMENT (MISCELLANEOUS) BILL (NO 2) 2026
+
+
+    Schedule of amendment referred to in the Legislative Council's message of 24 September 2026.
+
+No. 1   GRNS No. 5 [c2025-247I]
+        Page 27, Schedule 1.20[1] and [2], lines 25–37. Omit all words on the lines. Insert instead—
+        [1]    Section 3 Definitions
+               Insert in alphabetical order in section 3(1)—
+               Centre for Health Record Linkage means the group of persons referred to as the Centre
+               for Health Record Linkage employed in the NSW Health Service.
+        [2]    Section 17 Limits on use of personal information
+               Omit “person.” from section 17(c).
+               Insert instead—
+               person, or
+               (d)    the use of the information for the other purpose is to enable information to be shared
+                      with and used by the Centre for Health Record Linkage.
+        [2A] Section 18 Limits on disclosure of personal information
+               Omit “person.” from section 18(1)(c).
+               Insert instead—
+               person, or
+               (d)    the disclosure of the information is—
+                      (i)    for a purpose other than the purpose for which the information was collected,
+                             and
+                      (ii)   to enable information to be shared with and used by the Centre for Health
+                             Record Linkage.
+

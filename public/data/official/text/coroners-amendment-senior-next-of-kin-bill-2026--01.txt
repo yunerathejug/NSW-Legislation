@@ -1,0 +1,838 @@
+                                                                                        First print
+
+
+
+
+                                     New South Wales
+
+
+
+
+Coroners Amendment (Senior Next of Kin)
+Bill 2026
+
+Explanatory note
+This explanatory note relates to this Bill as introduced into Parliament.
+
+Overview of Bill
+The object of this Bill is to implement recommendations arising from the statutory review of the
+Coroners Act 2009 (the Act) relating to—
+(a) determining the person who is, or is presumed to be, the senior next of kin of a deceased
+      person for the Act and enabling coroners to appoint a person as the senior next of kin if the
+      presumed senior next of kin is not available or is not an appropriate person to act as the
+      senior next of kin, and
+(b) recognising extended family or kin structures in different cultures, including in Aboriginal
+      and Torres Strait Islander cultures, and
+(c) enabling the senior next of kin to exercise functions verbally, and
+(d) making and applying for orders in relation to the release of a deceased person’s remains.
+
+Outline of provisions
+Clause 1 sets out the name, also called the short title, of the proposed Act.
+Clause 2 provides for the commencement of the proposed Act.
+
+Schedule 1             Amendment of Coroners Act 2009 No 41
+Schedule 1[1] and [3] make amendments to insert part headings in the Act, Chapter 1.
+Schedule 1[4] makes amendments to the definitions section of the Act.
+
+
+
+b2026-095.d17
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Explanatory note
+
+
+
+Schedule 1[5] amends the definition of relative.
+Schedule 1[6]—
+(a) substitutes section 6A to provide for the person who is considered to be the senior next of
+     kin of a deceased person, and
+(b) provides in proposed section 6B for the definition of presumed next of kin, and
+(c) provides in proposed section 6C for a coroner to appoint a person as the next of kin of a
+     deceased person, and
+(d) provides in proposed section 6D for applications to the Supreme Court for an order to vary
+     a coroner’s appointment of the next of kin of a deceased person.
+Schedule 1[7]–[9] make consequential amendments.
+Schedule 1[10] provides for applications to the Supreme Court for an order to revoke a decision
+by a coroner to issue an exhumation warrant under the Act, section 91.
+Schedule 1[12] substitutes the Act, section 96 to update provisions about objections by the senior
+next of kin of a deceased person to the carrying out of post mortem investigations by a coroner.
+Schedule 1[13] makes a consequential amendment.
+Schedule 1[14] substitutes the Act, section 98 to update provisions about the senior next of kin of
+a deceased person authorising another person to carry out a function of the senior next of kin.
+Schedule 1[11] makes a consequential amendment.
+Schedule 1[2], [15], [17]–[24] update language in the Act to remove references to the disposal of
+human remains.
+Schedule 1[25]—
+(a) substitutes the Act, section 101 to provide for orders made by a coroner for—
+     (i)    the burial, cremation or other interment of human remains, or
+     (ii) the delivery or handing over of human remains for anatomical or medical research, or
+     (iii) the removal of human remains from the State, and
+(b) provides in proposed section 101AA for an application to the Supreme Court for an order
+     to vary—
+     (i)    the person to whom an order under the Act, section 101 is given, or
+     (ii) the conditions of an order under the Act, section 101.
+Schedule 1[16] makes an amendment consequent on Schedule 1[25].
+
+
+
+
+Page 2
+                                                           First print
+
+
+
+
+                                 New South Wales
+
+
+
+
+Coroners Amendment (Senior Next of Kin)
+Bill 2026
+Contents
+                                                                Page
+
+                1   Name of Act                                    2
+                2   Commencement                                   2
+Schedule 1          Amendment of Coroners Act 2009 No 41           3
+
+
+
+
+b2026-095.d17
+This PUBLIC BILL, originated in the LEGISLATIVE ASSEMBLY and, having this day
+passed, is now ready for presentation to the LEGISLATIVE COUNCIL for its concurrence.
+
+
+
+
+                                                              Clerk of the Legislative Assembly
+Legislative Assembly
+
+
+
+
+                                    New South Wales
+
+
+
+
+Coroners Amendment (Senior Next of Kin)
+Bill 2026
+
+No        , 2026
+
+
+A Bill for
+An Act to amend the Coroners Act 2009 to implement recommendations of the statutory review
+of the Act about the senior next of kin and other relatives of a deceased person and the release of
+human remains; and to make related and consequential amendments.
+
+
+
+
+The LEGISLATIVE COUNCIL has this day agreed to this Bill with/without amendment.
+
+
+
+                                                                        Clerk of the Parliaments
+Legislative Council
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+
+
+
+
+The Legislature of New South Wales enacts—                                          1
+
+  1   Name of Act                                                                   2
+
+             This Act is the Coroners Amendment (Senior Next of Kin) Act 2026.      3
+
+  2   Commencement                                                                  4
+
+             This Act commences on a day or days to be appointed by proclamation.   5
+
+
+
+
+Page 2
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+Schedule 1             Amendment of Coroners Act 2009 No 41                                             1
+
+[1]   Part 1.1, heading                                                                                 2
+
+      Insert before section 1—                                                                          3
+
+
+      Part 1.1 General                                                                                  4
+
+[2]   Sections 3(g), 15(1)(b)(i), 56(3) and 90(4)                                                       5
+
+      Omit “disposal” wherever occurring.                                                               6
+
+      Insert instead “interment or other disposition”.                                                  7
+
+[3]   Part 1.2, heading                                                                                 8
+
+      Insert after section 3—                                                                           9
+
+
+      Part 1.2 Interpretation                                                                          10
+
+[4]   Section 4 Definitions                                                                            11
+
+      Omit section 4(1), definitions of relative, senior next of kin and the State.                    12
+
+      Insert in alphabetical order—                                                                    13
+                    appointed next of kin—see section 6C(2).                                           14
+                    authorised person, for Part 8.2—see section 95A.                                   15
+                    child, of a deceased person, includes the following—                               16
+                    (a) an adopted child of the deceased person,                                       17
+                    (b) a step-child of the deceased person,                                           18
+                    (c) a child for whose long-term welfare the deceased person had parental           19
+                           responsibility within the meaning of the Children and Young Persons         20
+                           (Care and Protection) Act 1998.                                             21
+                   Note— The Status of Children Act 1996 sets out legal presumptions about parentage   22
+                   that apply under the laws of the State.                                             23
+                   death includes a suspected death.                                                   24
+                   deceased person includes a person who is suspected to have died.                    25
+                   legal personal representative, of a deceased person, means the person who           26
+                   was the legal representative of the deceased person immediately before the          27
+                   deceased person’s death.                                                            28
+                   member of extended family or kin, of a deceased person, means a person who,         29
+                   in accordance with the customs or traditions of the community of which the          30
+                   deceased person was a part, is a member of the deceased person’s extended           31
+                   family or kin.                                                                      32
+                   not reasonably available, in relation to a person, means, at the relevant time—     33
+                    (a) a person of that type does not exist, or                                       34
+                   (b) the person cannot be reasonably contacted, or                                   35
+                    (c) the person is unwilling or unable to act in the relevant capacity.             36
+                   parent, of a deceased person, includes the following persons—                       37
+                    (a) an adoptive parent of the deceased person,                                     38
+                   (b) a step-parent of the deceased person,                                           39
+
+
+
+
+Page 3
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+                    (c)   a person who had parental responsibility, within the meaning of the             1
+                          Children and Young Persons (Care and Protection) Act 1998, for the              2
+                          long-term welfare of the deceased person,                                       3
+                    (d)   a person who stood in loco parentis to the deceased person.                     4
+                    Note— The Status of Children Act 1996 sets out legal presumptions about parentage     5
+                    that apply under the laws of the State.                                               6
+                    presumed next of kin—see section 6B.                                                  7
+                    relative—see section 5.                                                               8
+                    relevant post mortem investigative function, for Part 8.2—see section 95.             9
+                    section 101 order, for Chapter 9—see section 100A.                                   10
+                    senior next of kin—see section 6A.                                                   11
+                    sibling includes a half-sibling, adoptive sibling and step-sibling.                  12
+
+[5]   Section 5                                                                                          13
+
+      Omit the section.                                                                                  14
+
+      Insert instead—                                                                                    15
+
+          5   Meaning of “relative”                                                                      16
+
+              (1)   For this Act, a person is a relative of a deceased person if the person is—          17
+                    (a) a spouse of the deceased person, or                                              18
+                    (b) a child of the deceased person, or                                               19
+                    (c) a parent of the deceased person, or                                              20
+                    (d) a sibling of the deceased person, or                                             21
+                    (e) if the senior next of kin of the deceased person is not a person referred        22
+                           to in paragraphs (a)–(d)—the senior next of kin.                              23
+
+              (2)   If the deceased person was an Aboriginal or Torres Strait Islander person, or        24
+                    was from another cultural background with a system of extended family or             25
+                    kinship, a coroner may, for this Act, treat another adult who is a member of the     26
+                    extended family or kin of the deceased person as a relative of the deceased          27
+                    person.                                                                              28
+
+[6]   Sections 6A–6D                                                                                     29
+
+      Omit section 6A.                                                                                   30
+
+      Insert instead—                                                                                    31
+
+         6A   Meaning of “senior next of kin”                                                            32
+
+              (1)   For this Act, the senior next of kin of a deceased person is—                        33
+                    (a) a person who, under section 6B, is the presumed next of kin of the               34
+                           deceased person, or                                                           35
+                    (b) if a coroner appoints a person as the appointed next of kin of the               36
+                           deceased person under section 6C—the appointed next of kin.                   37
+
+              (2)   A coroner may, from time to time, treat a deceased person’s legal personal           38
+                    representative as the senior next of kin of the deceased person if the senior next   39
+                    of kin is not reasonably available.                                                  40
+
+         6B   Meaning of “presumed next of kin”                                                          41
+
+              (1)   For this Act, the presumed next of kin of a deceased person is—                      42
+
+
+
+
+Page 4
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+                    (a)   the spouse of the deceased person, or                                            1
+                    (b)   if the spouse is not reasonably available—one or more adult children of          2
+                          the deceased person, or                                                          3
+                    (c)   if the spouse or an adult child is not reasonably available—the parents          4
+                          of the deceased person, or                                                       5
+                    (d)   if the spouse, an adult child or a parent is not reasonably available—one        6
+                          or more adult siblings of the deceased person, or                                7
+                    (e)   if the spouse, an adult child, a parent or an adult sibling is not reasonably    8
+                          available—                                                                       9
+                           (i) a person named as an executor in the deceased person’s will, or            10
+                          (ii) the deceased person’s legal personal representative, or                    11
+                    (f)   if the persons referred to in paragraphs (a)–(e) are not reasonably             12
+                          available—a person who, in the coroner’s opinion, is an appropriate             13
+                          person to be recognised as the presumed next of kin because the person          14
+                          has or had a relevant personal connection with the deceased person.             15
+                    Example— If the deceased person did not have a spouse and there are 3 adult           16
+                    children, each of the adult children may be a presumed next of kin of the deceased    17
+                    person.                                                                               18
+
+              (2)   If the deceased person was an Aboriginal or Torres Strait Islander person, or         19
+                    was from another cultural background with a system of extended family or              20
+                    kinship, a coroner may, despite subsection (1), treat one or more members of          21
+                    the extended family or kin of the deceased person as the presumed next of kin         22
+                    if the coroner is satisfied it is appropriate.                                        23
+
+              (3)   A person referred to in subsection (1)(f) or (2) who is available, willing and        24
+                    able to act as the senior next of kin of the deceased person may notify the           25
+                    coroner of the person’s availability to be considered under this section.             26
+
+              (4)   In this section—                                                                      27
+                    relevant personal connection, with a deceased person, means—                          28
+                     (a) a close personal relationship with the deceased person, and                      29
+                    (b) responsibility for, or a genuine interest in, the deceased person’s welfare       30
+                           and best interests.                                                            31
+
+         6C   Appointed next of kin                                                                       32
+
+              (1)   This section applies if a coroner is satisfied that—                                  33
+                    (a) the process for determining the presumed next of kin of the deceased              34
+                          person under section 6B(1) or (2) results in—                                   35
+                            (i) more than one person being the presumed next of kin of the                36
+                                 deceased person, and                                                     37
+                           (ii) disagreement between the presumed next of kin about—                      38
+                                 (A) which of the presumed next of kin should be taken to be the          39
+                                       senior next of kin, or                                             40
+                                        Example— The deceased person did not have a spouse and            41
+                                        there are 3 adult children, each of whom wishes to act alone as   42
+                                        the senior next of kin of the deceased person.                    43
+                                  (B) a decision required to be made by the senior next of kin, or        44
+                    (b)   it is not appropriate in the circumstances for the presumed next of kin of      45
+                          the deceased person to act as the senior next of kin of the deceased            46
+                          person.                                                                         47
+
+
+
+
+Page 5
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+              (2)   The coroner may appoint an adult as the next of kin of the deceased person (the    1
+                    appointed next of kin).                                                            2
+
+              (3)   Before appointing a person under this section, the coroner must take               3
+                    reasonable steps to notify each eligible person that the coroner is considering    4
+                    appointing an appointed next of kin of the deceased person.                        5
+
+              (4)   When deciding to appoint a person, the coroner must—                               6
+                    (a) have regard to the person who, in the circumstances, is the most               7
+                         appropriate person to act as the senior next of kin of the deceased           8
+                         person, and                                                                   9
+                    (b) consider allegations that the person, or a presumed next of kin of the        10
+                         deceased person, has engaged in domestic abuse against the deceased          11
+                         person.                                                                      12
+
+              (5)   If a coroner appoints a person as the appointed next of kin of the deceased       13
+                    person, the coroner must—                                                         14
+                     (a) make the appointment as soon as reasonably practicable in the                15
+                           circumstances, and                                                         16
+                    (b) take reasonable steps to notify each eligible person of the appointment.      17
+
+              (6)   In this section—                                                                  18
+                    domestic abuse has the same meaning as in the Crimes (Domestic and                19
+                    Personal Violence) Act 2007.                                                      20
+                    eligible person means a person—                                                   21
+                     (a) the coroner considers eligible to be the presumed next of kin of the         22
+                           deceased person, and                                                       23
+                    (b) who has notified the coroner that the person wishes to be the deceased        24
+                           person’s senior next of kin.                                               25
+
+         6D   Application to Supreme Court for order about appointed next of kin                      26
+
+              (1)   A person may, with the leave of the Supreme Court, apply to the Court for one     27
+                    or both of the following orders—                                                  28
+                    (a) an order to remove a person appointed under section 6C as the                 29
+                          appointed next of kin of a deceased person,                                 30
+                    (b) an order to appoint a person as the appointed next of kin of a deceased       31
+                          person.                                                                     32
+
+              (2)   The Supreme Court must refuse leave to make the application if, in the Court’s    33
+                    opinion—                                                                          34
+                    (a) the person seeking leave to make the application is not a person referred     35
+                          to in section 6B(1) or (2), or                                              36
+                    (b) the person has not sought leave to make the application within a              37
+                          reasonable time after the decision was made, or                             38
+                    (c) it would otherwise be inappropriate or unreasonable to grant the person       39
+                          leave to make the application.                                              40
+
+              (3)   The Supreme Court may determine an application by—                                41
+                    (a) making the order applied for, or                                              42
+                    (b) making a different order, or                                                  43
+                    (c) making an order referring the matter back to the coroner for                  44
+                         reconsideration, or                                                          45
+                    (d) refusing to make an order.                                                    46
+
+
+
+Page 6
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+             (4)   If the Supreme Court grants leave to make an application under this section,         1
+                   the coroner’s appointment under section 6C is stayed until the Court                 2
+                   determines the application in accordance with subsection (3).                        3
+
+             (5)   The regulations may prescribe the maximum period of time that may be                 4
+                   considered reasonable for subsection (2)(b).                                         5
+
+ [7]   Section 38 Medical practitioner must not certify cause of death if death is reportable           6
+
+       Omit section 38(3).                                                                              7
+
+       Insert instead—                                                                                  8
+
+             (3)   A medical practitioner may not certify the cause of death of a person under          9
+                   subsection (2) if, before the certificate is given, a relative of the deceased      10
+                   person indicates to the medical practitioner that the relative objects to the       11
+                   certificate being given.                                                            12
+
+ [8]   Section 57 Representation in coronial proceedings                                               13
+
+       Omit section 57(3).                                                                             14
+
+       Insert instead—                                                                                 15
+
+             (3)   A coroner holding an inquest into the death of a person must grant leave under      16
+                   subsection (1) to a person who is a relative of the deceased person unless the      17
+                   coroner is satisfied there are exceptional circumstances that justify refusing to   18
+                   grant leave.                                                                        19
+
+ [9]   Section 75 Powers of coroner in relation to reports or proceedings concerning                   20
+       self-inflicted deaths                                                                           21
+
+       Omit section 75(3).                                                                             22
+
+[10]   Section 91A                                                                                     23
+
+       Insert after section 91—                                                                        24
+
+       91A   Application to Supreme Court to revoke exhumation warrant                                 25
+
+             (1)   A person may, with the leave of the Supreme Court, apply to the Court for an        26
+                   order revoking a decision by a coroner to issue an exhumation warrant under         27
+                   section 91.                                                                         28
+
+             (2)   The Supreme Court must refuse leave to make the application if, in the Court’s      29
+                   opinion—                                                                            30
+                   (a) the person seeking leave to make the application does not have a                31
+                         sufficient connection with the deceased person, or                            32
+                   (b) the person has not sought leave to make the application within a                33
+                         reasonable time after the Coroner’s decision was made, or                     34
+                   (c) it would otherwise be inappropriate or unreasonable to grant the person         35
+                         leave to make the application.                                                36
+
+             (3)   The Supreme Court may determine an application by—                                  37
+                   (a) making the order applied for, or                                                38
+                   (b) refusing to make the order.                                                     39
+
+             (4)   If the Supreme Court grants leave to make an application under this section,        40
+                   the execution of the exhumation warrant is stayed until the application is          41
+                   determined by the Court.                                                            42
+
+
+
+
+Page 7
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+              (5)   The regulations may prescribe the maximum period of time that may be               1
+                    considered reasonable for subsection (2)(b).                                       2
+
+[11]   Section 95A                                                                                     3
+
+       Insert before section 95—                                                                       4
+
+       95A    Definition                                                                               5
+
+                    In this part—                                                                      6
+                    authorised person—see section 98(1).                                               7
+
+[12]   Section 96                                                                                      8
+
+       Omit the section.                                                                               9
+
+       Insert instead—                                                                                10
+
+         96   Objections by senior next of kin to exercise of relevant post mortem                    11
+              investigative functions                                                                 12
+
+              (1)   The senior next of kin of a deceased person may ask a coroner or an assistant     13
+                    coroner not to exercise a relevant post mortem investigative function in          14
+                    relation to the deceased person.                                                  15
+
+              (2)   The request may be made—                                                          16
+                    (a) in writing, or                                                                17
+                    (b) if the coroner or assistant coroner considers it appropriate in the           18
+                          circumstances—verbally.                                                     19
+
+              (3)   If a request is made to an assistant coroner, the assistant coroner—              20
+                     (a) must not make any further decision about the exercise of the relevant        21
+                           post mortem investigative function, and                                    22
+                    (b) must refer the request to a coroner.                                          23
+
+              (4)   The coroner to whom the request is made or referred must, as soon as              24
+                    practicable, consider the request and decide whether or not the relevant post     25
+                    mortem investigative function should be exercised.                                26
+
+              (5)   If the coroner decides the post mortem examination or whole organ retention       27
+                    is necessary or desirable, the coroner must immediately give the senior next of   28
+                    kin written notice of the decision.                                               29
+
+              (6)   The notice of the decision must—                                                  30
+                    (a) if the notice relates to a post mortem examination—indicate the earliest      31
+                          time the post mortem examination may be conducted, being no earlier         32
+                          than 48 hours after the senior next of kin is given the notice, and         33
+                    (b) state that the senior next of kin may apply to the Supreme Court for an       34
+                          order that the post mortem examination not be conducted or the whole        35
+                          organ not be retained.                                                      36
+
+              (7)   The coroner may refuse a request by the senior next of kin that a post mortem     37
+                    examination not be conducted on the deceased person if the coroner is satisfied   38
+                    the senior next of kin has been, or may be, charged with an offence in            39
+                    connection with the deceased person’s death.                                      40
+
+              (8)   Subsection (7) does not prevent another person appointed as or taken to be the    41
+                    senior next of kin from asking that a post mortem examination not be              42
+                    conducted on the deceased person.                                                 43
+
+
+
+
+Page 8
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+[13]    Section 97 Applications to Supreme Court by senior next of kin                                   1
+        Omit “section 96(3)” from section 97(1).                                                         2
+
+        Insert instead “section 96(5)”.                                                                  3
+
+[14]    Section 98                                                                                       4
+
+        Omit the section.                                                                                5
+
+        Insert instead—                                                                                  6
+
+         98   Senior next of kin may authorise another person to exercise functions                      7
+
+              (1)    The senior next of kin of a deceased person may authorise another person (the       8
+                     authorised person) to exercise the senior next of kin’s functions under this        9
+                     part, other than this power of authorisation.                                      10
+
+              (2)    The authorisation may be—                                                          11
+                     (a) given in writing, or                                                           12
+                     (b) if the coroner or assistant coroner considers it appropriate in the            13
+                           circumstances—communicated to the coroner or assistant coroner               14
+                           verbally.                                                                    15
+
+              (3)    The authorised person may make a request to a coroner or assistant coroner         16
+                     under this part only if the coroner or assistant coroner—                          17
+                     (a) has been given a copy of the written authorisation, or                         18
+                     (b) has allowed the authorisation to be communicated verbally and has              19
+                           received that communication.                                                 20
+
+              (4)    The authorised person may make an application to the Supreme Court under           21
+                     this part only if the Court—                                                       22
+                      (a) has been given a copy of the written authorisation, or                        23
+                     (b) has received confirmation from the relevant coroner or assistant coroner       24
+                            that the coroner or assistant coroner allowed the authorisation to be       25
+                            communicated verbally and received that communication.                      26
+
+              (5)    Despite subsection (1), if a coroner has refused a request by the senior next of   27
+                     kin that a post mortem examination not be conducted on the deceased person         28
+                     under section 96(7), the senior next of kin may not authorise another person to    29
+                     make the request.                                                                  30
+
+[15]    Chapter 9, heading                                                                              31
+
+        Omit “Disposal”.                                                                                32
+
+        Insert instead “Interment or other disposition”.                                                33
+
+[16]    Section 100A                                                                                    34
+
+        Insert before section 100—                                                                      35
+
+       100A   Definition                                                                                36
+
+                     In this chapter—                                                                   37
+                     section 101 order means an order made by a coroner under section 101.              38
+
+[17]    Section 100, heading                                                                            39
+
+        Omit “disposal”.                                                                                40
+
+        Insert instead “interment or other disposition”.                                                41
+
+
+
+Page 9
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+[18]   Section 100(1)                                                                                   1
+       Omit “bury or cremate human remains, or place human remains in a mausoleum or other              2
+       permanent resting place, or cause the remains to be so buried, cremated or placed,”.             3
+
+       Insert instead “bury, cremate or otherwise inter human remains, or arrange for the remains       4
+       to be buried, cremated or otherwise interred,”.                                                  5
+
+[19]   Section 100(1)(a)                                                                                6
+
+       Omit “in his or her possession, an appropriate disposal authorisation for the disposal of the    7
+       remains”.                                                                                        8
+
+       Insert instead “in the person’s possession, an appropriate authorisation relating to the         9
+       remains”.                                                                                       10
+
+[20]   Section 100(1)(b)                                                                               11
+
+       Omit “disposal”.                                                                                12
+
+       Insert instead “burial, cremation or other interment”.                                          13
+
+[21]   Section 100(2)                                                                                  14
+
+       Omit “(other than cremated remains) from the State, or cause such remains to be so              15
+       delivered, handed over or removed,”.                                                            16
+
+       Insert instead “, other than cremated remains, from the State, or arrange for the remains to    17
+       be delivered or handed over for anatomical or medical research or removed from the State,”.     18
+
+[22]   Section 100(2)(a)                                                                               19
+
+       Omit “an appropriate disposal authorisation for the disposal of the remains”.                   20
+
+       Insert instead “an appropriate authorisation relating to the remains”.                          21
+
+[23]   Section 100(2)(b)                                                                               22
+
+       Omit “disposal”.                                                                                23
+
+       Insert instead “delivery, handing over or removal”.                                             24
+
+[24]   Section 100(3)                                                                                  25
+
+       Omit the subsection.                                                                            26
+
+       Insert instead—                                                                                 27
+
+             (3)    In this section—                                                                   28
+                    appropriate authorisation means—                                                   29
+                     (a) in relation to the remains of a deceased person, other than a stillborn       30
+                            child—                                                                     31
+                             (i) a notice given by a medical practitioner under the Births, Deaths     32
+                                  and Marriages Registration Act 1995, section 39 relating to the      33
+                                  deceased person, or                                                  34
+                            (ii) a section 101 order relating to the remains, or                       35
+                           (iii) a certificate issued under the Births, Deaths and Marriages           36
+                                  Registration Act 1995, section 51 relating to the deceased person,   37
+                                  or                                                                   38
+                    (b) in relation to the remains of a stillborn child—                               39
+
+
+
+
+Page 10
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+                           (i)    a certificate or notice given by a medical practitioner under the    1
+                                  Births, Deaths and Marriages Registration Act 1995, section          2
+                                  12(3) relating to the stillborn child, or                            3
+                           (ii)   a section 101 order relating to the remains.                         4
+
+[25]   Sections 101 and 101AA                                                                          5
+
+       Omit section 101.                                                                               6
+
+       Insert instead—                                                                                 7
+
+       101   Orders authorising release of human remains for interment or other                        8
+             disposition                                                                               9
+
+             (1)   A coroner may, by written order, authorise the following (an authorised            10
+                   purpose)—                                                                          11
+                   (a) the burial, cremation or other interment of human remains,                     12
+                   (b) the delivery or handing over of human remains for anatomical or                13
+                        medical research,                                                             14
+                   (c) the removal of human remains from the State.                                   15
+                   Note— The Anatomy Act 1977 and the Human Tissue Act 1983 regulate the              16
+                   circumstances under which human remains may be used in anatomical or medical       17
+                   research.                                                                          18
+
+             (2)   The order may be made—                                                             19
+                   (a) on the coroner’s own motion, or                                                20
+                   (b) on application by a person.                                                    21
+
+             (3)   The order—                                                                         22
+                   (a) must specify the person to whom the remains may be released for the            23
+                         authorised purpose, and                                                      24
+                   (b) may include the conditions the coroner considers necessary.                    25
+
+             (4)   An application may be made under subsection (2)(b) only if—                        26
+                   (a) a section 101 order has not previously been made in relation to the            27
+                        remains, or                                                                   28
+                   (b) a section 101 order has previously been made in relation to the remains,       29
+                        but the person to whom the remains may be released under the order has        30
+                        not accepted the release of the remains within a reasonable time after the    31
+                        order was made.                                                               32
+
+             (5)   For subsection (3)(a), the coroner must determine the person to whom the           33
+                   remains may be released having regard to the following principles—                 34
+                    (a) for an order made on the coroner’s own motion—the remains should be           35
+                         released to the senior next of kin of the deceased person or an authorised   36
+                         person unless—                                                               37
+                          (i) the senior next of kin or authorised person is not reasonably           38
+                                available, or                                                         39
+                         (ii) the senior next of kin or authorised person has not, after a            40
+                                reasonable time, accepted the release of the remains under a          41
+                                previous order,                                                       42
+                   (b) otherwise—                                                                     43
+                          (i) if the senior next of kin of the deceased person or an authorised       44
+                                person is an applicant—the remains should be released to the          45
+                                senior next of kin or authorised person, or                           46
+
+
+
+Page 11
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+                          (ii)    if the senior next of kin or an authorised person is not an              1
+                                  applicant—the remains should be released to a person named as            2
+                                  an executor in the deceased person’s will, or                            3
+                          (iii)   if the applicants do not include the senior next of kin, an              4
+                                  authorised person or an executor—the coroner should determine            5
+                                  the person to whom the remains may be released having regard             6
+                                  to—                                                                      7
+                                  (A) the principles of common law relating to the release of a            8
+                                        body of a deceased person, and                                     9
+                                  (B) whether the person is able and willing to take possession           10
+                                        of the remains.                                                   11
+
+             (6)   Subsection (5) does not apply to unidentified remains.                                 12
+
+             (7)   Without limiting subsection (1), the order may be made by a coroner who—               13
+                   (a) is holding, has held or is intending to hold an inquest into the death of          14
+                        the deceased person, or                                                           15
+                   (b) has decided not to hold an inquest into the death of the deceased person.          16
+
+             (8)   If the remains are those of a stillborn child and a medical practitioner has not       17
+                   certified the cause of foetal death, the order may only be made by a coroner           18
+                   who—                                                                                   19
+                    (a) has been informed by a police officer of the stillbirth, and                      20
+                   (b) is, after considering the information in the coroner’s possession,                 21
+                          satisfied the stillbirth occurred.                                              22
+                   Note— A coroner may, under section 89(2), give an appropriate medical investigator a   23
+                   post mortem investigation direction to conduct an examination of the remains to        24
+                   determine whether the remains are those of a stillborn child.                          25
+
+             (9)   If a coroner makes an order under subsection (1) and it is later established at        26
+                   an inquest that the remains were those of a stillborn child, the order is valid        27
+                   and is taken to have been made under subsection (8).                                   28
+
+            (10)   In this section—                                                                       29
+                   authorised person means a person authorised by the senior next of kin of a             30
+                   deceased person for the purposes of accepting the release of the deceased              31
+                   person’s remains.                                                                      32
+                   released means released from the control of the coroner or another person.             33
+
+  101AA      Application to Supreme Court for order about release of human remains                        34
+
+             (1)   A person may, with the leave of the Supreme Court, apply to the Court for an           35
+                   order to vary a section 101 order as follows—                                          36
+                   (a) to change the person to whom the human remains may be released,                    37
+                   (b) to vary the conditions of the order.                                               38
+
+             (2)   The Supreme Court must refuse leave to make the application if, in the Court’s         39
+                   opinion—                                                                               40
+                   (a) the person seeking leave to make the application does not have a                   41
+                         sufficient connection with the deceased person, or                               42
+                   (b) the person has not sought leave to make the application within a                   43
+                         reasonable time after the decision was made, or                                  44
+                   (c) it would otherwise be inappropriate or unreasonable to grant the person            45
+                         leave to make the application.                                                   46
+
+             (3)   The Supreme Court may determine an application by—                                     47
+
+
+
+Page 12
+Coroners Amendment (Senior Next of Kin) Bill 2026 [NSW]
+Schedule 1 Amendment of Coroners Act 2009 No 41
+
+
+
+                    (a)   making the order applied for, or                                         1
+                    (b)   making a different order, or                                             2
+                    (c)   refusing to make an order.                                               3
+
+             (4)   If the Supreme Court grants leave to make an application under this section,    4
+                   the section 101 order is stayed until the Court determines the application in   5
+                   accordance with subsection (3).                                                 6
+
+             (5)   The regulations may prescribe the maximum period of time that may be            7
+                   considered reasonable for subsection (2)(b).                                    8
+
+
+
+
+Page 13
+

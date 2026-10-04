@@ -1,0 +1,1772 @@
+Introduced by Ms K L Shetty, MP                                                          First print
+
+
+
+
+                                     New South Wales
+
+
+
+
+Lobbying of Government Officials
+Amendment (Access and Influence) Bill 2026
+
+Explanatory note
+This explanatory note relates to this Bill as introduced into Parliament.
+
+Overview of Bill
+The objects of this Bill are as follows—
+(a) to amend the Lobbying of Government Officials Act 2011 (the Act) to—
+      (i)    extend the scope of the Act to include a wider range of public officials, lobbyists and
+             lobbying activities, and
+      (ii) provide for public disclosure of lobbying activities, and
+      (iii) provide that senior public officials must not engage in lobbying for 4 years after
+             leaving office, and
+      (iv) establish a Lobbying and Integrity Commission to administer the Act,
+(b) to amend the Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation
+      2014 to implement a new Lobbyists Code of Conduct that reflects the proposed
+      amendments to the Act.
+
+Outline of provisions
+Clause 1 sets out the name, also called the short title, of the proposed Act.
+Clause 2 provides for the commencement of the proposed Act.
+
+
+
+
+b2025-140.d14
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Explanatory note
+
+
+
+Schedule 1              Amendment of Lobbying of Government Officials
+                        Act 2011 No 5
+Schedule 1[2] amends the name of the Act to the Lobbying of Public Officials Act 2011. Schedule
+1[1] makes a consequential amendment to the long title.
+Schedule 1[6] and [7] make consequential amendments to definitions.
+Schedule 1[9] and [11] make amendments to the definition of lobbying to include a person
+lobbying on the person’s own behalf.
+Schedule 1[12] inserts proposed Parts 1A, 1B and 1C to provide for the establishment of the
+Lobbying and Integrity Commission (the Commission) and the Lobbying and Integrity Advisory
+Board and to make provision for making and investigating complaints about lobbying. Schedule
+1[4] and [22] make consequential amendments.
+Schedule 1[13] substitutes Parts 2 and 3 to provide for a lobbying code of conduct applying to
+lobbyists and public officials and for the registration of lobbyists. Schedule 1[3], [5], [8], [10] and
+[14]–[16] make consequential amendments.
+Schedule 1[17] substitutes Part 6 and inserts Parts 6A, 6B and 6C to provide for a lobbying
+exclusion period, the disclosure by both lobbyists and senior public officials of lobbying activities,
+further obligations of senior public officials and agencies and enforcement and investigative
+functions of the Commission.
+Schedule 1[18] requires the Commission to give a lobbyist written notice of an adverse decision
+about the lobbyist and the Commission’s reasons for the decision.
+Schedule 1[19] provides for the making of regulations.
+Schedule 1[20] and [21] provide for the way that offences may be prosecuted.
+
+Schedule 2              Amendment of Lobbying of Government Officials
+                        (Lobbyists Code of Conduct) Regulation 2014
+Schedule 2[1] amends the name of the Lobbying of Government Officials (Lobbyists Code of
+Conduct) Regulation 2014 to the Lobbying of Public Officials (Lobbying Code of Conduct)
+Regulation 2014.
+Schedule 2[2] makes an amendment consequential to the amendment of the name of the Act.
+Schedule 2[3], [4] and [6]–[13] make amendments consequential on the amendments made by
+Schedule 1[13] to the Lobbyists Register.
+Schedule 2[5] makes an amendment to exempt lobbyists who are not prohibited donors and who
+operate on a not-for-profit basis from the obligation to register.
+Schedule 2[14] substitutes Schedule 1.
+
+Schedule 3              Amendment of Acts
+Schedule 3 makes amendments consequent on Schedule 1[11].
+
+
+
+
+Page 2
+Introduced by Ms K L Shetty, MP                                              First print
+
+
+
+
+                                  New South Wales
+
+
+
+
+Lobbying of Government Officials
+Amendment (Access and Influence) Bill 2026
+Contents
+                                                                                    Page
+
+                1   Name of Act                                                       2
+                2   Commencement                                                      2
+Schedule 1          Amendment of Lobbying of Government Officials Act 2011 No 5       3
+Schedule 2          Amendment of Lobbying of Government Officials (Lobbyists Code
+                    of Conduct) Regulation 2014                                      23
+Schedule 3          Amendment of Acts                                                28
+
+
+
+
+b2025-140.d14
+This PUBLIC BILL, originated in the LEGISLATIVE ASSEMBLY and, having this day
+passed, is now ready for presentation to the LEGISLATIVE COUNCIL for its concurrence.
+
+
+
+
+                                                           Clerk of the Legislative Assembly
+Legislative Assembly
+
+
+
+
+                                  New South Wales
+
+
+
+
+Lobbying of Government Officials
+Amendment (Access and Influence) Bill 2026
+
+No       , 2026
+
+
+A Bill for
+An Act to amend the Lobbying of Government Officials Act 2011 to make further provision about
+the regulation of the lobbying of Government officials; and for related purposes.
+
+
+
+
+The LEGISLATIVE COUNCIL has this day agreed to this Bill with/without amendment.
+
+
+
+                                                                   Clerk of the Parliaments
+Legislative Council
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+
+
+
+
+The Legislature of New South Wales enacts—                                                           1
+
+  1   Name of Act                                                                                    2
+
+             This Act is the Lobbying of Government Officials Amendment (Access and Influence)       3
+             Act 2026.                                                                               4
+
+  2   Commencement                                                                                   5
+
+             This Act commences on the day that is 12 months after the date of assent to this Act.   6
+
+
+
+
+Page 2
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+Schedule 1             Amendment of Lobbying of Government Officials                            1
+                       Act 2011 No 5                                                            2
+
+[1]   Long title                                                                                3
+
+      Omit “Government” wherever occurring.                                                     4
+
+      Insert “public” instead.                                                                  5
+
+[2]   Section 1 Name of Act                                                                     6
+
+      Omit “Lobbying of Government Officials Act 2011”.                                         7
+
+      Insert instead “Lobbying of Public Officials Act 2011”.                                   8
+
+[3]   Section 2A Objects of Act                                                                 9
+
+      Omit “Lobbyists Code” wherever occurring.                                                10
+
+      Insert instead “Lobbying Code of Conduct”.                                               11
+
+[4]   Sections 2A(b) and (c), 12(1), (3) and (4), 13(2) and 20                                 12
+
+      Omit “Electoral” wherever occurring.                                                     13
+
+[5]   Section 2A(e)                                                                            14
+
+      Omit “Ministers and Parliamentary Secretaries”.                                          15
+
+      Insert instead “senior public officials”.                                                16
+
+[6]   Section 3 Definitions                                                                    17
+
+      Omit section 3(1), definitions of Electoral Commission, Government official, lobbyist,   18
+      Lobbyists Code, Lobbyists Register and third-party lobbyist.                             19
+
+[7]   Section 3(1)                                                                             20
+
+      Insert in alphabetical order—                                                            21
+                    Advisory Board—see section 4I.                                             22
+                    appointment diary, for Part 6A—see section 18D.                            23
+                    authorised person, for Part 6C—see section 18L.                            24
+                    Commission—see section 4A.                                                 25
+                    Commissioner—see section 4B.                                               26
+                    complaint, for Part 6C—see section 18L.                                    27
+                    disqualification period—see section 11A(3).                                28
+                    exclusion period, for Part 6—see section 18.                               29
+                    Joint Committee means the Committee on the Ombudsman, the Law              30
+                    Enforcement Conduct Commission and the Crime Commission, constituted       31
+                    under the Ombudsman Act 1974.                                              32
+                    Lobbying Code of Conduct means the Lobbying Code of Conduct prescribed     33
+                    by the regulations under Part 2.                                           34
+                    lobbyist means—                                                            35
+                     (a) a person or entity involved in lobbying public officials, and         36
+                    (b) includes a person or entity prescribed by the regulations.             37
+                    meeting, for Part 6A—see section 18D.                                      38
+                    payment, for Part 6A—see section 18D.                                      39
+
+
+
+
+Page 3
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                      prohibited donor, for Part 6A—see section 18D.                                        1
+                      public official means the following—                                                  2
+                      (a) a Minister or Parliamentary Secretary,                                            3
+                      (b) another member of Parliament,                                                     4
+                      (c) a person employed under the Members of Parliament Staff Act 2013,                 5
+                             Part 2 or Part 3,                                                              6
+                      (d) a person employed in the Public Service,                                          7
+                      (e) an individual engaged under a contract to provide services to or on               8
+                             behalf of the Public Service or another service of the Crown in right of       9
+                             the State,                                                                    10
+                       (f) a statutory office holder,                                                      11
+                      (g) a member of, or of the governing body of, a statutory body,                      12
+                      (h) a councillor within the meaning of the Local Government Act 1993,                13
+                       (i) an employee or officer of a local council,                                      14
+                       (j) an individual engaged under contract to provide services to or on behalf        15
+                             of a local council.                                                           16
+                      Public Service senior executive has the same meaning as in the Government            17
+                      Sector Employment Act 2013.                                                          18
+                      Register—see section 8(1).                                                           19
+                      registered, in relation to a lobbyist, means registered under Part 3.                20
+                      related complaint, for Part 6C—see section 18L.                                      21
+                      restricted individual, for Part 6—see section 18.                                    22
+                      senior public official means the following—                                          23
+                      (a) a Minister or Parliamentary Secretary,                                           24
+                      (b) a Shadow Minister or Parliamentary Secretary,                                    25
+                      (c) a Member of Parliament nominated by the Member’s political party as              26
+                             the party’s spokesperson for one or more areas of government                  27
+                             responsibility,                                                               28
+                      (d) a person employed under the Members of Parliament Staff Act 2013,                29
+                             Part 2 or Part 3, in the office of a Minister, a Parliamentary Secretary or   30
+                             a Shadow Minister,                                                            31
+                      (e) a Public Service senior executive,                                               32
+                       (f) a statutory office holder,                                                      33
+                      (g) the mayor, deputy mayor or general manager of a local council.                   34
+
+ [8]   Sections 4(1) and (3)(b), 14 and 15(1), (2) and (3)                                                 35
+
+       Omit “Government official” wherever occurring.                                                      36
+
+       Insert instead “public official”.                                                                   37
+
+ [9]   Section 4(1)                                                                                        38
+
+       Omit “the interests of others”.                                                                     39
+
+       Insert instead “an interest”.                                                                       40
+
+[10]   Sections 4(2)(a) and 12(2)                                                                          41
+
+       Omit “Government”.                                                                                  42
+
+
+
+
+Page 4
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+       Insert instead “public”.                                                                     1
+
+[11]   Section 4(3)(b1)                                                                             2
+
+       Insert after section 4(3)(b)—                                                                3
+                    (b1) a communication by a member of the community about the member’s            4
+                            personal experience whether or not the communication is made in         5
+                            connection with lobbying by another person, or                          6
+
+[12]   Parts 1A–1C                                                                                  7
+
+       Insert after section 4—                                                                      8
+
+
+       Part 1A Lobbying and Integrity Commission                                                    9
+
+
+       Division 1          Constitution and management of Lobbying and                             10
+                           Integrity Commission                                                    11
+
+         4A   Lobbying and Integrity Commission                                                    12
+
+              (1)   There is constituted by this Act a body corporate with the corporate name of   13
+                    the Lobbying and Integrity Commission (the Commission).                        14
+
+              (2)   The Commission is a statutory body representing the Crown.                     15
+
+         4B   Appointment of Commissioner                                                          16
+
+              (1)   The Governor may, on the recommendation of the Minister, appoint a             17
+                    Lobbying and Integrity Commissioner (the Commissioner).                        18
+
+              (2)   The functions of the Commission are exercisable by the Commissioner.           19
+
+              (3)   An act, matter or thing done in the name of, or on behalf of, the Commission   20
+                    by the Commissioner, or with the authority of the Commissioner, is taken to    21
+                    have been done by the Commission.                                              22
+
+              (4)   Schedule 2 contains provisions relating to the Commissioner.                   23
+
+         4C   Joint Committee may veto proposed appointment of Commissioner                        24
+
+                    The Minister must not recommend the appointment of a person as                 25
+                    Commissioner unless—                                                           26
+                    (a) the Minister has referred person’s proposed appointment to the Joint       27
+                        Committee, and                                                             28
+                    (b) the Committee has not, within 28 days after the referral, given the        29
+                        Minister written notice that the Committee objects to the proposed         30
+                        appointment.                                                               31
+
+         4D   Acting Commissioner                                                                  32
+
+              (1)   The Minister may appoint a person to act as Commissioner during—               33
+                    (a) the illness or absence of the Commissioner, or                             34
+                    (b) a vacancy in the office of Commissioner.                                   35
+
+              (2)   A person acting as Commissioner—                                               36
+                    (a) has and may exercise the Commissioner’s functions, and                     37
+                    (b) is taken to be the Commissioner.                                           38
+
+
+
+
+Page 5
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+              (3)     The Minister may, at any time, remove a person from office as acting                1
+                      Commissioner.                                                                       2
+
+              (4)     An acting Commissioner is entitled to be paid the same remuneration and             3
+                      allowances as the Commissioner.                                                     4
+
+      Division 2            Functions of Lobbying and Integrity Commission                                5
+
+         4E   Functions of Commission                                                                     6
+
+              (1)     The Commission has the following functions—                                         7
+                      (a) assessing, auditing and reporting on compliance with this Act and the           8
+                            Lobbying Code of Conduct by the following—                                    9
+                             (i) lobbyists,                                                              10
+                            (ii) government sector agencies,                                             11
+                           (iii) public officials,                                                       12
+                      (b) advising government sector agencies and public officials about                 13
+                            compliance with this Act and the Lobbying Code of Conduct,                   14
+                      (c) receiving, investigating and managing complaints under Part 1C,                15
+                      (d) maintaining the Lobbyists Watch List,                                          16
+                      (e) developing and providing training for public officials about this Act and      17
+                            the Lobbying Code of Conduct,                                                18
+                      (f) other functions conferred or imposed on the Commission by or under             19
+                            this Act or the regulations.                                                 20
+
+              (2)     When exercising a function, the Commission may give information to and             21
+                      obtain information from the following—                                             22
+                      (a) ICAC,                                                                          23
+                      (b) the Electoral Commissioner,                                                    24
+                      (c) the Information Commissioner,                                                  25
+                      (d) the State Records Authority established by the State Records Act 1998,         26
+                      (e) other persons or bodies prescribed by the regulations.                         27
+
+              (3)     When exercising a function, the Commission may, by written notice, direct a        28
+                      person to give the Commission the information or records specified in the          29
+                      notice.                                                                            30
+
+              (4)     A person must not, without lawful excuse, fail to comply with a direction          31
+                      under subsection (3).                                                              32
+                      Maximum penalty—50 penalty units.                                                  33
+
+      Division 3            Miscellaneous                                                                34
+
+         4F   Staff                                                                                      35
+
+                      Persons may be employed in the Public Service to enable the exercise of the        36
+                      Commission’s functions.                                                            37
+                      Note— The Government Sector Employment Act 2013, section 59 provides that the      38
+                      persons employed for the Commission, or whose services the Commission makes use    39
+                      of, may be referred to as officers or employees, or members of staff, of the       40
+                      Commission. The Constitution Act 1902, section 47A precludes the Commission from   41
+                      employing staff.                                                                   42
+
+
+
+
+Page 6
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+         4G   Delegation                                                                               1
+                    The Commissioner may delegate the Commission’s functions under this Act,           2
+                    other than this power of delegation, to the following—                             3
+                    (a) a member of staff of the Commission,                                           4
+                    (b) a person prescribed by the regulations.                                        5
+
+         4H   Annual report to Parliament                                                              6
+
+              (1)   The Commission must, by 31 October in each year—                                   7
+                    (a) prepare a report (an annual report) on the activities of the Commission        8
+                         during the financial year ending on the previous 30 June, and                 9
+                    (b) give the report to the Minister.                                              10
+
+              (2)   An annual report must include the following for the financial year to which the   11
+                    report relates—                                                                   12
+                     (a) a description of the Commission’s activities in relation to each of the      13
+                           Commission’s functions,                                                    14
+                    (b) the activities of, and recommendations made by, the Advisory Board            15
+                           during the previous financial year,                                        16
+                     (c) other matters prescribed by the regulations.                                 17
+
+              (3)   The Minister must, within 14 days after receiving an annual report, give the      18
+                    report to the Presiding Officer of each House of Parliament.                      19
+
+              (4)   A copy of an annual report given to the Presiding Officer of a House of           20
+                    Parliament under subsection (3) must be laid before the House within 5 sitting    21
+                    days of the House after the report is received by the Presiding Officer.          22
+
+              (5)   If an annual report includes a recommendation by the Commission that the          23
+                    report be made public immediately, the Presiding Officer of a House of            24
+                    Parliament may make the annual report public whether or not the House is in       25
+                    session and whether or not the report has been laid before the House.             26
+
+
+      Part 1B Lobbying and Integrity Advisory Board                                                   27
+
+         4I   Establishment of Lobbying and Integrity Advisory Board                                  28
+
+                    The Minister must establish a Lobbying and Integrity Advisory Board (the          29
+                    Advisory Board).                                                                  30
+
+         4J   Membership                                                                              31
+
+              (1)   The Advisory Board must consist of the following members appointed by the         32
+                    Minister—                                                                         33
+                    (a) the Commissioner, or the Commissioner’s nominee,                              34
+                    (b) a nominee of the Electoral Commissioner,                                      35
+                    (c) the following persons appointed by the Minister—                              36
+                           (i) a nominee of an organisation, prescribed by the regulations, that      37
+                               represents workers,                                                    38
+                          (ii) a nominee of an organisation, prescribed by the regulations, that      39
+                               represents charitable and not for profit organisations,                40
+                         (iii) a nominee of an organisation, prescribed by the regulations, that      41
+                               represents business interests.                                         42
+
+
+
+
+Page 7
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+              (2)   The Commissioner, or the Commissioner’s nominee, is the chairperson of the       1
+                    Advisory Board.                                                                  2
+
+              (3)   Schedule 3 contains provisions relating to the members of the Advisory Board.    3
+
+         4K   Function of Advisory Board                                                             4
+
+                    The function of the Advisory Board is to advise the Minister on the              5
+                    following—                                                                       6
+                     (a) amendment of this Act and the Lobbying Code of Conduct, including in        7
+                          relation to—                                                               8
+                           (i) the registration of lobbyists, and                                    9
+                          (ii) the public disclosure of information about lobbying and lobbying     10
+                                 activities,                                                        11
+                    (b) lobbying reform in other States and Territories and overseas,               12
+                     (c) other matters directed by the Minister.                                    13
+
+         4L   Meetings and procedure                                                                14
+
+              (1)   The procedure of the Advisory Board must be determined by the Board,            15
+                    including—                                                                      16
+                     (a) the calling of meetings, and                                               17
+                    (b) the conduct of business at the meetings, and                                18
+                     (c) the disclosure of pecuniary interests.                                     19
+
+              (2)   The Advisory Board must meet at least 4 times each calendar year.               20
+
+
+      Part 1C Complaints                                                                            21
+
+         4M   Making complaint about lobbying                                                       22
+
+              (1)   A person may make a complaint to the Commission about lobbying.                 23
+
+              (2)   A complaint must—                                                               24
+                    (a) be in writing, and                                                          25
+                    (b) identify the person making the complaint, and                               26
+                    (c) identity the lobbyist and public official involved in the lobbying.         27
+
+         4N   Commissioner may make complaint                                                       28
+
+                    The Commissioner may make a complaint, but only if the Commissioner is          29
+                    satisfied the subject matter of the complaint is a matter of public interest.   30
+
+         4O   Investigating complaint                                                               31
+
+              (1)   The Commission may investigate a complaint or decide that a complaint need      32
+                    not be investigated.                                                            33
+
+              (2)   The Commission may discontinue an investigation.                                34
+
+              (3)   When investigating a complaint the Commission must ensure that the identity     35
+                    of the person who made the complaint, or information that might identify the    36
+                    person, is not disclosed unless the Commission is satisfied—                    37
+                    (a) proper investigation of the complaint requires disclosure of the            38
+                           information, and                                                         39
+                    (b) there is an overriding public interest in the investigation of the          40
+                           complaint.                                                               41
+
+
+
+Page 8
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+         4P   Outcome of investigations                                                                  1
+              (1)   At the end of an investigation, the Commission may take one or more of the           2
+                    following actions—                                                                   3
+                     (a) if the Commission is reasonably satisfied a lobbyist may have                   4
+                          contravened the Lobbying Code of Conduct—suspend or cancel the                 5
+                          lobbyist’s registration,                                                       6
+                    (b) if the Commission is reasonably satisfied a person referred to in the            7
+                          definition of public official, paragraph (a), (b) or (c) may have              8
+                          contravened the Lobbying Code of Conduct—refer the Commission’s                9
+                          findings to the Presiding Officers of the Parliament,                         10
+                     (c) if the Commission is reasonably satisfied a person referred to in the          11
+                          definition of public official, paragraph (d) or (e) may have contravened      12
+                          the Lobbying Code of Conduct—refer the Commission’s findings to the           13
+                          head of the Public Service agency concerned,                                  14
+                    (d) if the Commission is reasonably satisfied a person referred to in the           15
+                          definition of public official, paragraph (f) or (g) may have contravened      16
+                          the Lobbying Code of Conduct—refer the Commission’s findings to the           17
+                          Minister administering the Act under which the person was appointed,          18
+                     (e) if the Commission is reasonably satisfied a person referred to in the          19
+                          definition of public official, paragraph (h) may have contravened the         20
+                          Lobbying Code of Conduct—refer the Commission’s findings to the               21
+                          Minister administering the Local Government Act 1993,                         22
+                     (f) if the Commission is reasonably satisfied a person referred to in the          23
+                          definition of public official, paragraph (i) or (j) may have contravened      24
+                          the Lobbying Code of Conduct—refer the Commission’s findings to the           25
+                          Mayor of the relevant local council.                                          26
+
+              (2)   At any point in an investigation the Commission may, if the Commission is           27
+                    reasonably satisfied a lobbyist or public official may have committed an            28
+                    offence under this Act or another law, refer the matter to the Director of Public   29
+                    Prosecutions.                                                                       30
+
+              (3)   The Commission must report an action taken under this section to the Joint          31
+                    Committee.                                                                          32
+
+         4Q   Duty to report corrupt conduct                                                            33
+
+                    If, at any point in an investigation, the Commission suspects on reasonable         34
+                    grounds the complaint may concern corrupt conduct under the Independent             35
+                    Commission Against Corruption Act 1988, the Commission must report the              36
+                    suspicion to ICAC.                                                                  37
+                    Note— See the Independent Commission Against Corruption Act 1988, section 11.       38
+
+[13]   Parts 2 and 3                                                                                    39
+
+       Omit the parts.                                                                                  40
+
+       Insert instead—                                                                                  41
+
+
+       Part 2       Lobbying Code of Conduct                                                            42
+
+          5   Making of Lobbying Code of Conduct                                                        43
+
+              (1)   The regulations may prescribe a Lobbying Code of Conduct.                           44
+
+              (2)   The Minister must consult the Commission and the Advisory Board before              45
+                    recommending the Governor make a regulation prescribing—                            46
+
+
+
+Page 9
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                    (a)   a proposed Lobbying Code of Conduct, and                                      1
+                    (b)   a proposed amendment to or replacement of the Lobbying Code of                2
+                          Conduct.                                                                      3
+
+          6   Content of Lobbying Code of Conduct                                                       4
+
+              (1)   The Lobbying Code of Conduct must—                                                  5
+                    (a) specify the ethical standards of conduct that must be observed by all           6
+                         persons involved in or the subject of lobbying activities, including—          7
+                          (i) lobbyists, and                                                            8
+                         (ii) public officials, and                                                     9
+                    (b) prohibit lobbyists offering gifts or other benefits to public officials, and   10
+                    (c) prohibit a public official giving a lobbyist preferential treatment,           11
+                         including access to the official, on the basis of an existing or former       12
+                         relationship between the official and the lobbyist.                           13
+
+              (2)   The Lobbying Code of Conduct may—                                                  14
+                    (a) address other matter relating to lobbying, including the procedures for        15
+                         meetings or other contact between lobbyists and public officials, and         16
+                    (b) make different provisions for different classes of lobbyist or public          17
+                         official.                                                                     18
+
+          7   Compliance with Lobbying Code of Conduct                                                 19
+
+                    A lobbyist and a public official must comply with the Lobbying Code of             20
+                    Conduct.                                                                           21
+                    Maximum penalty—50 penalty units.                                                  22
+
+
+      Part 3        Registration of lobbyists                                                          23
+
+          8   Register of lobbyists                                                                    24
+
+              (1)   The Commission must establish and maintain a register of lobbyists (the            25
+                    Register).                                                                         26
+
+              (2)   A copy of the Register must be made publicly available and free of charge in       27
+                    a single searchable document on the Commission’s website.                          28
+
+          9   Registration                                                                             29
+
+              (1)   A lobbyist must be registered on the Register.                                     30
+                    Maximum penalty—50 penalty units.                                                  31
+
+              (2)   An application for registration must—                                              32
+                    (a) be made by the lobbyist seeking registration,                                  33
+                    (b) be made in the way determined by the Commission,                               34
+                    (c) include the information required by the Commission,                            35
+                    (d) include the fee prescribed by the regulations.                                 36
+
+              (3)   The Commission may require an applicant for registration to give the               37
+                    Commission evidence of the applicant’s criminal record in a form suitable to       38
+                    the Commission.                                                                    39
+
+              (4)   The Commission must not register a person—                                         40
+                    (a) who is an officer of a registered political party, or                          41
+
+
+
+
+Page 10
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                    (b)   who is a person the Commission is not satisfied is a fit and proper            1
+                          person for registration, or                                                    2
+                    (c)   who does not satisfy criteria for registration prescribed by the               3
+                          regulations, or                                                                4
+                    (d)   who is not an Australian citizen, or                                           5
+                    (e)   if the Commission is otherwise satisfied that it is not in the public          6
+                          interest for the person to be registered.                                      7
+
+             (5)    The regulations may—                                                                 8
+                    (a) exempt a lobbyist from the requirement to be registered, and                     9
+                    (b) prescribe circumstances in which a person is taken to not be a fit and          10
+                          proper person.                                                                11
+
+       10    Term of registration                                                                       12
+
+                    A lobbyist’s registration remains in force for a period of 3 years unless—          13
+                    (a) surrendered by the lobbyist under section 11, or                                14
+                    (b) cancelled by the Commission under section 11A.                                  15
+
+       11    Surrender of registration                                                                  16
+
+                    A lobbyist may surrender the lobbyist’s registration by written notice to the       17
+                    Commission.                                                                         18
+
+     11A     Cancellation of registration                                                               19
+
+             (1)    The Commission may cancel a lobbyist’s registration—                                20
+                    (a) if the Commission is satisfied the lobbyist has contravened this Act, the       21
+                         regulations or the Lobbying Code of Conduct, or                                22
+                    (b) if the lobbyist is no longer eligible, under section 9, to be registered, or    23
+                    (c) if the lobbyist fails to update the information in the Register when            24
+                         required to do so, or                                                          25
+                    (d) if the lobbyist no longer carries on the business of lobbying, or               26
+                    (e) in circumstances prescribed by the regulations.                                 27
+
+             (2)    If a lobbyist’s registration is cancelled under this section, the lobbyist is not   28
+                    entitled to a refund of a fee paid under this Act.                                  29
+
+             (3)    If the Commission cancels the registration of a lobbyist under subsection           30
+                    (1)(a), the Commission may set a period, not longer than 5 years, during which      31
+                    the lobbyist may not apply for registration (a disqualification period).            32
+
+     11B     Information in Register                                                                    33
+
+             (1)    The following information must be included in the Register for each                 34
+                    lobbyist—                                                                           35
+                     (a) the name and business contact details of the lobbyist,                         36
+                    (b) the names of other lobbyists engaged to undertake lobbying for the              37
+                          lobbyist,                                                                     38
+                     (c) for a lobbyist that is a body corporate—the names of the persons having        39
+                          a management, financial or other interest, of a kind prescribed by the        40
+                          regulations, in the lobbyist,                                                 41
+                    (d) the names of the persons who have retained the lobbyist to provide, or          42
+                          for whom the lobbyist has provided, lobbying services,                        43
+
+
+
+
+Page 11
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                      (e)   whether or not the lobbyist is currently registered,                           1
+                      (f)   the information prescribed by the regulations.                                 2
+
+             (2)      A lobbyist must update the information in the Register in the way and at the         3
+                      times prescribed by the regulations.                                                 4
+                      Maximum penalty—20 penalty units.                                                    5
+
+             (3)      The Commission may, at the request of a lobbyist, exclude information from           6
+                      the publicly available copy of the Register if the Commission—                       7
+                       (a) has obtained written advice from the Privacy Commissioner and the               8
+                            Advisory Board, and                                                            9
+                      (b) is satisfied there is an overriding public interest against disclosure of the   10
+                            information within the meaning of the Government Information (Public          11
+                            Access) Act 2009, section 13.                                                 12
+
+             (4)      The Register must include a list of all lobbyists for whom registration has been    13
+                      cancelled under section 11A that includes the following—                            14
+                      (a) the fact that the lobbyist’s registration has been cancelled under section      15
+                            11A,                                                                          16
+                      (b) the reasons for the cancellation,                                               17
+                      (c) if the Commission has set a disqualification period for the lobbyist—the        18
+                            length of the disqualification period.                                        19
+
+             (5)      Information must be kept in the Register for at least 2 years after the lobbyist    20
+                      ceases to be registered or a longer period prescribed by the regulations.           21
+
+[14]   Section 12 Lobbyists Watch List                                                                    22
+
+       Omit “third-party or other” from section 12(1).                                                    23
+
+[15]   Section 12(1)                                                                                      24
+
+       Omit “Lobbyists Code”.                                                                             25
+
+       Insert instead “Lobbying Code of Conduct”.                                                         26
+
+[16]   Sections 12(3) and 20(1)(a)                                                                        27
+
+       Omit “Lobbyists Register” wherever occurring.                                                      28
+
+       Insert instead “Register”.                                                                         29
+
+[17]   Parts 6–6C                                                                                         30
+
+       Omit Part 6.                                                                                       31
+
+       Insert instead—                                                                                    32
+
+
+       Part 6         Lobbying exclusion period                                                           33
+
+       18    Definitions                                                                                  34
+
+                      In this part—                                                                       35
+                      exclusion period, for a restricted individual, means 4 years immediately after      36
+                      the restricted individual ceases to hold the office or position in relation to      37
+                      which the person is a restricted individual.                                        38
+                      restricted individual means the following—                                          39
+                       (a) a former senior public official,                                               40
+
+
+
+
+Page 12
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                    (b)    another person prescribed by the regulations.                                1
+
+     18A     Restriction during exclusion period                                                        2
+
+                    During a restricted individual’s exclusion period the restricted individual must    3
+                    not lobby, or knowingly participate in lobbying, a public official.                 4
+                    Maximum penalty—200 penalty units.                                                  5
+
+     18B     Register of restricted individuals                                                         6
+
+             (1)    The Commission must keep a register of restricted individuals.                      7
+
+             (2)    The register of restricted individuals must be—                                     8
+                    (a) kept in accordance with the regulations, and                                    9
+                    (b) publicly available free of charge in a searchable document on the              10
+                          Commission’s website.                                                        11
+
+     18C     Regulations                                                                               12
+
+                    The regulations may make provision for the following—                              13
+                    (a) activities that are or are not lobbying for this part,                         14
+                    (b) the exemption of persons from the restriction imposed by this part either      15
+                          with or without conditions.                                                  16
+
+
+      Part 6A Disclosures                                                                              17
+
+
+      Division 1           Preliminary                                                                 18
+
+     18D     Definitions                                                                               19
+
+                    In this part—                                                                      20
+                    appointment diary means an official record of meetings, appointments and           21
+                    engagements whether kept in hard copy or electronically.                           22
+                    meeting includes a political fundraising event at which the lobbyist, or the       23
+                    lobbyist’s client, makes a payment for a form of private or exclusive access       24
+                    with a public official.                                                            25
+                    payment means the following—                                                       26
+                     (a) a fee or charge,                                                              27
+                    (b) a donation or contribution whether by money or another type of                 28
+                           consideration,                                                              29
+                     (c) payment for hospitality above the amount prescribed by the regulations,       30
+                    (d) other hospitality, including tickets to sporting or cultural events,           31
+                     (e) another type of payment or benefit prescribed by the regulations.             32
+                    prohibited donor has the same meaning as in the Electoral Funding Act 2018,        33
+                    Part 3, Division 7.                                                                34
+
+      Division 2           Disclosures by lobbyists                                                    35
+
+     18E     Disclosures by lobbyists                                                                  36
+
+             (1)    A registered lobbyist must, within 7 days after the end of each month, give the    37
+                    Commission the following information—                                              38
+                    (a) for each meeting or communication with a public official for the               39
+                          purpose of lobbying the public official—                                     40
+
+
+
+Page 13
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                            (i)  the date of the meeting or communication,                             1
+                           (ii)  for a meeting—the location of the meeting,                            2
+                          (iii)  the names and roles of the public officials involved,                 3
+                          (iv)   the name of the person or entity on whose behalf the lobbying         4
+                                 was undertaken,                                                       5
+                          (v) a description of the purpose and intended outcome of the                 6
+                                 lobbying,                                                             7
+                    (b)   other information prescribed by the regulations.                             8
+
+             (2)    The information must be given to the Commission in the way and in the form         9
+                    determined by the Commission.                                                     10
+
+     18F     Information must be publicly available                                                   11
+
+                    The Commission must, within 14 days after the end of each month, make the         12
+                    information received in returns under this division publicly available and free   13
+                    of charge in a single searchable document on the Commission’s website.            14
+
+      Division 3          Disclosures by senior public officials                                      15
+
+     18G     Diary entries                                                                            16
+
+             (1)    A senior public official must, for each meeting or communication with a           17
+                    lobbyist, make a record of the meeting or communication in the official’s         18
+                    appointment diary.                                                                19
+
+             (2)    Each entry must include the following—                                            20
+                    (a) the name of the lobbyist,                                                     21
+                    (b) the identity of the lobbyist’s client,                                        22
+                    (c) the subject of the lobbying activity,                                         23
+                    (d) the date, time and duration of the meeting or communication,                  24
+                    (e) if the lobbyist, or another person on the lobbyists behalf, paid for the      25
+                          meeting or communication—                                                   26
+                           (i) the amount paid, and                                                   27
+                          (ii) who made the payment, and                                              28
+                         (iii) who received the payment,                                              29
+                    (f) for an in-person meeting or communication—                                    30
+                           (i) the location of the meeting or communication, and                      31
+                          (ii) the names of all other persons present and involved in the             32
+                                meeting or communication,                                             33
+                    (g) for an electronic meeting or communication—                                   34
+                           (i) the electronic medium used for the meeting or communication,           35
+                                and                                                                   36
+                          (ii) the names of all other persons involved in the meeting or              37
+                                communication,                                                        38
+                    (h) other information prescribed by the regulations.                              39
+
+     18H     Communications with prohibited donors                                                    40
+
+             (1)    A senior public official who meets or communicates with a prohibited donor        41
+                    about a restricted matter must—                                                   42
+
+
+
+
+Page 14
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                    (a)   record the meeting or communication in the official’s appointment             1
+                          diary, and                                                                    2
+                    (b)   within 24 hours after the meeting or communication, give the                  3
+                          Commissioner written notice, in the way and the form determined by            4
+                          the Commissioner, of the meeting or communication.                            5
+
+             (2)    Each recording must include the following—                                          6
+                    (a) the name of the prohibited donor,                                               7
+                    (b) the subject of the meeting or communication,                                    8
+                    (c) the date, time and duration of the meeting or communication,                    9
+                    (d) for an in-person meeting or communication—                                     10
+                           (i) the location of the meeting or communication, and                       11
+                          (ii) the names of all other person present and involved in the meeting       12
+                                or communication,                                                      13
+                    (e) for an electronic contact—                                                     14
+                           (i) the electronic medium used for the meeting or communication,            15
+                                and                                                                    16
+                          (ii) the names of all other persons involved in the meeting or               17
+                                communication,                                                         18
+                    (f) other information prescribed by the regulations.                               19
+
+             (3)    In this section—                                                                   20
+                    restricted matter means the following—                                             21
+                     (a) for a property developer—matters related to the commercial or                 22
+                           residential development of land,                                            23
+                    (b) for a tobacco industry business entity—matters related to the                  24
+                           manufacturing or sale of tobacco products,                                  25
+                     (c) for a liquor or gambling industry business entity—matters related to the      26
+                           following—                                                                  27
+                            (i) the manufacturing or sale of liquor products,                          28
+                           (ii) wagering, betting or other gambling, including manufacturing of        29
+                                  machines used for gambling.                                          30
+
+      18I    Diary must be made publicly available                                                     31
+
+             (1)    A senior public official must, within 7 days after the end of each month, give     32
+                    the Commission a copy, in the form determined by the Commission, of the            33
+                    official’s appointment diary.                                                      34
+
+             (2)    The Commission must, within 14 days after the end of each month, make the          35
+                    information received from the appointment diaries of senior public officials       36
+                    publicly available, free of charge, in a single searchable document on the         37
+                    Commission’s website that displays alongside each entry the name of the            38
+                    senior public official to whom the entry relates.                                  39
+
+
+      Part 6B Other duties of public officials and agencies                                            40
+
+      18J    Duty of senior public officials to consult widely                                         41
+
+             (1)    A senior public official who is lobbied about a matter must, before making a       42
+                    decision relating to the matter, make a reasonable effort to obtain and consider   43
+                    the views of a broad and diverse range of stakeholders.                            44
+
+
+
+
+Page 15
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+             (2)    Senior public officials must keep records of the following—                        1
+                    (a) the efforts made to obtain stakeholder views,                                  2
+                    (b) the stakeholder views that were obtained.                                      3
+
+     18K     Duty of agencies                                                                          4
+
+             (1)    The head of a government sector agency must adopt and make publicly                5
+                    available policies and procedures that provide guidance for the officers and       6
+                    staff of the agency, and for persons interacting with the agency, about            7
+                    compliance with this Act and the Lobbying Code of Conduct.                         8
+
+             (2)    The head of a government sector agency must consult the Commission when            9
+                    developing policies and procedures under this section.                            10
+
+             (3)    In this section—                                                                  11
+                    government sector agency has the same meaning as in the Government Sector         12
+                    Employment Act 2013.                                                              13
+
+
+      Part 6C Enforcement                                                                             14
+
+
+      Division 1           Preliminary                                                                15
+
+     18L     Definitions                                                                              16
+
+                    In this part—                                                                     17
+                    authorised person means an authorised person appointed in accordance with         18
+                    section 18M.                                                                      19
+                    complaint means a complaint made under Part 1C.                                   20
+                    related complaint, in relation to a complaint (the first complaint) means a       21
+                    complaint about—                                                                  22
+                     (a) the person the subject of the first complaint, or                            23
+                    (b) if the first complaint is about a registered lobbyist (the first lobbyist)—   24
+                            about another registered lobbyist who—                                    25
+                             (i) employs the first lobbyist, or                                       26
+                            (ii) is employed by the first lobbyist, or                                27
+                           (iii) works for the same lobbying business or other organisation as the    28
+                                  first lobbyist.                                                     29
+
+     18M     Authorised persons                                                                       30
+
+             (1)    The Commission may appoint the following persons as authorised persons for        31
+                    this part—                                                                        32
+                     (a) a member of staff of the Commission,                                         33
+                    (b) a person prescribed by the regulations.                                       34
+
+             (2)    An authorised person must be given a certificate of authority signed by the       35
+                    Commissioner.                                                                     36
+
+             (3)    When exercising a function of an authorised person under this Act, the            37
+                    authorised person must, if requested to do so by a person affected by the         38
+                    exercise of the function, produce the authorised person’s certificate of          39
+                    authority for inspection by the person, unless it would defeat the purpose for    40
+                    which the function is exercised.                                                  41
+
+
+
+
+Page 16
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+      Division 2          Investigations                                                              1
+
+     18N     Purpose of investigations                                                                2
+
+                    The purpose of an investigation by the Commission is to obtain information        3
+                    concerning a complaint and to determine whether action should be taken by         4
+                    the Commission and, if so, what action.                                           5
+
+     18O     Conduct of investigations                                                                6
+
+             (1)    An investigation must be conducted as efficiently and expeditiously as            7
+                    reasonably practicable.                                                           8
+
+             (2)    The Commission may, if satisfied it is reasonably practicable and appropriate     9
+                    in all the circumstances, conduct an investigation of related complaints         10
+                    concurrently.                                                                    11
+
+             (3)    In investigating a complaint about a person, the Commission must have regard     12
+                    to other related complaints, whether or not the related complaints have          13
+                    previously been investigated, to the extent the Commission considers the         14
+                    related complaints to be relevant.                                               15
+
+     18P     Powers of entry, search and seizure                                                     16
+
+             (1)    An authorised person may, for the purpose of investigating a complaint, do the   17
+                    following—                                                                       18
+                     (a) enter and inspect premises at a reasonable time,                            19
+                    (b) examine, seize, keep or remove equipment the authorised person               20
+                          reasonably believes is, has been or may be used in connection with the     21
+                          complaint,                                                                 22
+                     (c) require a person in the premises to produce records in the possession or    23
+                          under the control of the person relating to the complaint,                 24
+                    (d) take copies of, or extracts or notes from, records, or remove the records    25
+                          to facilitate the taking copies of, or notes from, the records,            26
+                     (e) require a person at the premises to answer questions,                       27
+                     (f) require the owner or occupier of premises entered under this section to     28
+                          provide the authorised person with the assistance and facilities           29
+                          reasonably necessary to enable the authorised person to exercise the       30
+                          authorised person’s functions under this section.                          31
+
+             (2)    If an authorised person removes records to take copies of, or notes from, the    32
+                    records, the records must be returned to the owner of the records as soon as     33
+                    practicable.                                                                     34
+
+     18Q     Consent or search warrant required for residential premises                             35
+
+                    An authorised person must not enter a part of premises used solely for           36
+                    residential purposes and exercise a function under section 18P except—           37
+                     (a) with the consent of the occupier of the premises, or                        38
+                    (b) under the authority of a search warrant.                                     39
+
+     18R     Search warrant                                                                          40
+
+             (1)    An authorised person may apply to an authorised officer for a search warrant     41
+                    if the authorised person believes on reasonable grounds that entry to premises   42
+                    is necessary for investigating a complaint.                                      43
+
+
+
+
+Page 17
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+             (2)    An authorised officer to whom an application is made under this section may,           1
+                    if satisfied there are reasonable grounds for doing so, issue a search warrant         2
+                    authorising an authorised person named in the search warrant to enter the              3
+                    premises and to exercise there the functions of an authorised person under             4
+                    section 18P.                                                                           5
+
+             (3)    The Law Enforcement (Powers and Responsibilities) Act 2002, Part 5,                    6
+                    Division 4 applies to a search warrant issued under this section.                      7
+
+             (4)    In this section—                                                                       8
+                    authorised officer has the same meaning as in the Law Enforcement (Powers              9
+                    and Responsibilities) Act 2002.                                                       10
+
+     18S     Power of Commission to obtain information, records and evidence                              11
+
+             (1)    If the Commission is investigating a complaint and is reasonably satisfied that       12
+                    a person is capable of giving information, documents or evidence that would           13
+                    assist in the investigation, the Commission may, by written notice given to the       14
+                    person, require the person to do one or more of the following—                        15
+                     (a) give the Commission information, of which the person has knowledge,              16
+                            within the reasonable time, and in the way, specified in the notice,          17
+                    (b) give the Commission, in the reasonable time specified in the notice, the          18
+                            documents specified in the notice,                                            19
+                     (c) appear before the Commissioner or a member of staff of the                       20
+                            Commission authorised by the Commissioner at the time and place               21
+                            specified in the notice that is reasonable and give evidence, either orally   22
+                            or in writing, and produce the documents specified in the notice.             23
+
+             (2)    Information and documents may be given to the Commission in compliance                24
+                    with this section despite another Act or law.                                         25
+
+             (3)    A person who is subject to a requirement under this section must not, without         26
+                    reasonable excuse, fail to comply with the requirement.                               27
+                    Maximum penalty—200 penalty units.                                                    28
+
+     18T     Protection from incrimination                                                                29
+
+             (1)    A person is not excused from a requirement under section 18S on the ground            30
+                    that the information, answer or document might incriminate the person or              31
+                    make the person liable to a penalty.                                                  32
+
+             (2)    Information or an answer given by an individual is not admissible in evidence         33
+                    against the person in any civil or criminal proceedings if—                           34
+                     (a) the person objected at the time to giving the information or answer on           35
+                          the ground that the information or answer might incriminate the person,         36
+                          or                                                                              37
+                    (b) the person was not warned that the person may object to giving the                38
+                          information or answer on the ground that it might incriminate the               39
+                          person.                                                                         40
+
+             (3)    The Commission, the Commissioner or a member of staff of the Commission               41
+                    cannot be required to produce, in connection with civil or criminal                   42
+                    proceedings, a document containing information or an answer obtained as a             43
+                    result of a requirement under section 18S if the information or answer is not         44
+                    admissible in evidence in those proceedings because of this section.                  45
+
+
+
+
+Page 18
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+[18]   Section 19                                                                                      1
+       Omit sections 19 and 19A.                                                                       2
+
+       Insert instead—                                                                                 3
+
+       19    Commission must give notice and reasons for adverse decision                              4
+
+             (1)    If the Commission makes an adverse decision about a lobbyist, the                  5
+                    Commission must give the lobbyist—                                                 6
+                     (a) written notice of the decision, and                                           7
+                    (b) reasons for the decision.                                                      8
+
+             (2)    The Commission must publish notice of, and the reasons for, an adverse             9
+                    decision on the Commission’s website.                                             10
+
+             (3)    Subsection (2) does not apply if the Commission is satisfied there is an          11
+                    overriding public interest against disclosure within the meaning of the           12
+                    Government Information (Public Access) Act 2009.                                  13
+
+             (4)    In this section—                                                                  14
+                    adverse decision means the following—                                             15
+                     (a) a decision to refuse to register a lobbyist,                                 16
+                    (b) a decision to cancel or suspend the registration of a lobbyist,               17
+                     (c) a decision to set a disqualification period for the lobbyist,                18
+                    (d) a decision to place the name of a lobbyist on the Lobbyists Watch List.       19
+
+[19]   Section 21                                                                                     20
+
+       Omit the section.                                                                              21
+
+       Insert instead—                                                                                22
+
+       21    Regulations                                                                              23
+
+             (1)    The Governor may make regulations, not inconsistent with this Act, for or         24
+                    with respect to a matter that by this Act is required or permitted to be          25
+                    prescribed or that is necessary or convenient to be prescribed for carrying out   26
+                    or giving effect to this Act.                                                     27
+
+             (2)    The Minister may only recommend the making of a regulation under the              28
+                    following sections with the concurrence of the Advisory Board—                    29
+                     (a) section 4G(b),                                                               30
+                    (b) section 9(5),                                                                 31
+                     (c) section 11A(1)(e),                                                           32
+                    (d) section 18C.                                                                  33
+
+[20]   Section 22                                                                                     34
+
+       Omit the section.                                                                              35
+
+       Insert instead—                                                                                36
+
+       22    Proceedings for offences                                                                 37
+
+             (1)    Proceedings for an offence under this Act or the regulations may be dealt with    38
+                    summarily before—                                                                 39
+                    (a) the Local Court, or                                                           40
+
+
+
+
+Page 19
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                     (b)   the Supreme Court in its summary jurisdiction.                                 1
+
+              (2)   If proceedings are brought in the Local Court, the maximum monetary penalty           2
+                    the Court may impose for the offence is 200 penalty units, despite any higher         3
+                    maximum monetary penalty provided for the offence.                                    4
+
+              (3)   Proceedings for an offence against this Act or the regulations must be                5
+                    commenced within 3 years after the offence was committed.                             6
+
+[21]   Section 23A                                                                                        7
+
+       Insert after section 23—                                                                           8
+
+       23A    Proof of certain matters not required                                                       9
+
+                    In legal proceedings, proof is not required, unless prima facie evidence is          10
+                    given to the contrary, of the following—                                             11
+                     (a) the constitution of the Commission,                                             12
+                    (b) the appointment of, or holding of office by, the Commissioner or a               13
+                          member of staff of the Commission,                                             14
+                     (c) the appointment of an authorised person.                                        15
+
+[22]   Schedules 2 and 3                                                                                 16
+
+       Insert after Schedule 1—                                                                          17
+
+
+       Schedule 2              Provisions relating to Commissioner                                       18
+
+                                                                                           section 4B    19
+
+          1   Term of office                                                                             20
+
+              (1)   The Commissioner holds office for the term, not more than 5 years, specified         21
+                    in the Commissioner’s instrument of appointment and is eligible, if otherwise        22
+                    qualified, for re-appointment.                                                       23
+
+              (2)   A person is not eligible to be appointed for more than 2 terms of office as          24
+                    Commissioner, whether or not consecutive terms.                                      25
+
+          2   Full-time office                                                                           26
+
+                    The office of Commissioner is a full-time office and the holder of the office is     27
+                    required to hold it on that basis, except to the extent permitted by the Minister.   28
+
+          3   Employment and remuneration                                                                29
+
+                    The Commissioner is entitled to be paid—                                             30
+                    (a) remuneration in accordance with the Statutory and Other Offices                  31
+                         Remuneration Act 1975, and                                                      32
+                    (b) the travelling and subsistence allowances the Minister decides from              33
+                         time to time.                                                                   34
+
+          4   Vacancy in office                                                                          35
+
+              (1)   The office of Commissioner becomes vacant if the holder—                             36
+                    (a) dies, or                                                                         37
+                    (b) completes a term of office and is not re-appointed, or                           38
+                    (c) resigns the office by written notice to the Minister, or                         39
+                    (d) becomes personally insolvent, or                                                 40
+
+
+
+Page 20
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                    (e)    becomes a mentally incapacitated person, or                                 1
+                    (f)    is convicted—                                                               2
+                            (i) in New South Wales of an offence punishable by imprisonment            3
+                                 for 12 months or more, or                                             4
+                           (ii) elsewhere of an offence that, if committed in New South Wales,         5
+                                 would be an offence punishable by imprisonment for 12 months          6
+                                 or more, or                                                           7
+                    (g)    is removed from office under clause 5.                                      8
+
+              (2)   If the office of Commissioner becomes vacant, a person must, subject to this       9
+                    Act, be appointed to fill the vacancy.                                            10
+
+          5   Removal from office                                                                     11
+
+              (1)   The Governor may remove the Commissioner from office, but only for                12
+                    incompetence, incapacity or misbehaviour.                                         13
+
+              (2)   The Commissioner cannot be removed from office under the Government               14
+                    Sector Employment Act 2013, Part 6.                                               15
+
+          6   Commissioner not Public Service employee                                                16
+
+                    The office of Commissioner is a statutory office and the provisions of the        17
+                    Government Sector Employment Act 2013 relating to the employment of               18
+                    Public Service employees do not apply to the office.                              19
+
+
+      Schedule 3               Provisions relating to Advisory Board                                  20
+
+                                                                                         section 4J   21
+
+          1   Definition                                                                              22
+
+                    In this schedule—                                                                 23
+                    member means a member of the Advisory Board.                                      24
+
+          2   Term of office                                                                          25
+
+              (1)   A member holds office for the term, not more than 5 years, specified in the       26
+                    member’s instrument of appointment and is eligible, if otherwise qualified, for   27
+                    re-appointment.                                                                   28
+
+              (2)   A member must not hold office for a total of more than 10 years.                  29
+
+          3   Remuneration                                                                            30
+
+                    A member is entitled to be paid the remuneration determined by the Minister       31
+                    in accordance with the regulations.                                               32
+
+          4   Vacancy in office                                                                       33
+
+              (1)   The office of a member becomes vacant if the member—                              34
+                    (a) dies, or                                                                      35
+                    (b) completes a term of office and is not re-appointed, or                        36
+                    (c) resigns the office by written notice to the Minister, or                      37
+                    (d) becomes personally insolvent, or                                              38
+                    (e) becomes a mentally incapacitated person, or                                   39
+                    (f) is convicted—                                                                 40
+
+
+
+
+Page 21
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 1 Amendment of Lobbying of Government Officials Act 2011 No 5
+
+
+
+                           (i)  in New South Wales of an offence that is punishable by              1
+                                imprisonment for 12 months or more, or                              2
+                          (ii) elsewhere of an offence that, if committed in New South Wales,       3
+                                would be an offence punishable by imprisonment for 12 months        4
+                                or more, or                                                         5
+                    (g)   is removed from office by the Minister.                                   6
+
+             (2)    If the office of a member becomes vacant, a person must, subject to this Act,   7
+                    be appointed to fill the vacancy.                                               8
+
+
+
+
+Page 22
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 2 Amendment of Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014
+
+
+
+Schedule 2             Amendment of Lobbying of Government Officials                                    1
+                       (Lobbyists Code of Conduct) Regulation 2014                                      2
+
+ [1]   Clause 1 Name of Regulation                                                                      3
+
+       Omit “Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014”.             4
+
+       Insert instead “Lobbying of Public Officials (Lobbying Code of Conduct) Regulation 2014”.        5
+
+ [2]   Clause 3 Definition                                                                              6
+
+       Omit “Lobbying of Government Officials Act 2011” from the definition of the Act.                 7
+
+       Insert instead “Lobbying of Public Officials Act 2011”.                                          8
+
+ [3]   Clause 3A, heading                                                                               9
+
+       Omit “third-party”.                                                                             10
+
+ [4]   Clause 3A(1)                                                                                    11
+
+       Omit “third-party”.                                                                             12
+
+ [5]   Clause 3B                                                                                       13
+
+       Insert after clause 3A—                                                                         14
+
+       3B    Lobbyist exempt from registration—the Act, s 9(5)(a)                                      15
+
+             (1)    A lobbyist is exempt from registration if the lobbyist—                            16
+                    (a) is not a prohibited donor, and                                                 17
+                    (b) operates on a not-for-profit basis.                                            18
+
+             (2)    In this clause—                                                                    19
+                    prohibited donor has the same meaning as in the Electoral Funding Act 2018,        20
+                    Part 3, Division 7.                                                                21
+
+ [6]   Clause 4, heading                                                                               22
+
+       Omit “NSW Lobbyists”.                                                                           23
+
+       Insert instead “Lobbying”.                                                                      24
+
+ [7]   Clause 4                                                                                        25
+
+       Omit “code of conduct for third-party and other lobbyists”.                                     26
+
+       Insert instead “Lobbying Code of Conduct”.                                                      27
+
+ [8]   Clause 4A, heading                                                                              28
+
+       Omit “Lobbyists” and “third-party”.                                                             29
+
+ [9]   Clause 4A                                                                                       30
+
+       Omit “the purposes of section 10 (1) (c) of the Act”.                                           31
+
+       Insert instead “the Act, section 11B(1)(c)”.                                                    32
+
+[10]   Clause 4A                                                                                       33
+
+       Omit “third-party”.                                                                             34
+
+
+
+
+Page 23
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 2 Amendment of Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014
+
+
+[11]   Clause 4B, heading                                                                               1
+       Omit “Lobbyists Register: section 10 (1) (e) of Act”.                                            2
+
+       Insert instead “Register—the Act, section 11B(1)(f)”.                                            3
+
+[12]   Clause 4B(1)                                                                                     4
+
+       Omit “the purposes of section 10 (1) (e) of the Act, the following information is prescribed     5
+       in relation to a registered third-party”.                                                        6
+
+       Insert instead “the Act, section 11B(1)(f), the following information is prescribed for a”.      7
+
+[13]   Clauses 5 and 6                                                                                  8
+
+       Omit clauses 5–7.                                                                                9
+
+       Insert instead—                                                                                 10
+
+          5   Updating the Register                                                                    11
+
+              (1)    For the Act, section 11B(2), a registered lobbyist must update information in     12
+                     the Register within 10 business days after a change to the information.           13
+
+              (2)    A registered lobbyist must, on 31 January, 31 May and 30 September each           14
+                     year, give the Commission the following in the way and the form determined        15
+                     by the Commission—                                                                16
+                     (a) confirmation that the information about the lobbyist in the Register is       17
+                            current,                                                                   18
+                     (b) the other information about the lobbyist, including information that may      19
+                            be required in an application for registration, required by the approved   20
+                            form.                                                                      21
+
+          6   Period for which information must be kept in the Register                                22
+
+                     For the Act, section 11B(5), information must be kept in the Register for a       23
+                     minimum of 2 years after a lobbyist ceases to be registered.                      24
+
+[14]   Schedule 1                                                                                      25
+
+       Omit the schedule.                                                                              26
+
+       Insert instead—                                                                                 27
+
+
+       Schedule 1             Lobbying Code of Conduct—the Act, s 5                                    28
+
+                                                                                            clause 4   29
+
+       Part 1        Preliminary                                                                       30
+
+          1   Name                                                                                     31
+
+                     This is the Lobbying Code of Conduct 2026.                                        32
+
+          2   Definitions                                                                              33
+
+                     In this code—                                                                     34
+                     communicate includes communicate in person, in writing, by telephone, email       35
+                     or other electronic means.                                                        36
+                     foreign principal has the same meaning as in the Foreign Influence                37
+                     Transparency Scheme Act 2018 of the Commonwealth.                                 38
+
+
+
+
+Page 24
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 2 Amendment of Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014
+
+
+
+                    lobbying meeting means a meeting or other communication for the purpose of          1
+                    lobbying a public official.                                                         2
+                    meeting with a public official, means a meeting held in person or by electronic     3
+                    means.                                                                              4
+                    planning application means an application or request by a person, other than        5
+                    a public authority, within the meaning of the Environmental Planning and            6
+                    Assessment Act 1979—                                                                7
+                     (a) to initiate the making of an environmental planning instrument or plan         8
+                          under the Environmental Planning and Assessment Act 1979 in relation          9
+                          to a development, project or activity on a particular site, or               10
+                    (b) for consent to, or approval of, a development, project or activity under       11
+                          the Environmental Planning and Assessment Act 1979 or for the                12
+                          modification of a consent or approval.                                       13
+                    Register means the Register of lobbyists established under the Lobbying of         14
+                    Public Officials Act 2011.                                                         15
+
+          3   Application                                                                              16
+
+                    This code applies to—                                                              17
+                    (a) lobbyists, and                                                                 18
+                    (b) public officials who are lobbied.                                              19
+
+          4   Purpose                                                                                  20
+
+                    This code sets out the ethical standards of conduct and other requirements to      21
+                    be observed to promote transparency, integrity and honesty, by—                    22
+                    (a) lobbyists, and                                                                 23
+                    (b) public officials who are lobbied.                                              24
+
+
+      Part 2        Standards of conduct for lobbyists                                                 25
+
+          5   Lobbyist must be registered                                                              26
+
+                    A lobbyist must not meet or otherwise communicate with a public official for       27
+                    the purpose of lobbying, unless—                                                   28
+                     (a) the lobbyist is registered, and                                               29
+                    (b) the information about the lobbyist in the Register is accurate and             30
+                          current.                                                                     31
+
+          6   Lobbyist must disclose information about client                                          32
+
+              (1)   A lobbyist must disclose the following to a public official being lobbied—         33
+                    (a) that the lobbyist is acting as a lobbyist,                                     34
+                    (b) the identity of the individuals or entities whose interests the lobbyist is    35
+                          representing,                                                                36
+                    (c) if the lobbyist is representing the interests of a foreign principal—          37
+                           (i) that the individual or entity being represented is a foreign            38
+                                principal, and                                                         39
+                          (ii) the foreign principal’s country.                                        40
+
+              (2)   The information must be disclosed before a lobbying meeting is held.               41
+
+
+
+
+Page 25
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 2 Amendment of Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014
+
+
+          7   Lobbyist must disclose matter to be discussed at proposed meeting                            1
+                    A lobbyist who seeks a lobbying meeting with a public official must, before            2
+                    the meeting, disclose to the official the nature of the matter to be discussed.        3
+
+          8   Lobbyist must disclose interest in matters discussed at meeting                              4
+
+              (1)   A lobbyist who has a lobbying meeting with a public official must, before the          5
+                    meeting commences, disclose to the official a financial or other interest the          6
+                    lobbyist has in the matter to be discussed at the meeting.                             7
+
+              (2)   A lobbyist must not lobby on a matter relating to the functions of a NSW               8
+                    Government board or committee if—                                                      9
+                    (a) the lobbyist’s client is a member of the board or committee, or                   10
+                    (b) the lobbyist is a member of the board or committee.                               11
+
+          9   Lobbyist must not engage in misleading, dishonest or corrupt conduct                        12
+
+                    A lobbyist must not engage in misleading, dishonest, corrupt or other unlawful        13
+                    conduct in connection with a lobbying meeting.                                        14
+
+       10     Lobbyist must provide true and accurate information                                         15
+
+                    A lobbyist must take all reasonable steps to satisfy themselves that all material     16
+                    information provided in connection with a lobbying meeting is true and                17
+                    accurate.                                                                             18
+
+       11     Lobbyist must not exaggerate or misrepresent access to political parties or                 19
+              Government                                                                                  20
+
+                    A lobbyist must not make exaggerated or misleading claims to clients about            21
+                    the nature or extent of the lobbyist’s access to political parties, the               22
+                    Government or Government agencies or to persons associated with political             23
+                    parties, the Government or Government agencies.                                       24
+
+       12     Lobbyist must keep party political involvement separate from lobbying                       25
+              activities                                                                                  26
+
+                    A lobbyist must keep the lobbyist’s lobbying activities separate from personal        27
+                    activity or involvement on behalf of a political party.                               28
+
+
+      Part 3        Standards of conduct for public officials                                             29
+
+       13     Public official must consult widely after being lobbied                                     30
+
+                    A public official who is lobbied on a matter must take reasonable steps to            31
+                    consult widely and obtain a broad and diverse set of views on the matter before       32
+                    making a decision or recommendation.                                                  33
+
+       14     Public official must keep records                                                           34
+
+                    A public official who is lobbied on a matter must keep detailed records of the        35
+                    following—                                                                            36
+                     (a) the lobbying,                                                                    37
+                    (b) the consultation undertaken under clause 13.                                      38
+
+       15     Prohibition on gifts and benefits                                                           39
+
+              (1)   A lobbyist must not offer a public official a gift or benefit, either in connection   40
+                    with lobbying activity or otherwise.                                                  41
+
+
+
+
+Page 26
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 2 Amendment of Lobbying of Government Officials (Lobbyists Code of Conduct) Regulation 2014
+
+
+
+             (2)   A public official who is lobbied—                                                    1
+                   (a) must not accept a gift or benefit from the lobbyist or a person associated       2
+                        with the lobbyist, and                                                          3
+                   (b) must immediately notify the Commission that the gift or benefit was              4
+                        offered.                                                                        5
+
+             (3)   Subclause (1) does not apply to a gift or benefit offered in the following           6
+                   circumstances—                                                                       7
+                   (a) the lobbyist is not engaged in lobbying the public official,                     8
+                   (b) the lobbyist and public official have a genuine family or personal               9
+                         relationship.                                                                 10
+
+       16    Public official must report suspected contravention of code                               11
+
+                   A public official who reasonably suspects a lobbyist or another public official     12
+                   has contravened this code must give the Commissioner written notice of the          13
+                   suspected contravention.                                                            14
+
+
+
+
+Page 27
+Lobbying of Government Officials Amendment (Access and Influence) Bill 2026 [NSW]
+Schedule 3 Amendment of Acts
+
+
+
+Schedule 3              Amendment of Acts                                                          1
+
+
+3.1 Independent Commission Against Corruption Act 1988 No 35                                       2
+
+[1]   Section 11 Duty to notify Commission of possible corrupt conduct                             3
+
+      Omit “Crown.” from section 11(1)(e).                                                         4
+
+      Insert instead—                                                                              5
+                          Crown,                                                                   6
+                    (f)   the Lobbying and Integrity Commissioner.                                 7
+
+3.2 Interpretation Act 1987 No 15                                                                  8
+
+[1]   Schedule 4 Dictionary                                                                        9
+
+      Insert in alphabetical order—                                                               10
+                    Lobbying and Integrity Commissioner means the Lobbying and Integrity          11
+                    Commissioner appointed under the Lobbying of Public Officials Act 2011,       12
+                    section 4B.                                                                   13
+
+3.3 Ombudsman Act 1974 No 68                                                                      14
+
+[1]   Section 31BA Power to veto proposed appointments                                            15
+
+      Insert “Lobbying and Integrity Commissioner,” after “Privacy Commissioner,” in section      16
+      31BA(1).                                                                                    17
+
+[2]   Section 31BA(5)(b3)                                                                         18
+
+      Insert after section 31BA(5)(b2)—                                                           19
+                   (b3) in the context of an appointment of the Lobbying and Integrity            20
+                           Commissioner, a reference to the Minister administering the Lobbying   21
+                           of Public Officials Act 2011, section 4B, and                          22
+
+
+
+
+Page 28
+
